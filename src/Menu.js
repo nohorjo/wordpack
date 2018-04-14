@@ -17,14 +17,14 @@ const laguageButtons = lang => (
       <View style={styles.languageButton}>
         <Button
           title="Learn"
-          onPress={navigate.bind(null,"Learn")}
+          onPress={navigate.bind(null, "Learn", { language: lang })}
         />
       </View>
       <View style={styles.languageButton}>
         <Button
           title="Test"
-          onPress={navigate.bind(null,"Test")}
-          />
+          onPress={navigate.bind(null, "Test", { language: lang })}
+        />
       </View>
     </View>
   </View>
