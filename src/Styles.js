@@ -6,13 +6,13 @@ export default StyleSheet.create({
         flex: 1,
     },
     container: {
+        paddingTop: 50,
         justifyContent: 'center',
         alignItems: 'center',
     },
     heading: {
         flex: 1,
-        fontSize: 24,
-        marginTop: 40
+        fontSize: 24
     },
     languageButton: {
         flex: 1,
@@ -46,5 +46,8 @@ export default StyleSheet.create({
     bottomButtons: {
         flex: 1,
         alignItems: "flex-end"
+    },
+    card: {
+        flex: 1
     }
 });
