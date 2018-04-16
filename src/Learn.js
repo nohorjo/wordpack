@@ -36,7 +36,7 @@ export default class Learn extends Component {
             <View style={styles.root}>
                 <View style={[styles.container, styles.card]}>
                     <Text style={styles.heading}>{card.word}</Text>
-                    <TouchableOpacity onPress={() => this.setState(prev => (!prev.showTranslation && { showTranslation: !prev.showTranslation }))}>
+                    <TouchableOpacity onPress={() => this.setState(prev => (!prev.showTranslation && { showTranslation: true }))}>
                         <Text>{this.state.showTranslation ? card.translation : "Tap to show translation"}</Text>
                     </TouchableOpacity>
                 </View>
@@ -57,10 +57,8 @@ export default class Learn extends Component {
                         <Switch
                             value={card.learned}
                             onValueChange={() => {
-                                this.setState(prev => {
-                                    card.learned = !card.learned;
-                                    return prev;
-                                })
+                                card.learned = !card.learned;
+                                this.forceUpdate();
                             }}
                         />
                     </View>
