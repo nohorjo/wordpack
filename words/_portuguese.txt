@@ -58,7 +58,7 @@ casa$cortesia da casa$dar-se muito bem$
 significar$isto é, eu quero dizer$querer fazer algo, ter intenção de fazer algo$estar planejando fazer algo$significar$
 provável$plausível$
 área, zona$área$área$área$
-tornar-se,
+tornar-se, vir a ser$que fim levou…?, por onde anda…?$
 real$verdadeiro, legítimo$verdadeiro$real, verdadeiro$de verdade$
 empresa, companhia$companhia$fazer companhia a alguém$companhia$
 sair, partir$deixar$deixar$deixar$deixar$
@@ -72,7 +72,7 @@ lugar$casa$lugar$lugar$realizar-se$
 sentir-se$sentir, experimentar$achar, sentir$parecer algo$parecer que…/sentir-se como se…$
 fácil$por mim tudo bem$pegar leve$é mais fácil falar do que fazer$
 mão$à mão$ficar de mãos dadas$fora de controle$ponteiro (do relógio)$
-parecer$parece
+parecer$parece que…$
 curto$curto$baixo$curto$curto$
 festa$partido$grupo$
 perguntar (a)$convidar$pedir a alguém que faça algo$pedir (a), perguntar (a)$
@@ -114,7 +114,7 @@ mês$mês$
 progresso$caminho, progresso$caminho$partida$que existe, disponível$
 vermelho$ruivo$ficar vermelho$vermelho$no vermelho$
 lado, lateral$lado$lado$lado$lado$
-ajudar$ajudar$ajudar,
+ajudar$ajudar$ajudar, adiantar, melhorar$servir-se (com algo)$não conseguir/poder evitar algo$
 sinto muito$penalizado$lamentar alguém, ter pena de alguém$arrependido$sinto muito, desculpe-me$
 negócios$empresa$negócios$não ser da conta de alguém$não se meta aonde não é chamado!$
 começar, iniciar$começar, iniciar$princípio, começo, início$
@@ -127,7 +127,7 @@ escrever$escrever (a)$escrever, compor$
 frio$estar com/sentir frio$frio$resfriado$o frio$
 lar, casa$asilo$sentir-se em casa, sentir-se à vontade$para casa, em casa$endereço/número de telefone de casa$
 marcar, fixar, determinar, estabelecer$pôr-se$ambientar$ajustar, regular, programar$libertar alguém$
-pronto,
+pronto, preparado$pronto, preparado$
 pergunta$pergunta$dúvida$questão$estar fora de questão$
 mover(-se), mexer(-se), mudar$mudar-se$emocionar, comover$mudar de casa, mudar-se$mover céus e terras$
 verde$verde$verde$dar o sinal verde a alguém/algo$ter o dedo verde$
@@ -214,7 +214,7 @@ Direito$lei$a lei$por lei$
 cair, tombar$cair$baixar, cair$outono$baixa, queda$
 delgado, fino$magro$ralo$
 cara, face, rosto$lado, mostrador (relógio)$cara a cara$fazer careta$na cara de alguém$
-permanecer,
+permanecer, ficar$restar, ficar$permanecer$
 lento, vagaroso$estar atrasado$lentidão$diminuir a velocidade (de)$
 amigo, -a$amigo, -a virtual$tornar-se amigo de alguém$ser amigo de alguém$adicionar como amigo (virtual)$
 lembrar-se$lembrar-se de fazer algo$
@@ -267,7 +267,7 @@ centro$centro (esportivo, de música, etc.)$ser o centro das atenções$
 gastar, despender$passar$
 grave, duro, severo$severo$com severidade, gravemente$
 número, dígito$forma$silhueta$figura$achar, imaginar$
-voltar,
+voltar, retornar$devolver, responder$retorno a algo$retornar$retorno, volta, regresso$
 vasto$
 sociedade$sociedade$
 desenhar$atrair$mover-se$puxar$aproximar-se$
@@ -277,7 +277,7 @@ morrer$morrer de vontade de ter/fazer algo$
 fraco$fraco, deficiente$frágil$fraco, aguado$fraco$
 cidade, metrópole$
 esperar$esperar fazer algo$esperança$esperança$na esperança de/que$
-
+marrom, castanho$marrom, castanho$
 criar, produzir, inventar$
 doente$sentir-se enjoado$vomitar$ficar doente$estar farto de alguém/algo$
 comunidade$comunidade, colônia$
@@ -346,7 +346,7 @@ força$corpo, força$forçar$forçar$
 áspero, enrugado$aproximado, imperfeito, não detalhado, incompleto$perigoso, violento$bravo, agitado$complicado, difícil$
 pedido, encomenda$ordem$ordem$ordem$avariado, fora de serviço$
 permanecer$hospedar-se, alojar-se$permanecer, ficar$estada$
-absoluto,
+absoluto, completo$
 valor$valor$bom preço$valores$valorizar, dar valor a$
 conter$
 mero, simples, não mais do que$
@@ -408,7 +408,7 @@ apertado, justo$apertado, esticado$firme$firmemente$firmeza$
 morte$super assustado, super entediado, etc.$matar alguém$
 pinçar, escolher$colher$começar uma briga/uma discussão$bater a carteira de alguém$fazer a sua escolha$
 sujo$
-edifício,
+edifício, prédio$construção$
 agradável, simpático$prazerosamente, agradavelmente$
 sentido, sensação$senso, bom senso, juízo$um senso de humor$um senso de humor$sentido$
 discutir, brigar$argumentar$
@@ -503,12 +503,12 @@ desinteressante, chato$apagado, sombrio, pálido$abafado$sem brilho, desanimadam
 palco$estágio$
 evitar$evitar$evitar, eximir-se de$
 solitário$isolado$
-professor,
+professor, -ora$
 expressar, exprimir, manifestar$
 temperado, ameno$suave$suavidade$
 comércio$ofício$indústria$manter acordos comerciais, comercializar$
 supor, imaginar$eu suponho que sim$dever fazer algo, ser para fazer algo$dever fazer algo$ser considerado…, ter a expectativa de ser…, dizem que…$
-informal,
+informal, descontraído, esportivo$casual, sem importância$despreocupado, descuidado$despreocupadamente, descontraidamente$descontração, descuido$
 voz$
 terminar, acabar, concluir$terminar, acabar$acabar com$classificar-se, ser (o primeiro, o segundo, etc.)$final$
 severo, duro$áspero, violento, dissonante, desagradável$com dureza, severamente$
@@ -646,7 +646,7 @@ rir$risada$por farra$
 brilhante$
 ardil, esquema$esquema$tramar$
 
-burro,
+burro, idiota$mudo$sem palavras, estupidamente$
 capítulo$
 ampliar, aumentar$prorrogar, adiar$
 doído, dolorido$dor$ferida, machucado$
@@ -695,12 +695,12 @@ desobediente, malcriado$maldade, perversidade$
 acordo$acordo$
 viajar$viajar, voar$viagens, viagar$
 inclinar-se, apoiar-se$magro, esguio$magro$
-o
+o Senhor$lorde$
 adotar$adotar$
 arriscado$
 contrato$contrair(-se)$
 confirmar$confirmar$
-robusto,
+robusto, sólido$
 quadro, fotografia, imagem$filme$ideia$imagem$o cinema$
 proteger$
 deprimido$tenebroso, sombrio$melancolicamente, tenebrosamente$
@@ -713,11 +713,11 @@ cansado, fatigado$cansadamente, fatigadamente$
 mil, milhar$milhares$
 imaginar$imaginar$imaginar$imaginar$
 tênue$tenuamente$diminuir, abaixar (luz)$
-eleição,
+eleição, eleições$
 tentar$tentativa$
 delicado, difícil, complicado$
 fonte$
-vencer,
+vencer, derrotar$pulsar, bater$espancar$ser melhor do que, bater$bater, surrar$
 repugnante, asqueroso$falta$sujar$cometer falta contra$
 cor$cor (da pele)$colorir$
 nascer$não nasci ontem!$
@@ -768,7 +768,7 @@ abastecer, suprir, fornecer$suprimento, provisão$
 sincero$
 encargo, despesa, tarifa, comissão$ser responsável, estar encarregado$acusação$cobrar$acusar$
 beber, tomar$beber$bebida$bebida alcoólica$
-roliço,
+roliço, rechonchudo$cheio, gordinho, gorducho$
 padrão, padronagem$padrão$receita$
 observar$
 crocante, fresco$frescor, qualidade crocante$batatinha frita (em saco)$
@@ -819,7 +819,7 @@ passado e particípio passado de “think”$ideia$pensamento$
 vigoroso, enérgico$rapidamente, animadamente$vivacidade, atividade$
 região$por volta de…$
 
-atenção$prestar
+atenção$prestar atenção$atrair a atenção de alguém$chamar/atrair a atenção (de alguém) para algo/alguém$
 tempestuoso$
 lista$arrolar, listar, fazer listagem de$
 tocar, mexer em$tocar-se$comover$toque$tato$
@@ -935,7 +935,7 @@ fornecimento, provisão$
 irregular$inconsistente, variável$
 risco$arriscar-se$em perigo$arriscar-se$arriscar$
 colar, grudar$enfiar$grudar, emperrar, travar, empacar$pôr$pau, vara$
-macio
+macio e brilhante, lustroso$
 aprovar, assentir com a cabeça$aceno, sinal de aprovação, movimento afirmativo com a cabeça$
 sujo, encardido$sujeira$
 tarefa$
@@ -951,12 +951,12 @@ defesa$defesa$
 humilde$
 recurso$
 combinar(-se)$
-da
+da última moda, transado, moderno$
 assoalho, chão, piso$piso, andar$pista$
 lidar com, cuidar de, ocupar-se de$manusear$maçaneta, alça, asa, cabo$
 pedregoso$
 ciência$ciência$
-influência$influência$influir
+influência$influência$influir em, influenciar$
 frágil$
 estilo$estilo$
 perceber, dar-se conta$realizar$
@@ -1277,7 +1277,7 @@ a Terra$solo, terra$como, o que, por que, etc.?$
 terno, tailleur$traje$naipe$seguir o exemplo$assentar bem em, cair bem em, ficar bem em$
 
 importância$
-amarrar,
+amarrar, prender$amarrar, fazer (nó)$gravata$
 crocante$
 objeto$objeto$o objetivo de algo$fazer objeções, opor-se$
 ajudar, auxiliar, assistir$
@@ -1331,7 +1331,7 @@ decadente$
 opinião$na minha, sua, etc. opinião$opinião$
 converter(-se), adaptar(-se)$
 organização$organização$
-distinguir$distinguir,
+distinguir$distinguir, destacar$distinguir$
 sonhador, distraído$de sonho$
 requisito, exigência$
 apresentar$alegar$submeter-se, render-se, aceder$
@@ -1365,7 +1365,7 @@ ajuda, auxílio$em prol de alguém/algo$ajudar$
 elenco$escalar, distribuir os papéis$lançar um feitiço em alguém$
 mandão$
 preparativos, planos$arranjo, acordo$
-cozinhar$adulterar
+cozinhar$adulterar a contabilidade$cozinheiro, -a.$muito cacique para pouco índio$
 
 conceito$
 dançar$dança$dança$dança$dança, baile$
@@ -1586,7 +1586,7 @@ agarrar$aproveitar uma oportunidade, agarrar uma oportunidade$
 alocar$alocação$
 justiça$justiça$
 romper, estourar$cair no choro$cair na gargalhada$arder em chamas$
-
+comunicar(-se)$
 pele$casca, pele$ser só pele e osso$
 derrotar, vencer$derrota$
 barco$
@@ -1601,7 +1601,7 @@ apressar-se$estar com pressa$
 visão$visão$imagem$avistar alguém/algo$à vista$
 ferir, machucar$ferido, machucado$
 vinho$
-rezar,
+rezar, orar$
 inverno$
 protesto$protestar$
 dívida$dívida$
@@ -1656,7 +1656,7 @@ convencer$
 navio$
 corresponder$corresponder-se$
 ameaça$
-atrever-se
+atrever-se a fazer algo$desafiar alguém a fazer algo$não se atreva!$como ela, você, etc. ousa$desafio, provocação$
 visitante, visita, turista$
 criar$
 volume$volume$volume, tomo$
@@ -1671,7 +1671,7 @@ modificar$
 motor$
 assassinato$assassinar$
 entrada, ingresso$acesso$verbete, anotação$admissão, participação$inscrição$
-introdução$introdução$introdução,
+introdução$introdução$introdução, iniciação$apresentação$
 dar marcha a ré$reverter$telefonar a cobrar$marcha a ré$reverso, inverso, oposto, contrário$
 maneira, modo$maneira de ser, jeito$boas maneiras, bons modos$
 esfregar$
@@ -1690,7 +1690,7 @@ batida, colisão$estrondo, estrépito$bater, colidir$travar$chocar$
 regulamento$
 perturbar, incomodar$afetar, alterar, perturbar$
 alívio$
-saudar,
+saudar, cumprimentar$
 fila, fileira$fileira$em seguida$remar$discussão$
 vacilar, titubear, hesitar$não pensar duas vezes antes de fazer algo$
 canção$
@@ -1705,7 +1705,7 @@ carga, carregamento$um monte (de)$um monte de$carregar$carregar$
 exposição$
 murmurar, sussurrar$murmúrio$
 futebol$bola de futebol$futebol americano$futebolista, jogador, -ora de futebol$
-deixar,
+deixar, tornar$reproduzir, traduzir$dar, prestar, realizar$rebocar$
 brilhar$brilhar$iluminar com, apontar$
 refeição$
 engolir$andorinha$
@@ -1715,7 +1715,7 @@ tradição$
 traduzir$tradutor, -ora$
 tráfego, trânsito$
 dar, render, fornecer$ceder a algo$produção$
-madeira,
+madeira, lenha$bosque, mato$bate na madeira$bate na madeira$
 acomodar, alojar, comportar$atender a$
 aparência$aparição$aparecimento$
 ponte$bridge$
@@ -1815,7 +1815,7 @@ franzir as sobrancelhas, fechar a cara$carranca, cenho$
 usado para falar sobre o que vai acontecer no futuro$usado para falar sobre o que alguém ou algo está disposto a fazer ou é capaz de fazer$usado para pedir algo a alguém$determinação, vontade$vontade, desejo$
 inventar$inventar$
 marcha, passeata$marchar, fazer uma passeata$marchar$marchar$março$
-consulta,
+consulta, agendamento$cargo, nomeação$
 quarto$
 progresso$em progresso$avanço$progredir, avançar$progredir$
 parte de baixo, fundo, pé$parte de baixo$nível mais baixo, fundo$leito, fundo$nádegas, traseiro$
@@ -1825,7 +1825,7 @@ empresa$iniciativa$
 enrolar, enroscar$torcer, retorcer$serpentear$virada, mudança$torção, giro, torcedura$
 criança, garoto, -a$cabrito$zombar, brincar, caçoar$
 unir$
-meio,
+meio, centro$meio$estar ocupado com algo$central, do meio$
 alocar$
 pescoço$
 fornecer serviço de alimentos e bebidas (para), cozinhar$
@@ -1840,7 +1840,7 @@ antever$imaginar$
 exposição$objeto em exposição$expor, exibir$
 assembleia$assembleia$assembleia$
 (artigo de) exportação$exportar$exportador, -ora$
-nascimento$dar
+nascimento$dar à luz (alguém)$
 extrair$trecho, passagem$
 garrafa, frasco$engarrafar$
 crítica, críticas$
@@ -2045,7 +2045,7 @@ engenharia$
 circular$
 alicerce, base, fundação$
 esclarecer$
-fruta$dar
+fruta$dar frutos$
 indenizar$compensar$
 lago$
 compilar$compilar$
@@ -2074,7 +2074,7 @@ fabricar, manufaturar$fabricação$
 derreter(-se)$
 observação$
 descuidar, negligenciar, desleixar$negligência, omissão, descuido, desleixo$
-despencar$precipitar-se,
+despencar$precipitar-se, cair velozmente$topar a parada$
 passado e particípio passado de “shoot”$tiro$chute$fotografia$como um raio, como um relâmpago$
 clima, ambiente$a atmosfera$
 tranquilizar, confortar$
@@ -2094,7 +2094,7 @@ talo$haste$estancar, por freio em$estancar$
 moda$moda$
 Deus$ai, meu Deus!$graças a Deus$deus$Deus$
 convocar$
-impressão$impressão$ter
+impressão$impressão$ter a impressão que$
 suplemento, taxa adicional$encarte, suplemento$adenda, apêndice$complementar, completar$
 liderança$
 reprimir$conter, ocultar, enfraquecer$
@@ -2131,7 +2131,7 @@ nariz$meter o nariz em algo$não se meter em algo$torcer o nariz para algo$
 dedicar$dedicar$consagrar$
 origem$origem$
 ditar$
-potencial,
+potencial, possível$potencial$
 discordar, divergir$
 telhado, teto$
 criado, servente, empregado, serviçal$
@@ -2176,7 +2176,7 @@ visão$visão$
 sublinhar$enfatizar, assinalar, sublinhar$
 aviso, advertência$
 abuso$abuso$insultos$abuso$abusar, maltratar$
-realização,
+realização, conquista, feito$aproveitamento$
 acumular$acumular$
 particípio presente de “be”$ser, ente, criatura$
 atento$alertar$alerta$
@@ -2233,7 +2233,7 @@ obedecer (a)$
 passageiro, -a$
 penetrar$
 avião$plaina$
-plástico$de
+plástico$de plástico$
 presumir, conjecturar, supor$
 raiz$raizes$
 prevalecer, predominar$prevalecer$
@@ -2481,7 +2481,7 @@ conselheiro, -a, consultor, -ora$
 aeroporto$
 tia$
 banho$banheira$tomar banho, dar banho em$
-químico$substância
+químico$substância química$
 volta$circuito$
 relógio$
 consumo$
@@ -2623,7 +2623,7 @@ teto, forro$
 redação$composição$
 distrito eleitoral, circunscrição, eleitorado$
 déficit$
-partida,
+partida, saída$
 detetive$
 discurso$discurso, dissertação$
 agitação, emoção$
@@ -2632,7 +2632,7 @@ alegria, deleite$alegria$
 limitação$
 local, de bairro$por perto, nas redondezas, localmente$morador, -ora$
 participação$
-fossa,
+fossa, buraco$caroço$poço de mina$
 orgulho$orgulho$deixar o orgulho de lado$
 tempestade, tormenta$
 cume$
@@ -2653,7 +2653,7 @@ escriturário, -a$
 coalizão$
 moeda$
 concerto$
-consciência$perder/retomar
+consciência$perder/retomar a consciência$
 entrave$
 vaca$vaca$
 diário$agenda$
@@ -2668,7 +2668,7 @@ horror$filme/estória de terror$
 criança pequena$
 couro$
 margem$
-
+mamãe$
 objeção$
 ópera$
 paixão$paixão$paixão$
@@ -2899,7 +2899,7 @@ falta, escassez$
 especificação$
 templo$
 terapia$
-membro
+membro do Partido Conservador do Reino Unido$
 torneio$
 brinquedo$
 
@@ -3014,7 +3014,7 @@ instalação$instalação$
 isolamento$
 suco$
 razão, justificativa$
-assassino,
+assassino, -a, matador, -ora$causa de morte$
 liberdade$direitos, privilégios$
 existência, vida$
 merecer$mérito$
@@ -3111,7 +3111,7 @@ comerciante, vendedor, -ora$
 treinador, -ora$tênis$
 bandeja$
 música$melodia$
-professor
+professor particular$dar aulas particulares (a)$
 lã$lã$enganar alguém, passar a perna em alguém$
 acuidade, exatidão, precisão$
 arcebispo$

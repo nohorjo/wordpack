@@ -264,15 +264,15 @@ giai đoạn$kỷ$dấu chấm$theo chu kỳ$định kỳ$
 đòi hỏi; cần phải$dính dáng$phức tạp$sự bao gồm$
 
 
-tiêu,
-gay
+tiêu, chi tiêu$tiêu thời gian, dùng thời giờ$tàn lụi$kiệt sức, mệt lử$người ăn tiêu hoang phí$
+gay go, khốc liệt$khắt khe, gay gắt$giản dị$giản dị, khốc liệt$tính giản dị, khốc liệt$
 
 
-rộng
-xã
+rộng lớn, mênh mông$rộng lớn, mênh mông$
+xã hội$tầng lớp, giai cấp xã hội$đoàn thể, hội$tầng lớp thượng lưu$sự giao du, sự giao thiệp$
 
 
-cảnh
+cảnh sát$cảnh sát$cảnh khuyển$lực lượng cảnh sát$nhân viên cảnh sát$
 
 yếu$thiếu nghị lực$nhạt$thiếu thuyết phục$nhạt nhẽo$
 đô thị$thành phố$
@@ -369,7 +369,7 @@ tự hào$kiêu căng$tự đắc$huy hoàng$một cách tự hào$
 tìm, tìm kiếm$cố gắng đạt được$được tìm kiếm$
 mất trí$rất giận dữ$mê điên dại$một cách điên khùng$sự điên khùng$
 ngành công nghiệp$tính siêng năng$thuộc về công nghiệp$nhà tư bản công nghiệp$công nghiệp hoá$
-chọn,
+chọn, lựa$quyết định$rất ít sự khác biệt giữa$
 
 kiên nhẫn$kiên trì$tính kiên trì$lối đánh bài paxiên$
 
@@ -511,7 +511,7 @@ cho là, rằng$giả định, giả sử$coi như một lời đề nghị$gi�
 hững hờ$thường phục$tình cờ$thất thường$một cách tình cờ$
 
 
-nghiêm
+nghiêm khắc; lỗ mãng$khó nghe; chói mắt$cay nghiệt;$tính thô ráp; tính lỗ mãng$
 
 quyết định$xác định$tính cương quyết$sự quyết định$quyết định$
 hung tợn và giận dữ$mãnh liệt$dữ dội; mãnh liệt$
@@ -965,7 +965,7 @@ trường cao đẳng$
 khuyên$giới thiệu$sự giới thiệu; lời khuyên$lời tiến cử; lời khuyên$
 
 
-sự
+sự la hét, sự hò hét$tiếng gọi, tiếng kêu thét lớn$
 
 phòng đợi$hội trường$toà thị chính$hành lang$ký túc xá$
 
@@ -1127,7 +1127,7 @@ ngang bướng, ương ngạnh$ngang bướng, ương ngạnh$
 
 quan điểm$tư thế$
 
-kỳ
+kỳ quặc$một cách kỳ quặc$tính độc đáo kỳ quặc$
 bệnh$bị mắc bệnh$
 đi cùng$đệm nhạc$đi kèm$nhạc đệm$người đệm nhạc$
 bè bè, chắc nịch$bè bè, chắc nịch$sự bè bè, sự chắc nịch$
@@ -1155,7 +1155,7 @@ gạt ra$không cho vào$loại trừ$hành động ngăn cản$trừ ra$
 
 ngày nghỉ$thời gian nghỉ$người đi nghỉ$sự đi nghỉ$
 
-khoản;
+khoản; món$tức$
 
 
 môi trường$phương tiện truyền thanh$đồng cốt$môi trường$
@@ -1176,7 +1176,7 @@ lời khuyên$khuyên$báo cho biết$thích hợp$tính thích hợp$
 
 thuốc$ma túy; thuốc ngủ$dược sĩ$người nghiện ma túy$cửa hàng dược phẩm$
 đuổi, truy bắt$theo đuổi$người đuổi theo$hành động đuổi theo$sự theo đuổi$
-trông
+trông bẩn thỉu$vẻ xám xịt$
 thư viện$người thủ thư$
 công tắc$sự di chuyển, thay đổi đột ngột$cành cây, gậy mềm$loại đường sắt có toa lộ thiên$tổng đài điện thoại$
 (giọng nói) cộc cằn và khàn khàn$(người) có giọng nói khàn khàn$tình trạng khàn giọng$
@@ -1629,7 +1629,7 @@ về mặt chuyên môn$giám định$một cách thành thạo$sự thành th�
 loại ra$sự loại ra$
 
 đánh giá$định giá$sự đánh giá$
-bưu
+bưu kiện$bao bì$đóng gói bao bì$kế hoạch trọn gói$chuyến đi du lịch trọn gói$
 cười toe toét$đành cười mà chịu vậy$
 
 cuộc phỏng vấn$người phỏng vấn$
@@ -1709,7 +1709,7 @@ làm cho$trả lại; làm cho$biểu diễn$
 
 
 
-chuyến
+chuyến đi$chuyến đi thăm$chuyến công tác$du lịch$khách du lịch$
 
 truyền thống$phong tục, tập quán$theo phong tục$theo phong tục, truyền thống$
 dịch$sự dịch, việc dịch$bản dịch$biên dịch viên$
@@ -2027,7 +2027,7 @@ null$
 lối đi$đoạn văn/ đoạn nhạc$sự trôi qua$chuyến đi$
 nếp gấp$bánh kẹo$đút vào$ăn ngon lành$
 
-làm
+làm hoạt động$
 
 sửa đổi$sự chỉnh sửa$sửa đổi$
 thung lũng$
@@ -2362,7 +2362,7 @@ vở kịch$nghệ thuật biểu diễn$biên kịch$một loạt sự kiện x
 
 phòng thí nghiệm$
 thịt$có thịt$có mùi thịt$
-cơ
+cơ bắp$liên quan đến cơ bắp$cơ bắp$hệ thống cơ bắp$đột nhập; giành giật$
 đỉnh$đỉnh cao$lưỡi trai$có lưỡi trai; có đỉnh$xanh xao tiều tuỵ$
 hình phạt/ tiền phạt$cú phạt đền$
 hình phối cảnh$cái nhìn$đúng/ không đúng phối cảnh$theo đúng/ không đúng triển vọng$
@@ -2414,7 +2414,7 @@ hiện tượng$kỳ lạ$kỳ lạ$
 
 
 
-áo
+áo sơ mi$mặc áo sơ mi không$
 
 
 tiếng Anh-Mỹ$từ ngữ đặc Mỹ$Mỹ hóa$sự Mỹ hóa$bóng bầu dục Mỹ$
@@ -2504,7 +2504,7 @@ muối$chất đậm đà$thủy thủ lão luyện$có ướp muối, có muố
 
 công thức$công thức chế tạo$
 
-bài
+bài giảng$bài thuyết trình$giảng viên$
 sự mắn$vận đỏ$không mắn$có tính mắn$mang tới vận$
 sứ mệnh$mục đích$phái đoàn$tòa công sứ$hội truyền giáo$
 
@@ -2647,7 +2647,7 @@ an-bum$đĩa nhạc$
 ghế dài$bàn thợ mộc$
 cái khuy áo$cái nút$khuyết áo$
 kênh đào$ống$
-mũ
+mũ lưỡi trai$mũ vải$nắp$
 
 thư ký$người đảm trách sổ sách$người bán hàng$
 sự liên minh$
@@ -2706,7 +2706,7 @@ Bồi thẩm đoàn$giám khảo$thành viên bồi thẩm đoàn$
 
 sự cho thuê nhà đất$
 
-dây
+dây thần kinh$sự can đảm$táo tợn$trạng thái thần kinh bị kích động$về dây thần kinh$
 đại dương$một trong năm đại dương chính$
 miếng vá$khoảng đất nhỏ$không đều$sự chắp vá$miếng vải chắp vá$
 
@@ -2838,7 +2838,7 @@ sự thấu hiểu$
 hòn đảo$
 người Do Thái$thuộc về người Do Thái$
 quân trang$bộ đồ nghề$ba lô đựng quân trang$trang bị$
-bóng
+bóng đèn$cột đèn$chụp đèn$
 
 cái ao$
 

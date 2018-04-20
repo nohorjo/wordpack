@@ -1,7 +1,7 @@
 temps$le rapport entre le temps et l’espace$le temps passe$Le temps semblait passer lentement.$avec le temps$
 être$Les voitures ont été fabriquées au Japon.$On m’a donné deux brochures à lire.$(utilisé avec le participe présent dans les temps progressifs)$Je sors maintenant.$
 bon/bonne$un bon livre$tissu de bonne qualité$Son discours était intéressant.$bon/bonne$
-an$année$La
+an$année$La semaine prochaine, ça fera exactement deux ans qu’il est mort.$J’ai voyagé pendant plusieurs années après l’université.$Qui sait ce qu’il fera dans cinq ans.$
 avoir$Elle a visité le Japon.$Est-ce que tu as vu Kelly récemment ?$Il ne s’attendait à ce que je sois là.$devoir$
 nouveau$nouvel$nouvelle$Nous venons d’acheter une nouvelle voiture$Mon fils commence une nouvelle école cette semaine.$
 personnes$Combien de personnes avez-vous invitées à la soirée ?$gens$Les gens peuvent être avides et égoistes.$le peuple$
@@ -49,7 +49,7 @@ groupe$un groupe d’étudiants / de plantes/maisons$Nous allons travailler par 
 vouloir$avoir besoin de$Il a besoin d’une nouvelle voiture.$Je veux rentrer à la maison.$Le professeur veut que nous écrivions un poème.$
 gravement$sérieusement$Il a été grièvement blessé.$mauvais/-aise$un mauvais jour$
 nombre$Ecrivez les nombres 1, 10.$lettres et nombres$Choisissez un nombre élévé/bas.$nombre$
-dire$As-tu
+dire$As-tu déjà dit la vérité ?$Dis-moi combien d’argent il te faut.$Je leur ai dit que j’étais heureux.$Je ne le dirai à personne d’autre.$
 sûr/-e$certain/-e$Je ne suis pas sûr de son âge.$Il n’était pas certain de l’endroit où il l’avait déjà vue.$Etes-vous sûr que cela vous convient ?$
 le monde$Le monde entier doit agir pour sauver notre planète.$les informations et la météo du monde entier$Il ne reste que très peu de ces oiseaux au monde.$monde$
 mettre$J’ai mis le livre sur la table.$Mets les plantes au soleil.$Nous n’avons nulle part où mettre ces boîtes.$mettre$
@@ -91,7 +91,7 @@ tenir$des pingouins se tenant debout ensemble pour se tenir chaud$un jouet pour 
 large$grand/grande$un chemin large$un chapeau avec un large bord$Il te faudra un plus grand morceau de tissu.$
 membre$un membre du chœur d’une communauté$un membre d’une équipe$membre$
 fournir$procurer$Le gouvernement fournit de l’argent pour le programme.$des avocats qui procurent des conseils juridiques gratuits aux personnes pauvres$fournir$
-simple$L’interro
+simple$L’interro de maths était simple.$simple$C’est un mécanisme simple.$simple$
 bout$extrémité$l’extrémité du bâton$à l’autre bout$Il se tenait debout à l’autre bout du chemin.$
 tenir$Tu tiens le livre à l’envers.$Elle tenait le bébé dans ses bras.$(faire) tenir$maintenir$
 fermer$fermer la porte/fenêtre / le tiroir$tellement fatiguée que ses yeux commençaient à se fermer$fermer$Nous fermons à 21h.$
@@ -106,7 +106,7 @@ commencer$débuter$Commençons par une histoire.$Nous avons débuté la réunion
 frites$
 fait$les faits du procès$Le fait qu’elle soit une femme ne devrait pas avoir d’importance.$faits$réalité$
 amener$apporter$Apporte ton maillot de bain.$Elle m’a apporté des chocolats.$amener$
-beau/belle$agréable$joli/-ie$Ils
+beau/belle$agréable$joli/-ie$Ils habitent dans une belle maison en banlieue.$Ta robe est vraiment jolie.$
 tête$Je me suis cogné la tête.$faire non de la tête$hocher la tête$tête$
 comme$Ne penses-tu pas qu’elle ressemble à Marilyn Monroe ?$Ça sent un peu comme du miel.$qui ressemble à$Ça ne ressemble pas à Marina d’être mesquine.$
 heureux/-euse$satisfait/-aite$Tout le monde veut être heureux.$Je ne suis pas satisfaite de l’allure qu’a cette robe.$content/-ente$
@@ -167,7 +167,7 @@ chaud/chaude$une journée chaud$Viens te baigner, l’eau est chaude.$ne pas pre
 niveau$taux$des taux élevés de mercure dans l’eau$Le chômage est au niveau le plus bas qu’on lui ait jamais connu.$niveau$
 porter$transporter$Il portait un enfant dans ses bras.$monter deux valises en haut de l’escalier$un avion transportant 250 passagers$
 frais/fraîche$poisson/légumes frais / fleurs fraîches$des petits gâteaux tout juste sortis du four$neuf/neuve$nouveau (before a consonant) / nouvel (before a vowel) / nouvelle$
-voiture$automobile$conduire
+voiture$automobile$conduire une voiture$monter dans / sortir de la voiture$garer la voiture dans la rue$
 parler$Le bébé ne sait pas encore parler.$Nous parlions de nos vacances.$Qui est ce garçon à qui tu parlais.$parler au téléphone$
 bon marché$des vêtements bon marché$Vingt dollars, c’est plutôt bon marché pour une paire de chaussures.$l’assurance automobile la moins chère$facile$
 conseil$le conseil pour les études internationales$conseil municipal$Elle se présente aux élections municipales.$conseil$
@@ -260,7 +260,7 @@ bref/brève$une brève discussion / un bref séjour$bref/brève$concis/-ise$succ
 terme$un terme technique$Essaie de t’exprimer dans des termes que tout le monde puisse comprendre.$période$Les sénateurs ont un mandat de 6 ans.$
 construire$bâtir$construire une maison/extension$bâtir un pont / une tour$une maison entièrement construite/bâtie à partir de matériaux recyclés$
 gris$grisonnant$
-période$une
+période$une période de 3 heures$une période de trois semaines$point$Rappelez-vous d’utiliser un point à la fin de vos phrases.$
 impliquer$consister à$un traitement médical qui implique de la chirurgie$un jeu vidéo qui consiste à voyager dans l’espace$concerner$
 drôle$amusant/-ante$une histoire drôle$Le spectacle était tellement drôle !$bizarre$
 centre$centre-ville$une parade dans le centre-ville$centrer$Centre le vase sur la table.$
@@ -277,7 +277,7 @@ mourir$Ma mère est morte à l’âge de 84 ans.$Il est mort d’une crise cardi
 faible$Mes jambes se dérobaient sous moi.$Il semblait plus faible et ne pouvait même pas s’asseoir.$fragile$La poutre était trop fragile pour soutenir le toit.$
 (grande) ville$la ville de Londres / New York$une capitale$grande ville$ville épiscopale$
 espérer$J’espère que nous aurons du beau temps.$Elle espérait que Kay ne révèlerait pas son secret.$Nous espérons acheter une nouvelle voiture l’année prochaine.$j’espère que non$
-marron$brun/brune$des
+marron$brun/brune$des yeux marron / cheveux châtains$brun$marron$
 créer$créer de grandes œuvres d’art$Elle a créé une vie formidable pour sa famille.$Cela pourrait créer des problèmes.$créer$
 malade$Voyager en voiture me rend malade.$tomber malade$Je suis tombé malade et j’ai dû rester à la maison.$Elle a la grippe.$
 communauté$nettoyer les rues de notre communauté$une communauté étroitement liée$communauté$la vaste communauté catholique irlandaise de la ville$
@@ -364,7 +364,7 @@ vouloir (au conditionnel)$Je voudrais qu’ils se dépêchent.$Nous regrettons d
 extrême$froid/chaleur extrême$les personnes soumises à un stress extrême$pauvreté extrême$extrême$
 décision$sa décision de démissionner$J’ai pris la mauvaise décision.$un choix entre qqch et qqch$Il a fallu un moment pour arriver à une décision.$
 accomplir$réaliser$réaliser ses objectifs$Qu’est-ce qui peut être accompli en faisant cela ?$réaliser$
-fier/fière$Je
+fier/fière$Je suis fier du travail que j’ai fait.$Les étudiants sont très fiers de leur école.$fier d’être un soldat$orgueilleux/-euse$
 rue$les rues des villes pleines de circulation$J’habite Garden Street. FRE ça me paraîtrait bizarre de traduire.$Nous traversons/descendons/montons la rue.$dans la rue$
 rechercher$des médecins recherchant un remède à l’obésité$Les policiers recherchent des témoins du meurtre.$chercher à$un programme qui cherche à améliorer les résultats aux épreuves de mathématiques$
 furieux/-euse$Es-tu furieux contre moi ?$Ne te mets pas si en colère !$fou/folle$une idée complètement folle$
@@ -375,7 +375,7 @@ patient/-ente$les patients du médecin$des patients atteints du cancer/SIDA$pati
 transaction$marché$une affaire$J’ai conclu un marché avec mon frère que nous ne dirions rien.$“Je te donne 40 $pour ça.” “OK, marché conclu.”$
 rose$une rose rose$un pull rose vif$rose$Le coucher de soleil a fait virer le ciel au rose et à l’orange.$
 classe$Nous étions dans la même classe en seconde.$la promo(tion) de ’09$cours$travailler dur en cours$
-lisse$doux/douce$Elle
+lisse$doux/douce$Elle a la peau si douce.$la nouvelle chaussée lisse sur la route$paisible$
 esprit$les pensées qui tournoyaient dans son esprit$Il n’y avait aucun doute dans mon esprit qu’elle disait la vérité.$à l’esprit$J’ai eu beaucoup de choses à l’esprit récemment.$
 échouer$ne pas réussir$Le lancer de fusée a échoué.$Les alpinistes n’ont pas réussi à atteindre le sommet de la montagne.$manquer$
 lointain/-aine$isolé/-ée$une île lointaine$infime$vague$
@@ -386,7 +386,7 @@ condition$état$l’état de la maison$en bon/mauvais état / bonne/mauvaise con
 saint/sainte$un jour de fête (religieuse)$saint$saint$
 papier$un morceau / une feuille de papier$papier de couleur / ligné / libre$journal$Je lis le journal chaque matin.$
 tuer$Quatre personnes ont été tuées dans un accident de la route.$Qu’est-ce qui conduit une personne à tuer ?$mettre fin à$Son arrivée mit fin à toute conversation.$
-honnête$sincère$franc/franche$mon
+honnête$sincère$franc/franche$mon opinion sincère$S’il te plaît, sois honnête à propos de ce que tu veux.$
 avoir un compte$J’y ai eu un compte pendant des années.$banque$Il travaille pour une banque.$rive$
 arriver$se produire$les événement se sont produits la nuit$se trouver dans$les vitamines et les minéraux qui se trouvent naturellement dans les légumes$
 bête$idiot/-ote$Arrête de faire l’idiot maintenant.$Ce serait bête d’abandonner maintenant.$stupide$
@@ -408,7 +408,7 @@ serré/-ée$ferme$sa prise ferme sur la poignée$Attache-le de façon à ce que 
 mort$décès$Elle a vécu ici jusqu’à sa mort.$le nombre de décès à l’hôpital$une mort lente/soudaine/violente$
 choisir$Elle choisit le rouge.$Il a été choisi pour être le nouveau principal.$cueillir$Nous cueillions des pommes.$
 sale$eau sale$chaussettes/vêtements sales$cochon/-onne$des plaisanteries cochonnes$
-bâtiment$construction$une
+bâtiment$construction$une construction en briques du 19ème siècle$construction$le bâtiment$
 agréable$beau/belle$un après-midi agréable au parc$une belle nuance de vert$aimable$
 bon sens$Je me demande parfois s’il a le moindre bon sens.$J’espère qu’elle a eu le bon sens d’apporter un imperméable.$Cela ne sert à rien de se plaindre avant de connaître les faits.$sens$
 se disputer$Arrêtons de nous disputer.$A quel propos vous disputez-vous tous les deux ?$Elle s’était disputée avec son mari.$débattre$
@@ -458,7 +458,7 @@ preuve$la preuve qu’il y a de l’eau sur Mars$La recherche n’a trouvé aucu
 être lié/-ée$Comment le sommeil et le régime sont-ils liés ?$En quoi le revenu est-il lié au niveau d’enseignement ?$relater$Il a relaté le récit de leur rencontre.$
 urgent/-e$une affaire urgente$Il est urgent que nous résolvions ce problème.$urgent$
 terre$sol$une pièce sous terre$la terre$le sol$
-influer
+influer sur$avoir des effets sur$Cette maladie atteint le cerveau de l’animal.$les prix élevés du pétrole ont influé sur les ventes de voitures$affecter$
 pur/pure$même$un numéro de pur génie$la beauté même de la vue$à pic$
 lettre$Mon père m’a écrit/envoyé une lettre.$une lettre de sa tante$poster une lettre$lettre$
 méchant/-ante$des remarques méchantes$désagréable$répugnant/-ante$une odeur désagréable$
@@ -481,7 +481,7 @@ nourriture$aliments$nourriture et boisson$nourriture française/italienne/japona
 obtenir$Vous devez passer l’épreuve afin d’obtenir un permis$Elle a obtenu des conseils juridiques d’un ami étudiant la loi.$obtenir$
 de rechange/secours$autre$un pneu de secours dans le coffre de la voiture$As-tu un autre stylo que je pourrais emprunter ?$Je n’ai pas du tout de temps libre cette semaine.$
 syndicat$le syndicat des mineurs$l’appartenance au syndicat$Union$l’es-Union Soviétique$
-note$Ma
+note$Ma mère a écrit une note au professeur.$J’ai laissé une note expliquant ce qui c’était passé.$notes$les notes du journaliste$
 bien rangé/-ée$soigné/-ée$La pièce était bien rangée et propre.$écriture soignée$ordonné/-ée$
 rôle$La traduction est l’une des choses que je fait dans mon rôle de guide touristique.$Les églises locales ont un rôle important/majeur/clé dans le soin aux patients du SIDA.$jouer un rôle (dans)$L’armée jouera un rôle de maintien de la paix lors de cette mission.$
 oublier$J’ai oublié pourquoi je suis monté à l’étage.$Elle a oublié qu’elle l’avait rencontré auparavant.$Penses-tu qu’ils ont oublié pour ce qui est de l’argent ?$N’oublie pas d’acheter du pain en rentrant à la maison.$
@@ -527,7 +527,7 @@ gay$homosexuel/-elle$mariage gay/homosexuel$un gay/homosexuel$gay$
 parent$Ses parents sont si décontractés et gentils.$père (ou) mère$père adoptif (ou) mère adoptive$
 avoir tendance à$J’ai tendance à faire la lessive le week-end.$Les gens ont tendance à penser que le changement climatique surviendra dans de nombreuses années.$Elle a tendance à ne pas faire attention à ces choses.$incliner vers$
 ennuyeux/-euse$Rester debout dans une file d’attente est si ennuyeux.$un livre ennuyeux$ennuyeux$
-compte-rendu$un
+compte-rendu$un compte-rendu détaillé des événements$Les témoins ont fait un compte-rendu de ce qu’ils ont vu.$compte$ouvrir un compte$
 traiter$Je pense qu’elle le traite avec beaucoup de manque de respect$aborder$Elle n’a pas du tout bien abordé le problème.$Ils ont abordé ce voyage d’affaires comme des vacances.$
 intelligent/-ente$astucieux/-ieuse$C’est une fille intelligente pour son âge.$une décision astucieuse$intelligent/-ente$
 tissu$étoffe$J’ai besoin de 3 m de tissu pour les housses de coussins.$une étoffe légère/lourde$matériau$
@@ -617,13 +617,13 @@ méthode$différentes méthodes d’entraînement des nouveaux joueurs$une nouve
 enseigner$Elle a enseigné pendant plus de vingt ans.$Préférez-vous enseigner à de jeunes enfants ou à des adolescents ?$J’ai enseigné le français et l’allemand à des adultes.$enseigner$
 bruyant/-ante$des enfants bruyants$une boîte de nuit bruyante$bruyant$
 unité$module$Le module 1 traite de la pultiplication et de la division.$unité$service$
-réponse$une
+réponse$une réponse à ma lettre$Donne-moi ta réponse demain.$J’ai sonné à la porte mais il n’y a pas eu de réponse.$réponse$
 grave$sérieux/-euse$une grave menace / une préoccupation sérieuse$Les forêts tropicales courent un grave danger.$grave$
 mouvement$le mouvement écologique$un mouvement international contre le racisme$évolution$pas d’évolution de la Bourse$
 fonctionner$Le distributeur automatique ne fonctionnait pas.$conduire$Il conduit une grue pour la société de construction.$opérer$
 puissant/-ante$Ares, le puissant dieu grec de la guerre$un fleuve puissant.$puissant$
 détail$les détails de l’accord$un détail mineur$Soyez attentif aux détails.$en détail$
-ensoleillé/-ée$une
+ensoleillé/-ée$une magnifique journée ensoleillée$ensoleillé$heureux$
 date$La date d’aujourd’hui est le 9 septembre.$Quelle date sommes-nous aujourd’hui.$fixer une date$Avez-vous fixé une date pour la soirée ?$
 en fonction de$selon$La couleur semble changer en fonction de la lumière.$ça/cela dépend$“Est-ce que tu viens avec nous ?” “Ça dépend de ce que disent mes parents.”$
 impoli/-ie$grossier/-ière$comportement grossier / remarques grossières$C’est impoli de ne pas dire “merci”.$grossier, mal élevé$
@@ -706,7 +706,7 @@ protéger$Naturellement, les parents veulent protéger leurs enfants.$une bâche
 morose$sombre$une personne morose$son humeur morose$les sombres perspectives économiques$
 devoir$contrôle$interrogation$épreuve$un devoir/contrôle / une interrogation de maths/chimie / d’histoire$
 revendication$exigence$des revendications pour de meilleurs soins de santé$la demande insistante de l’enfant qu’on lui donne des bonbons$Nous ne céderons pas aux exigences des terroristes.$
-de
+de luxe$des restaurants/boutiques/voitures de luxe$sophistiqué/-ée$Je n’ai pas besoin de quelque chose de sophistiqué.$envie$
 sécurité$un système e sécurité pour votre maison$anti-virus$sécurité$stabilité$
 dévisager$fixer du regard$Il est considéré comme grossier de dévisager les gens.$Elle le fixa du regard avec incrédulité.$regard fixe$
 las/lasse$Nous étions las après avoir marché toute la journée.$fatigué$
@@ -788,7 +788,7 @@ sonner$Le téléphone s’est mis à sonner.$sonner$Ils ont sonné les cloches d
 jovial/-ale$un grand homme jovial$drôlement$un film drôlement bon$jovial$
 représentation$interprétation$une brillante interprétation$Il a donné trois représentations par semaine pendant six mois.$performance$
 régler$Le cabinet d’avocats a aidé à régler le conflit.$Les deux partis dans cette affaire se sont accordés à trouver un arrangement.$(s’)installer$Elle s’installa dans le fauteuil.$
-avide$un
+avide$un homme avide, assoiffé de pouvoir$gourmand/-ande$Ne sois pas si gourmand.$avide; gourmand$
 plante$les plantes dans le jardin$une plante fleurie$usine$une centrale électrique/houillère/nucléaire$
 frapper$la tempête qui a frappé la partie sud de l’état$une femme qui a été percutée par une voiture$frapper$donner un/des coup/-s$
 fade$une sauce pour les pâtes fade$terne$leur style de chant terne$(doux et) insipide$
@@ -1027,7 +1027,7 @@ générer$produire$La lumière du soleil peut être utilisée pour produire de l
 devoir$Il est de ton devoir de t’élever contre toute injustice.$un sens du devoir$fonction$Ses fonctions en tant que nourrice incluent le fait d’emmener les enfants à l’école.$
 examiner$enquêter$Les policiers enquêtent sur un meurtre.$Il faudrait étudier sérieusement les dangers du téléphone cellulaire.$une étude qui examine les raisons du faible nombre de femmes à des postes de direction$
 qui sent mauvais$du linge qui sent mauvais$malodorant$
-rappeler$Peux-tu
+rappeler$Peux-tu me rappeler d’acheter du lait au magasn ?$Des catastrophes comme celle-là nous rappelle la chance qu’on a.$Rappelle-lui qu’il doit être là pour 5h.$Il me rappela l’accord que nous avions conclu.$
 duvet$une veste / un oreiller en duvet$en bas$un chat essayant de descendre de l’arbre$Pose ça.$
 conseiller$recommander$Le médecin lui a recommandé de faire plus d’exercice.$déconseiller$Les autorités déconseillent de partir en voyage.$
 sublime$
@@ -1115,7 +1115,7 @@ détester$Ses employés le détestent.$Elle déteste aller chez le dentiste$qqn 
 salé/-ée$Cette soupe est trop salée.$salé$
 huile$huile d’olive / de tournesol$pétrole$essence$un puits de pétrole texan$
 attacher$joindre$Jill a attaché une étiquette à chaque cadeau.$deux morceaux de papier attachés par un trombone$Je joins une copie de mon CV.$
-étouffant/-ante$un
+étouffant/-ante$un immeuble de bureaux étouffant$bouché/-ée$un nez bouché / une tête lourde$coincé/-ée$
 secteur$le secteur du bénévolat / public/privé$La banque est le secteur à la croissance la plus rapide de l’économie de ce pays.$secteur$les secteurs au sud de la ville$
 exercice$L’exercice régulier est important.$le besoin de faire plus d’exercice$exercice$un exercice pour renforcer les muscles de vos bras$
 indiscipliné$
@@ -1136,7 +1136,7 @@ accuser$Il a été accusé de meurtre.$Ils l’ont accusée d’être injuste.$a
 (se) casser (avec un bruit sec)$J’ai cassé le crayon en deux.$La branche s’est cassée avec un bruit sec et elle est tombée par terre.$ouvrir/fermer etc. avec un bruit sec / en claquant$Il ouvrit le couvercle avec un bruit sec.$
 but$objectif$Notre objectif est de collecter 200 000 $.$Il a fallu six ans pour atteindre ce but.$(se) fixer un but/objectif$
 attacher$Quelqu’un leur avait attaché les mains avec de la corde.$contraindre$contraint, par la loi, de rapporter l’incident$unir$
-rouge
+rouge de santé$rougeoyant$
 affaires$histoires$Le comité aux affaires des vétérans$les histoires financières de notre famille$liaison$
 explorer$des aventuriers qui explorent l’Arctique$J’ai quitté l’hôtel et suis sorti pour explorer / faire un tour dans les environs.$étudier$Le cours va étudier les théories économiques les plus récentes.$
 copieux/-euse$consistant/-ante$un petit-déjeuner copieux$chaleureux/-euse$rire/applaudissements chaleureux$
@@ -1147,7 +1147,7 @@ joyeux$
 capacité$une capacité naturelle$avoir la capacité de faire qqch$capacité$habileté$
 voler$Il a volé 300 $au bureau.$Je volerais seulement si j’étais désespéré.$se glisser$Elle s’est glissée devant la chambre.$
 crasseux/-euse$un appartement en sous-sol crasseux$encrassé$
-campagne$une
+campagne$une campagne de publicité$la campagne électorale de 2012$une campagne pour éveiller la conscience$une campagne en faveur de / contre$
 commentaire$remarque$Ils ont fait des remarques désobligeantes sur ses vêtements.$Les fonctionnaires locaux n’avaient rien à dire sur la question.$sans commentaire$
 boiter$Il réussit à rentrer chez lui en boitant.$plus très frais/fraîche$une vieille feuille de laitue plus très fraîche$mou, faible$
 poisson$un scalaire$Je ne mange pas beaucoup de poisson.$pêcher$un garçon pêchant dans la rivière$
@@ -1247,7 +1247,7 @@ bouche$Qu’est-ce que le chien a dans sa gueule ?$De surprise, il en était bou
 stress$tension$des étudiants en proie au stress avant les examens finaux$les tensions et pressions liées à l’exercice de deux emplois$pression$
 lunatique$Elle était tellement lunatique ces derniers temps.$maussade$
 paiement$Vous recevrez trois paiements de 150 $.$paiement$Le paiement est dû le premier jour de chaque mois.$paiement$
-altérer$modifier$Nous
+altérer$modifier$Nous devons modifier l’équipement.$Son expression s’était légèrement modifiée.$modifier, changer$
 flou/floue$une photo floue$pelucheux/-euse$des jouets en peluche$floconneux$
 ennuis$problème$difficultés$mal$J’ai du mal à terminer ce travail.$
 analyser$
@@ -1258,7 +1258,7 @@ poilu/-ue$animal poilu FRE autre sens : en peluche$à poil$doux comme de la four
 équipement$installation$la plus grande installation de stockage et de transformation de l’état$les équipements sportifs à l’université$un parc avec de beaux équipements$
 se donner la peine de$Il ne s’est même pas donné la peine d’appeler pour mon anniversaire.$Je ne me suis pas donné la peine d’aller à la réunion.$déranger$Désolé de vous déranger.$
 décharné/-ée$un mannequin de mode décharné$émacié$
-référence$Elle
+référence$Elle a fait référence dans l’article au service épouvantable au restaurant.$En ce qui concerne votre première question, la réponse est oui.$références$Voici une liste de noms que vous pouvez utiliser pour les références à venir.$
 défendre$des soldats défendant leurs positions$se défendre contre un agresseur$des manifestants défendant leurs droits civils$défendre$
 sinistre$une vieille maison sinistre$qui donne la chair de poule$
 deuxième$second/-onde$la deuxième personne dans la file$Notre équipe a été deuxième au jeu-concours.$deuxième$
@@ -1302,7 +1302,7 @@ document$papier$un document top secret du gouvernement$des documents d’identit
 soupçonner$La police la soupçonne d’avoir tué son mari.$soupçonner$présumer$Je présume qu’il était trop embarrassé pour en faire mention.$
 trop petit$
 sœur$J’ai une sœur et deux frères.$Sa sœur est venue avec elle.$sœur$les sœurs du couvent$
-(s’)éveiller$(se)
+(s’)éveiller$(se) réveiller$Pourquoi as-tu réveillé le bébé ?$Nous nous sommes réveillés au bruit des sirènes.$à la suite de$
 tape-à-l’œil$voyant/-ante$une voiture de sport rouge tape-à-l’œil$tapageur$
 
 budget$le budget de l’enseignement / familial$un budget annuel/mensuel$qui dépasse le budget$qui coûte moins que prévu$
@@ -1406,7 +1406,7 @@ sexe$rapports sexuels$faire l’amour$les rapports sexuels avant le mariage$la v
 respirer$Dans quelle mesure l’air que nous respirons est-il sain ?$inspirer profondément$souffler$talonner qqn$
 après-midi$Ils viennent chez nous cet après-midi.$3:30 de l’après-midi$lundi/mardi/mercredi après-midi$après-midi$
 fêter$célébrer$Il faut célébrer ça au champagne !$fêtant/célébrant la naissance d’un bébé$Comment célébrez-vous la Fête de l’Indépendance ?$
-balle$ballon$une
+balle$ballon$une balle de tennis$lancer/attraper le ballon$boule$
 criminalité$La criminalité violente augmente dans la région.$prévention de la criminalité$le taux de criminalité$Le taux de criminalité augmente/diminue.$
 employé/-ée$Les employés sont tenus d’arriver au travail avant 9 heures du matin.$employé/-ée$
 contrôler$Nous contrôlons son état et nous adaptons son traitement médical si nécessaire.$une organisation qui contrôle la sécurité des produits$moniteur$un écran de télé$
@@ -1513,7 +1513,7 @@ prêter$Je lui ai prêté quelques livres sur le sujet.$Elle prête sa robe à s
 transporter$transporter des marchandises en train$un petit train qui transporte les visiteurs jusqu’au port$transport$le transport des marchandises des entrepôts aux magasins$
 participer$Il refusa de participer au match.$participer (à)$
 agent$les acteurs d’Hollywood et leurs agents$agent$un agent secret$agent/-ente$
-percevoir$Je
+percevoir$Je pense que les gens le perçoivent comme étant sûr de lui.$Les écoles privées sont souvent perçues comme étant meilleures que les écoles publiques.$remarquer$Il remarqua une légère nervosité dans sa voix.$
 artiste$un artiste connu$artiste$un mime$artiste$
 poser$poser pour la caméra$(re)présenter$des criminels qui ne représentent plus une menace pour la société$des pesticides qui peuvent présenter un risque pour la santé$
 anglais$Parlez-vous anglais ?$apprendre l’anglais$les Anglais$anglais$
@@ -1550,7 +1550,7 @@ figue$figue$
 bloc$un bloc de bois/glace$des blocs de béton$pâté de maisons$à seulement trois rues d’ici$
 proportion$pourcentage$Quel pourcentage des étudiants est hispanique ?$des aliments avec un pourcentage élevé de graisse$proportion$
 confiner$enfermer$des animaux enfermés dans des cages minuscules$une maladie qui l’a confiné au lit$confiner$
-trajet$Quel
+trajet$Quel est le trajet le plus rapide jpour aller au centre-ville ?$itinéraire$une conductrice de bus sur son itinéraire$Route$
 retard$une série de retards dans le processus$les six heures de retard du vol$Il faut procéder à l’opération sans délai.$différer$
 vitesse$un vitesse maximale de 110 kilomètres-heure$la vitesse du vent$speed$amphétamines$
 rencontrer$des médecins de guerre qui affrontent d’horribles blessures$rencontrer$Ils se rencontrèrent pour la première fois en 1999.$rencontre$
@@ -1582,7 +1582,7 @@ conclusion$conclure$arriver à la conclusion$Il est arrivé à la conclusion que
 contenu$le contenu de l’emploi du temps des enfants$contenu$le contenu de la boîte de céréales$les habitants de l’immeuble$
 réagir$Je ne suis pas sûr qu’ils réagissent à la nouvelle.$Ses parents ont réagi avec colère quand il s’est expliqué.$réagir$une substance qui réagit avec l’humidité sur la peau$
 distance$la distance de Paris à Cannes$une courte/longue distance$où on peut aller à pied / en voiture$On peut aller au square à pied de la maison.$
-saisir$Je
+saisir$Je lui ai saisi le bras.$saisir$Il a saisi sa chance et lui a dit son secret.$s’emparer de$
 allouer$affecter$attribuer$Ils ont attribué 300 $à chaque étudiant pour ses livres.$allouer (à)$
 justice$des dirigeants en appelant à la justice pour les travailleurs$justice$le système judiciaire aux U.S.A.$traduire qqn en justice$
 éclater$crever$La brique de lait a éclaté.$crever un ballon$se précipiter$
@@ -1604,7 +1604,7 @@ vin$vin rouge/rosé/blanc$boire un verre de vin$vin$
 prier$une femme priant à l’église$Nous prions pour les victimes du tremblement de terre.$prier$Je priais pour qu’il m’appelle.$
 hiver$Il neige beaucoup ici en hiver.$un long hiver rude$Les touristes ne viennent pas ici en hiver.$les sports d’hiver$
 protestation$Ils ont quitté la réunion en signe de protestation contre la décision.$des réclamations et des protestations des téléspectateurs$manifestation$des manifestations contre la guerre$
-dette$des
+dette$des dettes de crédit de plus de 40 000 $$payer ses dettes$dette$des personnes lourdement endettées$
 soupirer$pousser un soupir$Il poussa un soupir de frustration.$soupir$Elle laissa échapper un soupir de soulagement.$
 employeur/-euse$un employeur respecté de la région$employeur/-euse$
 odeur$Je n’aime pas l’odeur du poisson.$une herbe qui a une odeur fantastique$odorat$un sens de l’odorat extrêmement développé$
@@ -1615,7 +1615,7 @@ véhicule$un véhicule militaire$Veuillez rester dans votre véhicule.$véhicule
 subir$Il a subi deux opérations récemment.$subir$subir$
 week-end$Il va chez son père les week-ends.$ce week-end / le week-end prochain/dernier$Que fais-tu ce week-end ?$Nous sommes allés camper le week-end dernier.$
 errer$aller au hasard$Le garçon est entré au hasard dans un restaurant à proximité.$un homme sans domicile fixe errant dans les rues$divaguer$
-auteur$écrivain$un
+auteur$écrivain$un auteur de livres pour enfants$écrivain/-aine$
 s’attendre à$prévoir que$Les autorités ne s’attendent pas à des ennuis.$Nous prévoyons que le projet prendra trois ans.$s’attendre à$
 bataille$combat$La bataille a duré quatre heures.$Il a été blessé au combat.$la bataille des Ardennes$
 s’évanouir$perdre connaissance$il a perdu connaissance et il est mort le jour suivant.$s’effondrer$s’écrouler$
@@ -1725,7 +1725,7 @@ attendre$un accusé attendant la décision du juge$attendre$Un accueil chaleureu
 contraste$le contraste entre sa vie publique et sa vie privée$par/en contraste avec$Ses opinions étaient nettement en contraste avec les siennes.$contraste$
 description$Il a donné une description claire de l’homme.$description$description$sorte$
 brosse$une brosse à cheveux$une brosse dure / un pinceau$frôlement$le léger souffle du vent sur son visage$
-discipline$Sans
+discipline$Sans véritable discipline une école est vouée à l’échec.$discipline$Je manque de la discipline nécessaire pour perdre du poids.$discipline$
 poursuite$L’oiseau a été attrapé après une longue poursuite.$la course-poursuite à la fin du film$poursuivre$un rêve où il était poursuivi par des monstres$
 distribution$la distribution de prospectus$répartition$la répartition des richesses d’un pays$la répartition des oiseaux de mer le long de la côte est$
 se conformer à$obtempérer$Vous devez vous conformer aux lois.$Ils lui ont ordonné de le faire et il a obtempéré.$se soumettre (à)$
@@ -1746,7 +1746,7 @@ interrompre$déranger$Je suis désolé de vous interrompre mais pourriez-vous m�
 bondir$sauter$La grenouille sauta/bondit dans l’eau.$bondir$Elle se leva d’un bond pour répondre au téléphone.$
 public$Le public éclata de rire.$des pièces pour les jeunes publics$audience$une audience avec le Pape$
 marmonner$grommeler$Elle grommelait à propos de tout le travail qu’elle avait à faire.$Il marmonna quelque chose pour lui-même.$marmonner$
-code$un
+code$un message écrit en code$décrypter un code$code$un code de conduite$
 négliger$Tu as négligé quelques détails importants.$passer sur$Je peux passer sur ce type de comportement une fois mais pas deux.$donner sur$
 conversation$une conversation à propos de la religion$J’ai eu une conversation intéressante avec David.$faire la conversation$Je n’aime pas faire la conversation.$
 crise$la crise du réchauffement climatique mondial$des marchés financiers en crise$crise$situation critique$
@@ -1773,17 +1773,17 @@ pension$une pension de l’état$toucher une pension$pension, rente$
 assiette$la nourriture empilée sur mon assiette$assiette$une assiette de crêpes$plaque d’immatriculation$
 s’effacer$passer$s’évanouir$Les couleurs du tissu sont passées.$Elle sourit tandis que ses peurs s’évanouissaient.$
 pluie$pluie battante/fine$Nous sommes rentrés chez nous à pied sous la pluie.$la saison des pluies$La saison des pluies était arrivée tôt cette année-là.$
-(faire)
+(faire) flotter$des voiliers flottant sur l’étang$des enfants faisant flotter des bâtons dans le ruisseau$flotter$des feuilles descendant des arbres$
 respect$Il a un grand respect pour ses parents.$montrer du respect (pour)$Les jeunes gens devraient montrer plus de respect pour les personnes âgées.$respect$
 geler$congeler$Les flaques ont toutes gelé.$Congelez le pain pour qu’il conserve plus longtemps.$être gelé/-ée$
 écriture$Son écriture s’est beaucoup améliorée cette année.$écriture$Son écriture débordait d’énergie juvénile.$quelque chose d’écrit$
 recruter$embaucher$Nous recrutons ce mois-ci.$Ils ont embauché un nouveau comptable.$louer$
-capacité$contenance$une
+capacité$contenance$une contenance de 1 800 litres$le nombre de places assises du stade$la capacité de production d’une usine$
 dans$en$Il est dans la cuisine.$assise les pieds dans l’eau$fabriqué en Chine$
 pop$un tube pop$pop star$pan$le pan d’un ballon qui éclate$
 fabrique$manufacture$usine$une fabrique de chaussures / usine de cosmétiques/ manufacture de feux d’artifice etc.$des ouvriers d’usine$
 provoquer$Le témoin a dit que Martin avait provoqué la bagarre avec ces hommes.$provoquer$L’incident a provoqué débat.$provoquer$
-recruter$L’armée
+recruter$L’armée l’a recruté en 2004.$recrue$de jeunes/nouvelles recrues travaillant de longues heures$recrue$
 sélection$choix$Faites votre choix/sélection puis passez au paiement.$sélection$choix$
 printemps$Nous sommes allés en France au printemps dernier.$quand le climat se réchauffe au printemps$ressort$des ressorts de matelas$
 victoire$sa première victoire sur sa principale rivale$la joie de la victoire$victoire$
@@ -1826,7 +1826,7 @@ entreprise$une entreprise très florissante$entreprise$leur toute dernière entr
 enfant$Nous emmenons les enfants en Europe au printemps.$J’adorais nager quand j’étais enfant.$chevreau/chevrette$une chèvre et ses chevreaux$
 (s’)unir$réunir$Le pays s’est uni contre l’ennemi.$une tragédie qui les a réunis$(s’)unir; (s’)unifier$
 mileu$centre$Tiens-toi debout au centre/milieu du cercle.$Coupe le papier le long de la ligne qui en marque le milieu.$milieu$
-assigner$On
+assigner$On lui a assigné le rôle de chef de groupe.$consacrer$consacrer 10 000 $au projet$assigner (à)$
 cou$une écharpe nouée autour de son cou$le long cou gracieux du cygne$encolure$un chemisier décolleté$
 fournir des repas$pourvoir à$
 concéder$reconnaître$reconnaître qu’ils auraient pu mieux faire$céder$s’avouer vaincu$
@@ -2122,7 +2122,7 @@ fer$un portail en fer$400 mg de fer dans la vitamine$fer (à repasser)$un fer à
 se conformer$se conformer aux normes sociales$se conformer$se conformer aux règles du jeu sur internet$se conformer$
 responsabilité$Nous déclinons toute responsabilité pour les changements de réservations.$handicap$Son mari est un handicap pour sa carrière politique.$dettes$
 rendre perplexe$Les maths me laissent totalement perplexe.$confondre$J’ai confondu les deux poètes italiens.$embrouiller$
-lait$un
+lait$un verre de lait$une brique de lait$lait maternel$le lait d’une mère$
 reconnaître qqn coupable$reconnaître qqn coupable de meurtre/corruption/vol$deux hommes reconnus coupables d’accusations de terrorisme$détenu/-ue$des détenus qui se sont échappés de prison$
 moteur$un moteur électrique$(à) moteur$
 comptoir$le comptoir du traiteur$plan de travail$les plans de travail en marbre$vendu/-ue sans ordonnance$
@@ -2149,7 +2149,7 @@ fusionner$des sociétés fusionnant pour former des organisations plus puissante
 cancer$Sa mère a un cancer.$cancer du sein/poumon / de la peau$le traitement des cancers$cancer$
 champion/-onne$un champion du monde d’échecs$champion$un champion de la liberté$se faire le champion de$
 code confidentiel$Veuillez entrer votre code confidentiel.$épingle$une épingle en diamant$épingle$
-citoyen/-enne$un
+citoyen/-enne$un citoyen des Etats-Unis$habitant/-ante$les habitants de Tokyo$habitant/-ante$
 prescrire$Le médecin a prescrit des médicaments pour le cœur.$prescrire$
 convention$usage$l’usage d’enlever ses chaussures avant d’entrer dans une maison$convention$congrès$
 proclamer$déclarer$Il déclara son amour pour elle.$Elle déclara qu’elle ne voulait pas de l’argent.$proclamer$
@@ -2207,7 +2207,7 @@ tremper$Trempez le pain dans la sauce.$baisser$Les taux d’intérêt ont baiss�
 garde-fou$rambarde$Tiens-toi à la rampe pour desendre les marches.$rail$Est-ce que ça coûte cher de voyage par le rail / en train ?$
 aversion$son aversion pour la vie citadine$éprouver de l’aversion pour$J’ai immédiatement éprouvé de l’aversion pour elle.$objet de l’aversion$
 dévier$La circulation est déviée.$détourner$Son attention avait été détournée.$détourner$
-qui
+qui travaille$un mère qui travaille$de travail$des conditions de travail horribles$Les deux hommes ont une bonne relation de travail.$
 exprimer$
 petit-déjeuner$prendre des œufs et du bacon au petit-déjeuner.$petit déjeuner$
 exercer$exercer une pression sur qqn pour l’amener à qqch$exercer son influence$se fatiguer$Les médecins lui ont dit d’éviter de se fatiguer.$
@@ -2276,7 +2276,7 @@ mètre$mètre$
 minorité$Les étudiants non-religieux étaient en minorité dans la classe.$une bactérie découverte chez une minorité de patients$minorité$minorités ethniques/religieuses/raciales$
 miroir$rétroviseur$le rétroviseur arrière de la voiture$se regarder dans le miroir$refléter$
 roman$le premier roman de cet auteur$original/-ale$une approche originale de l’enseignement$original$
-expression$locution$un
+expression$locution$un dictionnaire contenant des milliers de mots et d’expressions / de locutions$syntagme$un syntagme prépositionnel$
 tester$L’école teste son nouveau programme basé sur le web.$piloter$L’homme pilotant l’avion avait une attaque cardiaque.$pilote$
 préparation$des étudiants travaillant dur leur préparation pour leurs examens de fin d’année$préparatifs$les préparatifs pour la soirée$faire des préparatifs$
 
@@ -2322,7 +2322,7 @@ poitrine$torse$un torse velu$des douleurs dans la poitrine$caisse$
 petite maison de campagne$cottage$
 équipage$équipe$l’équipage du bateau / de l’avion / de la navette$une équipe de nettoyage de fortune$l’équipe d’un film$
 cycle$le cycle des saisons$faire de la bicyclette$aller à/en bicyclette$cycle$
-financement$Nous
+financement$Nous essayons de trouver le financement pour ce projet.$
 gouverneur$le gouverneur de l’Indiana$gouverneur/-eure$administrateur/-trice$gouverneur/-eure$
 chapeau$un chapeau de cowboy$chapeau$
 mode, manière$mode$mode$
@@ -2339,7 +2339,7 @@ animal$des animaux des hauts fonds marins$créature$créatures mythologiques$une
 critique$Les critiques ont adoré son nouveau livre.$détracteur/-trice$les détracteurs de l’administration$critique$
 empire$l’Empire britannique$empire$la direction de son empire de la mode$empire$
 habitude$J’ai pris l’habitude d’aller me coucher tôt.$Ne prends pas l’habitude de manger un dessert.$une bonne/mauvaise habitude$Me ronger les ongles est l’une de mes mauvaises habitudes.$
-réaction$Les
+réaction$Les officiels attendent les réactions de l’opinion publique au projet de l’usine.$apport$la saisie de données dans un ordinateur$entrer$
 inspecteur/-trice$l’inspecteur sanitaire$inspecteur/-trice$inspecteur/-trice$
 paysage$le paysage dépouillé du désert$un paysage urbain$paysage$Je peins majoritairement des paysages.$
 couche$une fine couche de glace sur l’eau$Ajoutez d’abord une couche de sauce tomate, puis une couche de fromage.$niveau$plusieurs niveaux de sécurité protégeant le système informatique$
@@ -2501,12 +2501,12 @@ sel$une pincée de sel$Mettez beaucoup de sel dans l’eau.$ne pas prendre qqch 
 anxiété$De nombreuses personnes éprouvent de l’anxiété en voyageant.$anxiété à propos de sa santé$souci$la peur et les soucis$
 dédommagement$indemnisation$l’indemnisation payée aux victimes de l’incendie$compensation$L’une des compensations à la vieillesse, c’est qu’on devient plus sage.$
 consultant/-ante$consultants en marketing$expert-conseil, experte-conseil$spécialiste$
-pêche$l’industrie
+pêche$l’industrie de la pêche$aller à la pêche$Chaque dimanche, il va à la pêche.$
 formule$la formule du succès$formule magique$Il n’y a pas de formule magique pour mettre un terme à la criminalité par arme à feu.$formule$
 journaliste$un journaliste du Washington Post$journaliste$
 conférence$Le professeur a donné une conférence sur l’histoire du 20ème siècle.$sermon$J’ai reçu un sermon de mes parents à propos de la responsabilité.$donner une conférence$
 chance$bonheur$Nous n’avons pas eu beaucoup de chance cette année.$Je veux te souhaiter tout le bonheur possible dans tes voyages.$comme porte-bonheur$
-mission$des
+mission$des soldats en mission$une mission de maintien de la paix$Notre mission est de garantir la sécurité du public.$mission$
 profession$Veuillez indiquer vos nom, adresse et profession.$occupation$des insurgés se battant contre l’occupation$occupation$
 pourcentage$Le pourcentage des personnes achetant en ligne a augmenté de façon spectaculaire.$pourcentage$proportion$
 poète$Ted Hughes, le célèbre poète.$poète, poétesse$
@@ -2550,7 +2550,7 @@ enthousiasme$l’enthousiasme des enfants pour l’histoire$Le public a applaudi
 évaluation$une évaluation des progrès jusqu’à présent$évaluation$
 historien/-ienne$un historien d’art$historien/-ienne$
 exécution$mise en application$l’exécution du plan$
-intervalle$un
+intervalle$un intervalle de dix ans$Prenez les pilules à intervalles réguliers.$Les poteaux sont à intervalles de 5 mètres.$entracte$
 conducteur/-trice$opérateur/-trice$un conducteur d’élévateur à fourche$un opérateur informatique$opérateur$
 princesse$La princesse Eugénie est la petite-fille de la reine.$princesse$princesse$
 professionnel/-elle$formation professionnelle / compétences professionnelles$consultation professionnelle$professionnel/-elle$Les peintres ont fait un travail très professionnel.$
@@ -2583,7 +2583,7 @@ shopping$courses$achats$J’adore faire les courses / des achats.$aller faire de
 escouade$équipe$l’équipe de secours des sapeurs-pompiers$équipe$ils acclament l’équipe en tête$
 intérêt$Les gens sentent qu’il ont un intérêt dans le processus politique.$participation$Ils ont pris une faible participation dans la société.$enjeux$
 vapeur$la vapeur s’échappant des marmites$une locomotive à vapeur$se défouler$Les enfants ont couru partout dans le parc pendant un moment pour se défouler.$
-mouchoir$un
+mouchoir$un paquet de mouchoirs$tissu$des patients qui ont besoin de dons de tissu$tissu$
 tunnel$le tunnel sous la baie$un tunnel à travers la montagne$galerie$tunnel$
 turnover$rotation$une affaire qui a un fort/faible turnover$des différences de rotation entre les écoles$chiffre d’affaires$
 unité$harmonie$vivre en harmonie$le besoin d’unité du parti$unité$
@@ -2670,7 +2670,7 @@ cuir$un sac de cuir marron$(de) cuir$
 marge$Il y avait des notes écrites dans la marge.$marge$gagner d’une large/courte marge$marge$
 maman$Maman, on peut rentrer à la maison maintenant ?$momie$les momies trouvées dans le tombeau$momie$
 objection$ses objections aux nouvelles lois$Quelqu’un a-t-il des objections ?$élever une objection$Personne n’a élevé la moindre objection.$
-opéra$Je
+opéra$Je ne suis pas un grand fan d’opéra.$un opéra de Puccini$opéra$
 passion$Il chante avec passion.$passion$Sa passion pour lui grandissait.$passion$
 mât$La tente a six mâts.$un mât$pôle$marcher de pôle à pôle$
 l’accusation$L’accusation a un argument puissant.$un témoin à charge$poursuite en justice$la poursuite en justice des gens qui ne peuvent pas payer leurs emprunts$
@@ -2807,18 +2807,18 @@ ombre$Nous étions assis à l’ombre du chêne.$nuance$une magnifique nuance de
 stimulus$stimulation$
 étranger/-ère$On enseigne aux enfants de ne pas parler aux étrangers.$Je n’ai pas peur de demander de l’aide à de parfaits étrangers.$bien connaître$Il connaît bien la controverse.$
 soupçon$défiance$Je soupçonnais qu’il était en train de me mentir.$la défiance de l’opinion publique à propos de cette affaire$suspecté/-ée$
-tour$blague$ruse$jouer
+tour$blague$ruse$jouer un tour / faire une blague à qqn$une ruse cynique pour escroquer une femme âgée$
 électeur/-trice$des tentatives pour convaincre les électeurs de la soutenir$électeur/-trice$
 retrait$Il a fait un retrait de 100 $.$retrait$suppression$le retrait / la supression des fonds$
 jeune$
 comptable$comptable$
 acre$une grande maison sur un terrain de 2 acres$
-publicité$une
+publicité$une publicité pour une nouvelle voiture$réclame$
 ange$ange$ange$
 cérémonie$une cérémonie de mariage / de remise de diplôme$cérémonie$avec/sans cérémonie$Il a présenté les invités avec beaucoup de cérémonie.$
 cinéma$l’un des meilleurs réalisateurs de cinéma$cinéma$Nous allons au cinéma.$cinéma$
 clinique$un planning familial$clinique$
-tissu$étoffe$un
+tissu$étoffe$un mètre d’étoffe de coton$chiffon$linge$
 concurrent/-ente$les concurrents dans la course$le seul concurrent du magasin$concurrent/-ente$
 complexité$la complexité du problème$complexités$les complexités des négociations politiques$complexité$
 agent/-e de police$
@@ -2840,7 +2840,7 @@ juif/juive$juif/-ive$
 trousse$une trousse de réparation$kit$une maquette de voiture$affaires$
 lampe$une lampe de lecture$lampe$
 mineur$des mineurs$mineur/-euse$
-étang$mare$un
+étang$mare$un étang dans le parc$mare, étang$
 processeur$la mémoire du processeur$robot ménager$Pile la glace dans le robot.$
 enlèvement$l’ablation de son appendice$épilation$l’expulsion des immigrés clandestins$renvoi; (de) déménagement$
 corde$Ils ont attaché la corde au wagon.$les ficelles$un nouvel employé apprenant les ficelles$Nous trouverons quelqu’un pour vous montrer les ficelles.$
@@ -2883,7 +2883,7 @@ juridiction$dans la juridiction de la police de l’état$juridiction$
 lion$lion, lionne$
 fusion$Les deux sociétés disent qu’il n’y a pas de projets de fusion.$fusion$
 désordre$pagaille$Je ne peux pas vivre dans cette pagaille.$Sa chambre est toujours dans un tel désordre.$S’il-te-plaît, essaie de ne pas mettre la pagaille.$
-minimum$Je
+minimum$Je paie juste le minimum sur mes factures chaque mois.$Les honoraires représentent un minimum de 1% de la transaction.$Veuillez maintenir le bruit au minimum.$minimum$
 monopole$
 mobile$Le mobile de ce crime demeure un mystère.$motif$
 mythe$un mythe amérindien à propos de la création du monde$les personnages du mythe grec$mythe$le mythe de la politique économique du président$
@@ -2900,7 +2900,7 @@ manque$pénurie$un manque d’ouvriers compétents$des pénuries d’eau$manque,
 temple$un temple bouddhiste$tempe$temple$tempe$
 thérapie$Après une opération du genou, le patient doit faire de la kinésithérapie.$les traitements du cancer$thérapie$Il a été en thérapie pendant des années.$
 
-tournoi$un
+tournoi$un tournoi de basketball$tournoi$
 jouet$un jouet électronique / en bois$jouer avec un jouet$un coffre à jouets$petit/-e$
 transformation$métamorphose$sa métamorphose en une jeune femme pleine d’assurance$transformation$transformation$
 tribunal$
@@ -2911,7 +2911,7 @@ blessure$de graves blessures$une blessure à la jambe/tête/poitrine etc.$blesse
 abbaye$abbaye$
 aventure$son amour du voyage et de l’aventure$Les aventures d’Huckleberry Finn$aventure$
 compagnie aérienne$les principales compagnies aériennes européennes$un pilote de ligne / un billet d’avion$compagnie aérienne$
-fréquentation$La
+fréquentation$La fréquentation des réunions était élevée.$assiduité$assiduité scolaire médiocre$assiduité; assistance$
 homme d’affaires$homme/femme d’affaires$
 champagne$un champagne millésimé$champagne$
 type$
@@ -3133,4 +3133,4 @@ déception$la déception de l’équipe de ne pas avoir gagné$déception$les pe
 rejet$renvoi$licenciement$un licenciement abusif de ce poste$son rejet de l’idée$
 fiançailles$Elle a rompu les fiançailles.$rendez-vous$engagement$un engagement antérieur$
 exclusion$son exclusion de l’équipe$exclusion$
-exécution$son
+exécution$son exécution sur la chaise électrique$exécution$l’exécution de la tâche$exécution$

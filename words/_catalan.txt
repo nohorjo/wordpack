@@ -23,7 +23,7 @@ nen, -a$fill, -a$ésser bufar i fer ampolles$
 veure, veure-hi$quedar amb$veure$entendre$veure$
 llarg$llarg$llarg$de llarg, de durada$ésser (massa) gran$
 saber$saber$saber$saber$conèixer$
-jove$els
+jove$els joves$les cries d’ac$
 govern$govern$
 portar$portar$agafar$agafar$fer$
 correcte, cert$tenir raó$dret$apropiat, indicat$just, correcte$
@@ -175,7 +175,7 @@ semblar$aparèixer$aparèixer$aparèixer$
 
 política$
 produir, fabricar$produir$produir$productes (agrícoles)$
-estrany$nou,
+estrany$nou, desconegut$d’una manera estranya$
 mercat$mercat$en venda$promocionar$màrqueting$
 seure$asseure’s$
 tou$suau$suau, dolç$suau$tou$
@@ -289,7 +289,7 @@ enfadat$
 classe, mena$tota mena de$aquesta mena de coses$més aviat, una mica$alguna mena de$
 esperar$tenir moltes ganes de fer ac$espera un minut, un segon, etc.$fer esperar algú$espera$
 bé$bé$bé$molt bé!$també$
-preu$taxar,
+preu$taxar, marcar$
 causar$causa$motiu$causa$
 culpable$culpable$
 control, domini$sota control$fora de control$comandament$control$
@@ -414,7 +414,7 @@ sensació$seny$sentit de l’humor$sentit de l’humor$sentit$
 discutir$argumentar$
 benvingut$de res$benvingut$estar invitat a fer ac$donar la benvinguda a, rebre$
 classe, mena$tota mena de$aquesta mena de coses$una espècie de$classificar$
-provar,
+provar, demostrar$resultar$
 sord$sord com una tàpia$
 personal, plantilla$pentagrama$proveir de personal$
 portar$desgastar(-se)$
@@ -429,7 +429,7 @@ menjar$menjar$
 cru$pur$
 llengua, idioma$llenguatge$
 presentar$introduir$
-
+llest$enginyós, destre$llest$amb intel·ligència, enginyosament$intel·ligència, destresa$
 títol utilitzat davant del cognom o del nom complet d’una dona casada: Sra.$
 entrar (en)$introduir$presentar-se a, inscriure’s en$
 savi, assenyat$sàviament, assenyadament$
@@ -476,7 +476,7 @@ comparar$en comparació d’algú/ac$
 tenir gana$afamat$amb gana$
 joc$partit, partida$
 anunciar$
-fa
+fa poc temps$ara mateix, immediatament$només$simplement, realment$ben bé, exactament$
 aliments, menjar$
 obtenir$
 sobrer$temps lliure$donar, dedicar$(peça de) recanvi$
@@ -505,7 +505,7 @@ evitar$evitar$defugir$
 sol$solitari$
 mestre, -a, professor, -a$
 expressar$
-temperat,
+temperat, suau$suau$suavitat$
 comerç$ofici$indústria$comerciar$
 suposar$suposo (que sí)$haver de fer ac (suposadament)$haver d’ésser/de passar ac (suposadament)$tenir fama d’ésser ac$
 informal$casual$despreocupat$despreocupadament, informalment$despreocupació, informalitat$
@@ -553,7 +553,7 @@ formació$entrenament$
 
 finestra$finestra$
 reflectir$reflectir$reflexionar$
-poc
+poc fondo$superficial$
 aire$aeri, de l’aire$l’aire$expressar opinions, punts de vista, etc.$
 reconèixer$admetre$
 vistós, marcat$valent, intrèpid$amb valentia, atrevidament$valentia, atreviment$
@@ -666,7 +666,7 @@ líder, cap$
 de nit, a la nit$de la nit al dia$
 sud$el sud$(del) sud$cap al sud$
 sol·licitud$aplicació$
-suportar$suportar$donar
+suportar$suportar$donar a llum$ós$
 endreçat, ordenat$endreçadament$endreçar, ordenar$
 penjar, estar penjat$penjar$trobar la manera de fer ac$
 mandrós$mandra$
@@ -676,7 +676,7 @@ pissarra$tauler d’anuncis$tauler$a bord$planxa, post, taula$
 rei$rei$
 agitar(-se)$tremolar, estremir-se$donar(-se) la mà$dir que no amb el cap$
 poc conegut$poc clar$
-producció,
+producció, fabricació$producció$realització, producció$posada en escena, representació, muntatge$
 senyal, rètol$senyal, indici$senyal$signe, símbol$signe del zodíac$
 buit$buit, forat$
 secretari, -ària$secretari, -ària$
@@ -795,7 +795,7 @@ insuls$fat, insípid$insipidesa$
 pressió$problema$pressió$pressionar algú$pressionar$
 prémer, pitjar$la premsa$
 esmussat$sense pèls a la llengua$esmussament$
-foc,
+foc, incendi$foc$encendre’s$cremar$calar foc a ac$
 respondre$
 dividir, repartir$estripar(-se)$trencar-se de riure$esquerda, estrip$escissió$
 el medi ambient$entorn$
@@ -876,7 +876,7 @@ tibant, tens$tibadament$tibantor, tensió$
 associació$
 avaluar, valorar$
 de luxe$de classe alta$
-atreure$atreure
+atreure$atreure atenció, suscitar interès, etc.$atreure$
 fred$
 característica$tret$comptar amb, ésser protagonitzat per$
 encaixar$anar$
@@ -984,7 +984,7 @@ nu$nu, a pèl$nu$
 usuari, -ària$
 contacte$contacte$contacte$contactar amb$
 entumit, insensible$
-recordar$retirar
+recordar$retirar del mercat$
 
 exèrcit$
 
@@ -1120,14 +1120,14 @@ carregat, mal ventilat$
 exercici$exercici$fer exercici$
 rebel, entremaliat$
 
-indicacions$direcció$cap
-ple
+indicacions$direcció$cap a algú$
+ple de fum$
 seient$asseure’s$seure$
-rodar,
-
-actitud,
-rentar$rentar$bugada$una
-pintoresc,
+rodar, rodolar, fer rodar$enrotllar$rodar, rodolar$estar folrat$rotlle$
+de neu, nevat$
+actitud, disposició$
+rentar$rentar$bugada$una rentada$
+pintoresc, singular$
 malaltia$
 acompanyar$anar amb$acompanyar$
 
@@ -1183,7 +1183,7 @@ ronc$ronquera$
 apreciar$agrair$fer-se càrrec de/que$agrairia, agrairies, etc.$
 calitjós, boirós$
 
-avantatge$aprofitar
+avantatge$aprofitar ac$aprofitar-se d’algú/ac$
 manca d’ac$mancar de$
 
 superfície$aparença$
@@ -1390,7 +1390,7 @@ donar una puntada de peu/puntades de peu a$espeternegar$anar-se’n a l’altre 
 blanc$objectiu$
 besar, fer un petó a$petó$fer el boca a boca a algú$
 
-cantó,
+cantó, cantonada$racó$
 
 dit$tocar ferro$no moure ni un dit$tenir uns dits graponers$toquejar amb els dits$
 comprar, adquirir$compra, adquisició$compra, adquisició$
@@ -1488,7 +1488,7 @@ telèfon$al telèfon$trucar (a), parlar per telèfon (amb)$
 dolor, mal$pena, patiment$ésser molest$
 escombrar$arrossegar$
 sentiment$esperit, ànima$animat, desanimat, etc.$licor$
-abordar$fer
+abordar$fer una entrada a, placar$entrada, placatge$
 estudi$estudi$taller$
 amb antelació, per endavant$avenç$(fer) avançar$avançar$
 cessar, suspendre$
@@ -1509,7 +1509,7 @@ favor$estar a favor d’ac$preferir$afavorir$
 reforma$reformar$
 engrapar, agafar$atrapar, agafar$agafada$
 forma$en bona, mala, etc. forma$donar forma a$
-deixar$deixar,
+deixar$deixar, prestar$
 transport$transport$transportar$
 participar$
 agent, representant$agent, espia$
@@ -1526,7 +1526,7 @@ protecció$
 fum$fumar$treure fum$
 
 candidat, -a$aspirant$examinand, -a$
-estripar$dubtar
+estripar$dubtar entre ac i ac$estrip$llàgrima$
 conductor, -a$
 adaptar$adaptar-se$
 ajustar, regular$adaptar-se$
@@ -1824,7 +1824,7 @@ concentració$
 empresa, organització$iniciativa, esperit emprenedor$
 torçar, girar$torçar$serpentejar$gir$volta, torsió$
 nen, -a$cabrit$fer broma, prendre el pèl$
-unir(-se),
+unir(-se), ajuntar(-se)$
 centre$meitat$estar ocupat fent ac$central, del mig$
 
 coll$
@@ -1906,7 +1906,7 @@ programa$ortografia americana de “programme”: programa$programar$
 publicació$publicació$
 plegar$encreuar els braços$plec$
 pantalla$pantalla$cine$davant una pantalla, a l’ordinador$
-silenci$silenci$fer
+silenci$silenci$fer callar, silenciar$
 agafar (amb força)$copsar$agafar el bou per les banyes$domini$
 tractat$
 
@@ -2134,7 +2134,7 @@ dictar$
 potencial, possible$potencial$
 discrepar$
 teulada$
-criat,
+criat, -ada$
 inundar-se$inundar$riuada, inundació$
 sabata$
 prohibir$prohibit$
@@ -2218,7 +2218,7 @@ queixa, reclamació$
 espantar$
 empresa$
 
-
+regidor, -a$
 fer un crit ofegat$crit ofegat$
 resultat, conclusió$
 honor, honra$en honor d’algú/d’ac$honor$
@@ -2251,7 +2251,7 @@ gratar(-se)$ratllar$gratar, esgarrapar$esgarrinxada, rascada$de zero, des del co
 bellesa$
 tremolar, estremir-se$calfred$
 límit, frontera$
-comprador,
+comprador, -a$
 base de dades$
 disputa, conflicte$posar en dubte$
 excepció$fer una excepció$
@@ -2382,7 +2382,7 @@ núvol$núvol$
 autocar$entrenador, -a$autocar$entrenar, preparar$entrenament, preparació$
 costum$fet a mida$
 dòlar$
-extensió,
+extensió, expansió$
 
 humor$estar d’humor per a ac$
 personalitat$personalitat$
@@ -2500,7 +2500,7 @@ pel bé d’algú$per l’amor de Déu!$
 sal$afegir sal a, salar$
 ansietat, neguit$
 indemnització$
-assessor,
+assessor, -a$especialista$
 pesca$
 fórmula$
 periodista$
@@ -2710,7 +2710,7 @@ nervi$nervis$barra, atreviment$fer posar nerviós algú$serenitat$
 oceà$mar$
 zona$pedaç$un mal moment/un moment difícil$apedaçar$
 bolígraf, ploma$posar-se a escriure$
-porc$porc,
+porc$porc, -a, golafre$
 retrat$
 patata$
 impressora$impressor, -a, impremta$
@@ -2725,7 +2725,7 @@ viatger, -a$
 furgoneta$
 abreviatura de “value added tax”: IVA$
 oferir-se voluntari per a$voluntari, -ària$
-aliat,
+aliat, -ada$
 sol·licitant$
 garantia, promesa$confiança$
 atracció$atracció$

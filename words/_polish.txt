@@ -119,7 +119,7 @@ przepraszam , przykro mi$przykro$Słucham?$≈ żałować$opłakany widok/stan, 
 biznes, interesy$firma, przedsiębiorstwo$interes, praca$przykra /dziwna sprawa$≈ to (prywatna) sprawa$
 
 
-noc$wieczór$wieczór,
+noc$wieczór$wieczór, noc$wcześnie/późno się położyć$wyjście, wieczór poza domem$
 
 ciężki$ciężki$duży$osoba, która dużo pije /pali , nałogow-y/a pija-k/czka/palacz/ka$obfity intensywny śnieg/deszcz$
 
@@ -216,13 +216,13 @@ prawo$zgodnie z prawem , w myśl prawa$prawo$praworządność$prawo$
 
 przetrwać, zachować się, pozostawać$zachować spokój/być otwartym , pozostawać tajemnicą /więźniem$pozostawać na/w/z$
 
-przyjaci-el/ółka,
+przyjaci-el/ółka, kole-ga/żanka, znajom-y/a$przyjaci-el/ółka z dawnych lat , star-y/a przyjaci-el/ółka$przyjaźnić się (z )$zaprzyjaźnić się (z )$
 pamiętać$pamiętać$
 malutki, maleńki$
 prawo, władza$władze$autorytet$autorytet w dziedzinie$
 
 
-droga,
+droga, szosa$ulica$trochę dalej, niedaleko$po drugiej stronie (drogi )$w drodze , w podróży$
 rozmawiać, mówić$rozmawiać z$rozmawiać mówić o$mówić po angielsku /francusku /niemiecku$przemawiać$
 
 minister$duchowny$
@@ -349,7 +349,7 @@ czysty$czysty$czysty$matematyka/fizyka czysta$czysty$
 absolutny , całkowity, zupełny$jednoznaczny$
 
 zawierać$zawierać$opanować$opanować$
-sam$najmniejszy,
+sam$najmniejszy, najdrobniejszy$
 
 zmniejszać, obniżać, redukować$redukować$
 
@@ -364,7 +364,7 @@ mnóstwo, pełno$znacznie / /$wszystko, wszyscy$partia, grupa$teren, działka$
 
 decyzja$
 osiągać$osiągalny$człowiek sukcesu$
-dumny$być
+dumny$być zbyt dumnym aby$dumny, wyniosły$
 ulica$
 poszukiwać, szukać$zabiegać o, ubiegać się o$
 szalony$wściekły$wściec się$oszaleć$szaleć za$
@@ -695,7 +695,7 @@ niegrzeczny$brzydki, nieprzyzwoity$
 porozumienie$zgoda$
 
 
-lord$Pan$Dobry
+lord$Pan$Dobry Boże !$
 adoptować$przejmować, przyjmować$adoptowany$adopcja$
 ryzykowny$
 
@@ -799,7 +799,7 @@ nieciekawy$bez smaku, mdły$
 reagować, odpowiadać$reagować$
 
 środowisko (naturalne )$otoczenie$
-organizować,
+organizować, załatwiać$układać$
 roztropny$roztropność$roztropnie$
 ogród, ogródek$ogrody$pracować w ogrodzie , zajmować się ogrodem$
 przeżyć, przetrwać$przetrwać$przeżyć$
@@ -827,7 +827,7 @@ gęsty, kremowy$
 związek$krewn-y/a$w porównaniu z do$w związku z$
 wchodzić w posiadanie$nabywać, posiąść, przyswajać sobie$
 nieświeży, czerstwy$spowszedniały$
-popełniać$zobowiązywać
+popełniać$zobowiązywać się, deklarować się$nie deklarować się$przeznaczać, inwestować$
 
 
 dowodzić$demonstrować, pokazywać$wykazywać, demonstrować$demonstrować$
@@ -860,7 +860,7 @@ na próżno, nadaremnie$daremn-a/y próba/wysiłek/nadzieja$próżny$na próżno
 nieposprzątany, nieporządny$
 hotel$
 wspierać, promować$promować$awansować$
-brudny,
+brudny, zabałaganiony$przykry, zawiły$
 zawodni-k/czka, gracz$muzyk$
 dostarczać, dowozić, doręczać$wywiązywać się (z)$wygłosić mowę /przemówienie$przyjmować poród$
 masywny, wielki$
@@ -986,7 +986,7 @@ użytkownik$
 zdrętwiały$nieprzytomny$
 przypominać sobie$odwołać, wycofać$przypomnienie (sobie), odwołanie, wycofanie$
 tłusty, oleisty$
-wojsko,
+wojsko, armia$armia$
 przestronny$
 
 jedwabisty$
@@ -1035,7 +1035,7 @@ fundusz$fundusze$finansować$
 móc sobie pozwolić na, stać na$móc sobie pozwolić na$
 solidny, masywny$
 noga$noga, nóżka, udziec$noga$nogawka$odcinek, etap$
-zarabiać$zarabiać
+zarabiać$zarabiać na życie$zapracować na, zasłużyć sobie na$przynosić$
 kiepski$kulawy$
 
 
@@ -1113,7 +1113,7 @@ oślizgły$lizusowaty$
 wizerunek$obraz$obraz$
 
 słony$
-ropa
+ropa (naftowa )$olej$
 załączać, przymocować$zwracać uwagę na , przywiązywać wagę do$załączać, dołączać$załączać$
 duszny$staroświecki, nudny$
 sektor$sektor, strefa$
@@ -1315,7 +1315,7 @@ chwytliwy, celny$wystrzałowy$
 rozwiązanie$roztwór$
 
 rybny$podejrzany$
-waga$tracić
+waga$tracić na wadze$przybierać na wadze$ciężar$ciężar$
 sądzić, myśleć$szacować$
 okrągła sumka$
 ptak$
@@ -1344,7 +1344,7 @@ przysadzisty$
 
 stuknięty$
 
-niemodny,
+niemodny, byle jaki$
 zlokalizować$mieścić się$
 w centrum, centralny$
 opozycja, sprzeciw$opozycja$
@@ -1578,7 +1578,7 @@ cytować, przywoływać$wzywać do sądu$
 wiara, przekonanie$przekonanie, wierzenie$wiara$niewiarygodny$
 wypełniać obowiązek/spełniać obietnicę /zadanie$realizować ambicję /marzenie/cel$spełniać funkcję /zaspokajać potrzebę /spełniać rolę$spełniać kryteria /wymagania /posiadać kwalifikacje$
 
-wniosek$zakończenie$na
+wniosek$zakończenie$na zakończenie$zakończenie$
 
 zareagować$reagować$reagować$
 
@@ -1734,7 +1734,7 @@ istnienie$egzystencja$
 dżentelmen$pan$
 
 mieszkania , zakwaterowanie$
-rozwijać
+rozwijać się, ewoluować$rozwijać się$
 poprawa, ulepszenie$
 uciekać (z), opuszczać$
 warga$brzeg, krawędź$
@@ -1849,7 +1849,7 @@ ucho$kłos, kolba$mieć do ucho$
 
 błąd, pomyłka$
 pouczać, poinstruować$szkolić, nauczać$
-instrukcja,
+instrukcja, wskazówka, polecenie$nauka, szkolenie$
 wtrącać się, mieszać się$
 blok$moduł$
 izolować$
@@ -1952,7 +1952,7 @@ popierać$poparcie$
 opracowywać$formułować$opracowanie, sformułowanie$
 galeria$galeria, balkon$
 
-brama,
+brama, furtka$wyjście$
 zaimponować, zrobić wywrzeć wrażenie na$
 pistolet, strzelba, broń palna$
 
@@ -2097,7 +2097,7 @@ wzywać, zwołać$zbierać odwagę /siły$
 wrażenie$parodia$odcisk$
 dodatek, suplement$uzupełniać$
 przywództwo$kierownictwo$
-tłumić,
+tłumić, powstrzymywać$zablokować, zataić$tłumić$tłumienie$
 marketing$
 
 mechanizm$mechanizm$
@@ -2206,7 +2206,7 @@ parafia$
 
 drążek$balustrada, poręcz$kolej$szyna$
 
-przekierować,
+przekierować, skierować$odwracać uwagę$
 pracy$mężczyzna/kobieta pracując-y/a czynn-y/a zawodowo$praktyczna znajomość$
 uosabiać$
 śniadanie$jeść śniadanie$
@@ -2222,7 +2222,7 @@ radn-y/a$
 westchnąć$sapać, łapać (z trudem ) powietrze$gwałtowny wdech$
 wniosek, wynik$
 
-szczelina,
+szczelina, szpara$przepaść, luka$luka$luka (na rynku )$przerwa$
 hamować$powstrzymywać$
 trawa$trawa$
 dawać motywację , motywować$powodować$powodowany$
@@ -2486,7 +2486,7 @@ tor, okrążenie$obwód$program, trasa$
 zegar$licznik$24 godziny na dobę$walczyć z czasem$
 zużycie, spożycie$spożycie$
 
-demonstracja$demonstracja,
+demonstracja$demonstracja, pokaz$dowód$
 wydanie$wydanie, edycja$
 
 
@@ -2522,7 +2522,7 @@ klimat$klimat$
 
 
 fortuna$los, fortuna$
-niebo,
+niebo, raj$raj$
 oznaka, znak$oznaka, znak$
 pomiar$wymiar$miara$
 
@@ -2655,10 +2655,10 @@ koalicja$
 koncert$
 przytomność$świadomość$
 ograniczenie$
+krowa$krowa$
+terminarz, kalendarz$pamiętnik, dziennik$
 
-terminarz,
-
-wiedza
+wiedza (fachowa ), umiejętności$
 
 
 gramatyka$gramatyka$
@@ -2682,7 +2682,7 @@ puszka$puszka$blacha$cyna$
 niepewność$
 zaleta$zaleta, cnota$cnotliwość, cnota$dzięki$
 oddział$
-porządek
+porządek dzienny$lista spraw$
 
 
 kabel$lina$telewizja kablowa$
@@ -2727,7 +2727,7 @@ furgonetka, mikrobus$
 
 sprzymierzeniec, sojuszni-k/czka$sojusznik$
 kandydat/ka$
-zapewnienie$pewność
+zapewnienie$pewność siebie, przekonanie$
 atrakcja$pociąg$
 kontrola ( ), audyt$kontrolować$rewident (księgowy), kontroler (księgowy)$
 miasto, dzielnica$
@@ -2749,7 +2749,7 @@ przyjaźń$
 garaż$warsztat, salon samochodowy, stacja benzynowa$
 innowacja, nowość$
 
-skrzyżowanie,
+skrzyżowanie, rozjazd$
 maszyny$mechanizm, machina$
 producent$
 organ$organy$
@@ -2761,7 +2761,7 @@ planeta$planetarny$
 szczur$kanalia$
 rejestracja, zapisy$rejestracja, numer rejestracyjny$
 
-rezygnacja,
+rezygnacja, ustąpienie$rezygnacja$
 sprzedawca$(chodliwy) produkt$
 jedwab$
 
@@ -2997,7 +2997,7 @@ inwestor, deweloper$
 diagnoza$
 dialog$dialog$
 spis, katalog$katalog, folder$
-dyskrecja,
+dyskrecja, takt$uznanie, gestia$
 drzwi, próg$
 
 czas trwania , okres$
