@@ -42,7 +42,7 @@ jaringan$tubuh manusia$sistem$cara$efisiensi$
 
 
 
-
+bagian$bagian$peranan$peranan$bagian$
 menemukan$menyadari$berpikir$temuan, hasil penelitian$keputusan$
 
 kelompok$kelompok$
@@ -76,7 +76,7 @@ memberi kesan$tampak$rupanya$patut$
 
 pesta$rombongan$partai$
 bertanya$minta$mengundang$menanyakan$minta$
-
+kuat$keras$keras$berkekuatan$dengan
 
 
 benar$tepat$setia$sesungguhnya$kebenaran$
@@ -142,7 +142,7 @@ mendengar$mendengarkan$mendengar$pendengaran$jarak pendengaran$
 lengkap$menyeluruh$selesai$sama sekali$keutuhan$
 
 mencakup$pencakupan$termasuk$sampai dengan$
-
+panas$panas$pedas$pemberang$segar$
 
 mempercayai$percaya$mengira$bisa dipercaya$keyakinan$
 
@@ -235,7 +235,7 @@ pintu$sarana$bel pintu$tombol pintu$penjaga pintu$
 menerima$menerima$menerima$menyambut$menadah$
 
 null$null$setiap$pasir$jarum$
-
+memutuskan$memastikan$
 banyak pekerjaan, sibuk$ramai$penuh, sibuk$penuh kesibukan$
 kantor$kantor$tempat penjualan$jabatan$perwira$
 menang$memenangkan$merebut$pemenang$berhasil$
@@ -410,7 +410,7 @@ kematian$penyebab kematian$mati$sangat$ranjang mati$
 
 
 menyenangkan$secara menyenangkan$sikap menyenangkan$
-
+indera$perasaan$rasa$penilaian$arti$
 bertengkar, membantah$mempertimbangkan$membujuk$mengemukakan$bisa dikemukakan$
 disambut baik$ramah$boleh$terima kasih kembali$
 jenis$pemilah$semacam$kurang sehat$kurang semangat$
@@ -440,7 +440,7 @@ keras$tepat$kekerasan$dengan keras$mengikuti peraturan$
 datang, tiba, sampai$kedatangan$pendatang$mencapai$
 keras$mencolok$dengan keras$berisik$pengeras suara sederhana$
 bagian$mengenai bagian$toko serba ada$
-
+memastikan$
 sangat buruk$kasar$gemuk$keseluruhan$sangat buruk$
 
 telanjang$kosong$meranggas, gundul$aus$pokok$
@@ -484,14 +484,14 @@ persatuan$persekutuan$serikat$bendera Inggris$
 
 rapi$rapi$murni$kerapian$dengan rapi$
 peran$peranan$
-
+melupakan$melupakan$lupa
 
 peristiwa, acara$pertandingan$menarik$dalam keadaan apa pun$kalau begitu$
 menunjukkan$petunjuk$indikatif$penunjuk$
 berani$dengan berani$keberanian$
 
 
-
+lembab$melembabkan$melemahkan$sesuatu
 seni$seni$keahlian, kiat$cerdik, licin$secara cerdik$
 meneruskan$merawat$menanggung$mempertahankan$perawatan$
 
@@ -505,7 +505,7 @@ menghindari$dapat dihindari$pengelakan$
 
 
 
-
+lembut$ringan$sejuk$tidak
 
 memperkirakan$mengandaikan$bagaimana kalau$seandainya$dipandang$
 sambil lalu$santai$kebetulan$sambilan$kebetulan$
@@ -799,7 +799,7 @@ tumpul$terang-terangan$dengan terang-terangan$keterusterangan$
 menanggapi$bereaksi$bereaksi$tanggapan, respons$tanggapan$
 membelah$membagi$dibuat dua tingkat$sekejap mata$pusing sekali$
 lingkungan$mengenai lingkungan$pencinta lingkungan$ramah lingkungan$
-
+mengatur,
 bijaksana$dengan bijaksana$kebijaksanaan$
 kebun$tukang kebun$berkebun$taman$toko tanaman, toko peralatan berkebun$
 tetap hidup$hidup lebih lama$kelangsungan hidup$masih hidup$orang yang selamat$
@@ -859,7 +859,7 @@ beberapa$pasangan$kuplet$sambungan$
 batas$penghematan$pembatasan$keterbatasan$terbatas$
 berantakan$
 hotel$pemilik hotel$
-
+menaikkan
 
 
 mengantarkan$mengucapkan$membantu persalinan$pengiriman$kelahiran$
@@ -1014,7 +1014,7 @@ menyatakan secara tidak langsung$implikasi$
 
 
 
-
+tidak
 
 
 
@@ -1059,7 +1059,7 @@ musim panas$panas$tempat liburan musim panas$pondok di taman$musim panas$
 bayi$anak$kekanak-kanakan$kereta bayi$null$
 
 
-
+anak
 
 
 
@@ -1072,7 +1072,7 @@ hangat$pas$bergelung$secara pas$dengan hangat$
 memilih$lebih suka$pemilihan$berkampanye$pemilih$
 lunak dan basah$kelunakan$
 
-
+berkumpul$menyimpulkan$mengumpulkan$melipat$pertemuan$
 
 sungai$dasar sungai$tepi sungai$
 
@@ -1220,7 +1220,7 @@ mempekerjakan$memesan$mempertahankan$bertempur$menggunakan$
 
 
 penurut$patuh$kepatuhan$
-
+parlemen$parlementer$
 mengutip$memberi/menetapkan daftar harga$mengemukakan$kutipan$harga yang disebutkan$
 
 
@@ -1308,7 +1308,7 @@ saudara perempuan$perawat$suster$anggota perkumpulan wanita$ipar perempuan$
 
 
 
-
+karier$arah$
 
 kerusakan$ganti rugi$rusak$
 
@@ -1378,7 +1378,7 @@ konsep$konsepsi$gagasan$peta konsep$
 
 meminjam, berhutang$belum dibayar$karena$
 canggung$kecanggungan$
-
+kesempatan$peristiwa$sesekali$kadang-kadang$
 menuangkan$hujan deras$
 
 radio$
@@ -1392,7 +1392,7 @@ mencium$sistem pernapasan buatan$
 berulang-ulang$secara berulang-ulang$pengulangan$
 
 cerdik$dengan cerdik$
-
+jari$jari$segala
 
 
 hutan$cagar alam$berhutan$penjaga hutan$kehutanan$
@@ -1599,7 +1599,7 @@ memerintah$mempengaruhi$
 
 
 
-
+melukai$cedera$sakit
 anggur$
 berdoa$mengharapkan$doa$
 musim dingin$sangat dingin$keadaan dingin$olahraga es$musim dingin$
@@ -1643,7 +1643,7 @@ kunci$tuts$tuts$nada$kunci$
 menyeka$menyeka$penyapu hujan$menyeka$membuang$
 
 membalutkan$membungkus$kertas pembungkus$pembungkus$kertas pembungkus$
-
+dianggap
 contoh$
 
 
@@ -1736,13 +1736,13 @@ mengabdikan$setia$berbakti$pengikut setia$kasih sayang$
 
 berkembang$evolusi$evolusi$evolusioner$
 
-
+melarikan
 bibir$tepi$berbibir$membaca gerak bibir$gincu$
 memaafkan$memaafkan$maaf$pemaaf$suka memaafkan$
 sidang$acara$tahun pengajaran$
 
 seperai$lembaran$kilat$
-
+menyela$menghentikan,
 melompat$melompati$menghambur$lompat katak$tahun kabisat$
 hadirin$wawancara resmi, audiensi$
 komat-kamit, bergumam$
@@ -1795,13 +1795,13 @@ menghapuskan$penghapusan$
 
 mengurus, mengelola$menerapkan, menjalankan$memberikan$administrasi$pemerintah, pengurus, penyelenggara$
 dasawarsa$
-
+menyatakan,
 
 
 
 memakan$menggunakan$membinasakan$konsumen$konsumsi, pemakaian$
 
-
+mengangkut$membalik
 
 
 mendidik$berpendidikan$berpendidikan$tebakan yang cerdas$pendidikan$
@@ -1836,7 +1836,7 @@ senjata$
 mengungkapkan$pengungkapan$
 
 membayangkan$
-
+masam$sindiran
 
 
 
@@ -1941,7 +1941,7 @@ mengaku$pengakuan$mengaku dosa$tempat pengakuan dosa$yang mendengarkan pengakuan
 mengurangi$
 langit$biru langit$terjun bebas$penerjun bebas$tinggi sekali$
 menilai$
-
+jumlah$banyaknya
 ingin, cenderung$mengatur$sekali pakai kemudian dibuang$pembuangan$untuk digunakan$
 menjegal$berjalan$pelancong$
 melarutkan$membubarkan$pembubaran$
@@ -1984,7 +1984,7 @@ prajurit$bekerja terus$
 
 
 alat$toolbar, barisan komputer$
-
+melampirkan$mengelilingi$pengepungan$tempat
 gigi$menumbuhkan gigi$menumbuhkan gigi$bergigi$tak bergigi$
 
 pasukan$rombongan$prajurit$prajurit$
@@ -2058,7 +2058,7 @@ merampas$kesulitan$kesengsaraan$sengsara$
 rumah makan$restorasi$
 mengurangi$berkurang$
 
-
+tenggelam$menenggelamkan$
 
 naik kapal$pemberangkatan$memulai$
 
@@ -2105,7 +2105,7 @@ menghentikan$menahan$merahasiakan$penghentian$
 tetangga$lingkungan$sekitar$siskamling$bertetangga$
 lembaran$panel$berlapis$lapisan$
 meneruskan$menyiarkan$penyebaran$siaran$pemancar$
-
+revolusi$revolusi$putaran$revolusioner$revolusioner$
 
 
 pantai$
@@ -2134,7 +2134,7 @@ mendiktekan$menyatakan$memerintahkan$dikte$diktator$
 potensial$secara potensial$energi potensial$
 tidak sependapat$bertengkar$tidak cocok$tidak menyenangkan$secara tak menyenangkan$
 atap$material atap$perbaikan atap$rak di atas mobil$bubungan atap$
-
+pelayan$pegawai
 bah$banjir$banjir$gerbang banjir$membuka gerbang banjir, membuka peluang$
 sepatu$ladam, sepatu kuda$berladam$tali sepatu$tukang sepatu$
 melarang$dilarang$menakutkan$
@@ -2231,7 +2231,7 @@ mengalikan$berkembang biak$perkalian$pilihan ganda$sklerosis ganda$
 
 mematuhi$kepatuhan$kepatuhan$patuh$dengan patuh$
 penumpang$
-
+menembus$keras$menusuk$secara
 
 
 yakin$lancang, berani$mungkin$keyakinan$kelancangan$
@@ -2386,7 +2386,7 @@ dolar$
 
 suasana hati$murung$dengan murung$kemurungan$
 
-
+filsafat$falsafah$ahli
 
 
 
@@ -2469,7 +2469,7 @@ hipotek$
 langkah$kecepatan gerakan$pemacu jantung$pencatat kecepatan$mengimbangi kecepatan$
 paragraf$
 
-
+peron$panggung$
 
 
 pasir$pantai berpasir$berpasir$pirang$beting pasir$
@@ -2492,7 +2492,7 @@ null$pengukur kecepatan$searah jarum$mekanisme$mencatat waktu$
 manusia$manusiawi$manusia$umat manusia$sumber daya manusia$
 
 petani$golongan petani$
-
+perseptif$perseptif$secara
 staf$
 pejabat gereja$pendeta$pendeta$jabatan pendeta$
 provinsi$provinsial$
@@ -2596,7 +2596,7 @@ wadah$kapal$
 lonceng$bel$
 bata$penghinaan$tukang batu$
 
-
+kenyamanan$kenyamanan$nyaman$nyaman$cukup$
 
 
 lorong$
@@ -2660,13 +2660,13 @@ buku harian$
 debu$bubuk$kain lap$berdebu$keadaan kotor$
 
 orang$teman$anggota$perhimpunan$keramahan$
-
+rakyat$keluarga$cerita
 tata bahasa$tata bahasa$tata bahasa$sesuai tata bahasa$aturan tata bahasa$
 wali$penjaga$penjagaan$
 
 kengerian$null$mengerikan$tidak menyenangkan$sifat mengerikan$
 bayi$masa bayi$
-
+kulit$liat$
 ruang tepi$tepi$kelonggaran$kecil, tipis$
 mumi$
 
@@ -2685,7 +2685,7 @@ bangsal$orang yang di bawah perwalian$sipir$
 daftar acara$maksud tersembunyi$
 tanda bahaya, alarm$kekhawatiran, ketakutan$alarm$menakutkan$secara menakutkan$
 
-
+kabel$kabel$kabel$null$televisi
 karbon$tindasan$karbon dioksida$jumlah karbon dioksida$karbon monoksida$
 piagam$
 ayam$daging ayam$pengecut$cacar$mundur$
@@ -2729,7 +2729,7 @@ sekutu$persekutuan$sekutu, bergabung$berpadu$mirip$
 
 
 
-
+audit$akuntan$
 kotapraja$
 pengiriman$gerbong$kereta$gandar$sikap$
 cokelat$cokelat$
@@ -2885,7 +2885,7 @@ singa$bagian terbanyak$
 kekalutan$kotor$berantakan$keadaan berantakan$kekacauan$
 paling rendah$paling kecil, minimal$mengecilkan$menyepelekan$
 monopoli$memonopoli$memborong perkataan$
-
+motif$mendorong$motivasi$
 dongeng$khayal$secara khayalan$mitologi$mitologis$
 angkatan laut$biru laut$angkatan laut$
 
@@ -3019,7 +3019,7 @@ kemerdekaan$kebebasan$lancang$hak$berbuat lancang$
 
 kebaikan$kelebihan$layak dipuji$
 tengah malam$
-
+peluru$roket$peluru
 
 
 
@@ -3063,7 +3063,7 @@ tambahan uang jasa$ekstra$
 
 
 persemakmuran$
-
+konsesi$
 korelasi$
 tindakan$kudeta, makar$kudeta$
 
@@ -3099,7 +3099,7 @@ kasihan$sayang sekali$memilukan$penuh belas kasihan$belas kasihan$
 huru-hara$pelaku kerusuhan$menimbulkan huru-hara$ribut$rusuh$
 skandal$skandal$gunjingan$mengejutkan$memalukan$
 cendekiawan$penerima beasiswa$terpelajar$sifat terpelajar$pandai$
-
+bulatan$bulat$
 subsider$anak perusahaan$
 subsidi$memberi subsidi$
 

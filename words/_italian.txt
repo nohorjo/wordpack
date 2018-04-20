@@ -1,6 +1,6 @@
 ora$Che ore sono?$A che ora parti per andare al lavoro la mattina?$tempo$Vuole più con la famiglia.$
 essere$Sono Maria.$Ho 16 anni.$È tedesco.$Erano malati.$
-
+buono,
 anno$È stato assunto dall’azienda un anno fa.$avere… anni (di età)$Suo figlio ha sei anni.$anno$
 usato con il participio passato di un altro verbo per formare il presente perfetto e il passato perfetto$Hai visto Anna?$Mi sono dimenticato il suo nome.$Non è mai stato a Londra prima d’ora.$Non aveva pensato a che cosa potesse succedere.$
 nuovo$Ho bisogno di scarpe nuove.$Inizia il suo nuovo lavoro lunedì.$nuovo$La loro casa è sempre quasi nuova.$
@@ -69,7 +69,7 @@ servizio$servizi finanziari$un di autobus gratuito dalla stazione.$servizio$Il c
 aver bisogno di$Ho bisogno di scarpe nuove.$Ho farti qualche domanda.$Abbiamo bisogno di te per badare ai nostri bambini.$non avere necessità di fare qualcosa$
 gratis, gratuito$L’entrata è gratuita ai bambini.$libero$Sei libero venerdì?$tempo libero$
 luogo, posto$La sua gamba era rotta in due posti.$Edimburgo sarebbe un bel posto dove andare ad abitare.$Che stupidaggine parcheggiare in quel posto!$casa$
-
+sentire,
 facile$L’esame era facile.$È facile capire come mai è così benvoluto.$per me è lo stesso$“Preferisci mangiare una pizza o il curry?” “Per me è uguale – scegli tu.”$
 mano$Avevo le mani in tasca.$a mano$Questo maglione deve essere lavato a mano.$tenersi per mano$
 sembrare$Sembrava felice.$una buona idea allora.$Non una vera soluzione.$sembra…$
@@ -136,7 +136,7 @@ giocare a$Sam gioca a tennis tutti i fine settimana.$Spesso giocavamo a carte.$g
 profondo$L’acqua è molto più profonda di quanto possa sembrare.$intenso, cupo$occhi marroni intensi$alla profondità di un metro, sei piedi, ecc.$
 energia, corrente$energia nucleare$potere$Gli piace avere gente.$potere$
 pagare$Ho chiesto il conto e ho pagato.$Hai pagato le bollette?$retribuire, pagare$due volte al mese.$
-
+passato
 cambiare, scambiare$Ho cambiato lavoro per guadagnare di più.$Ho cambiato medico di base.$cambiare$È molto cambiata in questi ultimi anni.$
 sentire, udire$Sentivo la sua voce nella lontananza.$sentire, ascoltare$Stamani alla radio ho ascoltato un programma sulle tigri.$sentire, venire a conoscenza di$
 completo$l’opera completa di Oscar Wilde$completo$La riunione è stata una completa perdita di tempo.$completare$
@@ -199,7 +199,7 @@ congiunto, comune$Il progetto è stato uno di tutti i bambini della classe.$cong
 lavoro$Ha come cameriere.$lavoro$Ho alcuni in casa.$compito, dovere$
 richiedere$Il lavoro richiede un alto livello di concentrazione.$
 brillante$giallo/blu brillante$splendente, luminoso$sole splendente$sveglio, in gamba$
-
+nome,
 continuare, proseguire$Ha nevicare fittamente per tre giorni.$Ava ha continuato a lavorare fino a giugno.$continuare, proseguire, riprendere$Dovremo continuare questa discussione domani.$
 ordinario, comune$un giorno normale$medio$L’età media degli studenti è 18 anni.$ordinario, comune$
 corpo$il corpo umano$cadavere$La polizia ha scoperto il cadavere in un campo.$corpo$
@@ -220,7 +220,7 @@ amico, -a$Sarah è la mia .$amico, -a (su piattaforme sociali su Internet)$Ho ap
 ricordare$Non ricordo il suo nome.$Non mi ricordo di aver firmato un contratto.$All’improvviso mi sono era il suo compleanno.$ricordare di fare qualcosa$
 piccolissimo$un piccolo bebè$
 autorità$autorità$un ente sanitario$
-
+comprare$Sono
 selvatico$un cane selvatico$fiori selvatici$selvaggio, sfrenato$una festa sfrenata$
 strada$Stai attento quando attraversi la strada.$Il viaggio è circa tre ore .$via (indirizzo postale)$
 parlare$Parla con voce molto sommessa.$C’era un silenzio totale – non parlava nessuno.$parlare inglese, francese, tedesco, ecc.$Parli inglese?$
@@ -273,7 +273,7 @@ società$Il razzismo è ancora un problema nella società moderna.$asssociazione
 disegnare$Ha disegnato un albero.$attirare$È un oratore eccellente che attira sempre una folla.$arrivare, raggiungere$
 malato$Era a letto malato.$ammalarsi$Si è ammalata ed è morta poco dopo.$forma contratta di “I will”$
 polizia$Ho udito uno sparo e ho deciso di .$sta interrogando un uomo di 30 anni.$
-
+morire$Molti
 debole$Si sentiva troppo debole per stare su a sedere.$debole$Legge bene ma ortografia.$debole$
 città, metropoli$
 sperare$l’autobus non sia in ritardo.$Avevamo un tempo migliore.$“Pensi che venga?” “Lo spero.”$sperare di fare qualcosa$
@@ -316,7 +316,7 @@ sano$Maria è una bambina sana e normale.$sano, salutare$una dieta sana$
 minuto$Ti ci vorranno 30 minuti per arrivare all’aeroporto.$È arrivata con dieci minuti di ritardo al colloquio.$minuto$Sarò da te .$
 rompere, rompersi, spezzare, spezzarsi$Hanno dovuto rompere una finestra per entrare.$rompersi$Nell’incidente si è rotta una gamba.$rompere$
 leggero, piccolo$piccole differenze di colore$esile, minuto$
-
+istruzione,
 spiegare$Puoi hai fatto questo?$Mi puoi come funziona questo telefono?$Ha sarebbe andato a stare con sua sorella.$
 simpatico, amichevole, cordiale$un viso/un sorriso simpatico$essere in amicizia con qualcuno$Suo fratello e il mio sono amici.$cordialità$
 tipo$Vendono più di 20 tipi diversi di formaggio.$Malattie di questo tipo sono molto frequenti nei bambini.$inserire dati con tastiera, digitare, dattilografare$l’inserimento di dati con tastiera, il digitare, dattilografia$
@@ -327,7 +327,7 @@ aumentare$Il fumo aumenta il rischio di sviluppare malattie gravi.$Le vendite di
 appassionato$una fotografa appassionata$È molto viaggi.$desideroso$Il negozio è desideroso di attirare nuovi clienti.$
 materia$La chimica è la mia materia preferita.$soggetto, argomento$L’argomento della conferenza era la salute mentale.$soggetto$
 coprire$L’hanno una coperta.$Si è il viso le mani.$coprire$La neve ha ricoperto gli alberi.$
-
+blu
 programma$un programma televisivo$programma$programma$La scuola offre un entusiasmante programma di eventi sociali.$
 crescere$I bambini crescono molto rapidamente.$crescere, coltivare$Queste piante crescono bene nel terreno sabbioso.$crescere$
 bagnato$un asciugamano bagnato$piovoso$una giornata di vento e pioggia$fresco, umido, non asciutto$
@@ -338,7 +338,7 @@ momento, attimo$Sarò di ritorno .$ho pensato che fosse Anna.$Potresti ?$momento
 triste$Ero molto triste quando è morto il nostro gatto.$un libro triste$squallido, patetico$Ho pulito la casa sabato sera, il che è un po’ triste.$
 età$Mozart morì 35 anni.$un bambino di età inferiore/superiore ai cinque anni$Alcuni alberi vivono fino a un’età molto avanzata.$Loro figlio ha .$
 appoggiare, aiutare$La mia famiglia mi ha sempre appoggiato nella mia carriera lavorativa.$mantenere$Ha quattro figli da mantenere.$appoggiare, condividere$
-
+puro$oro
 padre$Mio padre e mia madre si sono incontrati all’università.$
 tagliare, tagliarsi$Taglia la carne a pezzetti piccoli.$Ha tagliato il pezzo di legno a metà.$Sono andata a tagliarmi i capelli la settimana scorsa.$tagliarsi (qualcosa)$
 dolce$La salsa era troppo dolce.$carino$Guarda com’è carino quel cagnolino!$gentile$
@@ -417,7 +417,7 @@ tipo, specie$Tutti e due amiamo lo stesso musica.$Che tipo di lavoro vuoi fare?$
 provare, dimostrare$Puoi non eri là?$Sta cercando disperatamente di dimostrare la propria innocenza.$dimostrare, dimostrarsi$L’operazione si è dimostrata un successo.$
 sordo$Molte persone sorde usano la lingua dei segni.$Va a una scuola per .$sordo come una campana$Nonno è sordo come una campana.$
 personale, organico$L’azienda ha un organico di oltre 500 impiegati.$rigo musicale, pentagramma$provvedere di personale$L’ente di beneficenza era gestito da personale volontario.$
-
+indossare,
 squadra$una squadra di calcio$équipe, squadra$un gruppo dirigente$
 afferrare, acchiappare$Cerca di afferrare la palla.$prendere (treno, autobus, ecc.), salire$Ho preso l’ultimo treno per tornare a casa.$prendere$
 cieco, non vedente$È in seguito all’incidente.$cieco come una talpa$Senza occhiali sono cieco come una talpa.$tenda a rullo, tenda veneziana$
@@ -485,17 +485,17 @@ nota, messaggio, biglietto$Gli ha lasciato un biglietto sulla scrivania.$nota, a
 lindo, in ordine, ordinato$La sua casa è sempre .$Ha sempre l’aspetto molto .$buono, bello$Che buona idea!$
 ruolo, parte$Nel suo ultimo film, un gangster violento.$ruolo$Le scuole un importante società.$
 dimenticare$Ho dimenticato l’ombrello.$dimenticare$Mi sono dimenticato il suo nome.$Non dimenticare di dar da mangiare al gatto.$
-
-
-
-
-
-
-
-
-
-
-
+pazzo$un’idea
+avvenimento,
+indicare$Dati
+coraggioso,
+terreno,
+domandarsi$Chissà
+umido$Fuori
+arte$l’arte
+mantenere$È
+sicuro$Non
+pubblicare$Questo
 ripido$La salita era troppo scoscesa per andarci in bicicletta.$ripidamente$
 serie, gamma$Abbiamo discusso una vasta gamma di argomenti.$catena$fascia$Il prodotto è rivolto ai giovani nella fascia tra i 18 e i 25 anni.$
 soffrire di qualcosa$Soffre di depressione.$soffrire$Non sopporto di veder soffrire gli animali.$subire$
@@ -509,13 +509,13 @@ mite$non forte, non piccante$un curry mediamente piccante$una salsa non piccante
 commercio$un accordo commerciale$mestiere$fa il muratore.$settore dell’industria o del commercio$
 supporre, immaginarsi$M’immagino che si senta arrabbiato con lei.$m’immagino (di sì)$M’immagino che tu abbia ragione.$“Posso venire con te?” “M’immagino di sì.”$
 informale$casuale, fortuito$un’osservazione casuale$noncurante, indifferente$un atteggiamento indifferente$
-
+voce$Sentivo
 finire, ultimare$Ho finito il compito.$Abbiamo finito di piantare le piante in giardino.$finire$La riunione finisce alle cinque.$
 duro$dure critiche$stridulo, tagliente, crudo, aspro, irritante$sostanze chimiche irritanti$un’illuminazione fredda e sgradevole$
 braccio$Teneva in braccio il bambino.$armare$I terroristi si erano fucili automatici.$
 
 feroce$un cane feroce$un attacco feroce$violento, intenso$vento forte$
-
+club,
 piano, progetto$Gli ingegneri stanno lavorando sui nuovi progetti.$disegno, motivo$un motivo di pesci e conchiglie$design$
 bello$Era alto, dai capelli scuri e di bell’aspetto.$
 campo$campo$un campo da calcio$campo$È un esperto nel campo della chimica.$
@@ -666,7 +666,7 @@ leader, capo, guida$un leader religioso$È il nuovo leader del partito.$
 per la notte, durante la notte$Abbiamo pernottato a casa di mia nonna.$improvvisamente, velocemente$I cambiamenti non succedono subito.$
 sud$Lo stadio è a sud della città.$il sud$Viene dal sud dell’Inghilterra.$a sud, del sud, meridionale$
 domanda$una un prestito bancario$applicazione$
-
+sopportare$la
 ordinato$La sua stanza era pulita e ordinata.$ordinatamente$mettere in ordine, riordinare$Sto mettendo in ordine prima che arrivino i nostri ospiti.$
 appendere, essere appeso$Ha il cappotto gancio dietro la porta.$Aveva una collana d’oro intorno al collo.$impiccare$impratichirsi di qualcosa$
 pigro$È troppo pigro per rifarsi il letto la mattina.$pigrizia$
@@ -681,7 +681,7 @@ cartello$un cartello stradale$un cartello di “vietato fumare”$segno$I fiori 
 cavo$una conchiglia vuota/un tubo cavo$cavità$
 segretario, -a$segretario$il Segretario di Stato$
 assistere a, partecipare a$Ha partecipato a una riunione.$frequentare$Quale scuola frequenta tua figlia?$
-
+sexy,
 possibilità, probabilità$È sia sempre lì.$Ha una piccola superare l’esame.$opportunità, occasione$Non ho di parlare con te alla festa.$
 volare$L’uccello è volato su fra i rami di un albero.$andare in aereo$Domani prendo l’aereo per le Hawaii.$pilotare, volare$
 ghiacciato, gelato$strade ghiacciate$gelido$un vento ghiaccio$gelido$
@@ -726,12 +726,12 @@ il futuro$il futuro$A qualche punto probabilmente cambieremo casa.$in futuro$In 
 associare$La maggior parte delle persone questa marca la buona qualità.$socio, -a$È mia socia d’affari.$
 confortevole, accogliente$Questa stanza è molto accogliente.$
 sito internet$luogo, cantiere$un cantiere edile$luogo$il luogo di una battaglia$
-
+calvo,
 perdita, smarrimento$perdita di memoria$perdita di posti di lavoro$perdita$Non si sono mai ripresi dalla perdita di loro figlio.$
 sposare, sposarsi$Mi vuoi sposare?$Non si è mai sposato.$
 grezzo, ruvido, di grana grossa$stoffa ruvida$volgare$Di quando in quando scoppiava una risata sguaiata.$grossolanamente$
 negozio$un negozio di calzature$fare spese$Sono vestiti da bebè.$
-
+collezionare,
 fesso, stupido$Quella è un’idea stupida.$
 animale$un animale selvatico$È sostenitrice dei .$essere animale$Gli esseri umani sono gli unici animali che usano il linguaggio?$
 allegro$Buon Natale!$allegramente$allegria$
@@ -741,7 +741,7 @@ debole$una debole vecchia signora$
 vantaggio, utilità$Ho avuto un’infanzia felice.$beneficio accessorio$Il direttore del personale ha esposto i benefici accessori degli impiegati: assicurazione sanitaria, pensione, ecc.$a beneficio di qualcuno$
 maturo$banane mature$
 cuore$Il cuore mi batteva forte.$cuore$Il suo ufficio è Tokyo.$cuore$
-
+liberare,
 agro, aspro, acerbo$Queste susine sono un po’ aspre.$asprezza$
 emergere$Una figura è ombra.$
 franco$Abbiamo avuto una discussione franca.$franchezza$
@@ -776,7 +776,7 @@ rispondere, replicare$Non capisco, rispose.$Non ha mia mail.$risposta$Hai ricevu
 
 pezzo$un carta$Ha tagliato il dolce in otto fette.$pezzo, brano, capo$un pezzo di attrezzatura$
 ignorare$L’ho salutata ma lei mi ha ignorato.$
-
+robusto$scarponi
 popolazione$Qual u007fè la Brasile?$popolazione$La popolazione di cervi è aumentata nel nord-est.$
 legame, collegamento$C’è un diretto il fumo e il cancro.$I loro la Gran Bretagna sono sempre stretti.$link$Clicca su questo link per visitare la nostra libreria online.$
 grasso$
@@ -839,7 +839,7 @@ preferire$i cani gatti.$Preferisce guardarlo più che giocare a tennis.$usato pe
 maestoso, solenne$una per le strade$maestosità, imponenza$
 manodopera, lavoro manuale$Quel prezzo include la manodopera?$manodopera$manodopera a basso costo$doglie$
 ripetere$Ha ripetuto il numero.$Il test deve essere ripetuto parecchie volte.$ripetizione, replica$Si sta facendo tutto il possibile per evitare tragedia.$
-
+corpulento,
 principio$Deve essere punito – è una questione di principio.$per principio$Non porta la pelliccia per principio.$
 dormire$Abbiamo dormito in un albergo ieri notte.$Hai dormito bene?$dormire come un sasso$Sono andato a letto presto e ho dormito come un sasso.$
 
@@ -855,7 +855,7 @@ spiritoso, arguto$Era spiritoso e simpatico.$
 scelta$Se avessi scelta smetterei di lavorare.$scelta$Nel passato le donne hanno dovuto la carriera e il matrimonio.$scelta, assortimento$
 lanciare, varare (nave)$intraprendere$Hanno indetto un’inchiesta sulla sua morte.$lanciare$Il libro è stato presentato lo scorso Febbraio.$
 vanitoso$vano$I medici gli hanno somministrato farmaci più potenti nella che potesse riprendersi.$invano$Ho tentato invano di iniziare una conversazione.$
-
+paio$Sono
 limite$un limite di tempo$C’è un quanto tempo possiamo dedicare a questo.$limitare$Dobbiamo porre un limite al numero di invitati.$
 disordinato$una stanza disordinata$È molto disordinata in casa.$
 albergo, hotel$
@@ -894,12 +894,12 @@ sforzo$Si ad essere socievole.$sforzo, fatica$Ho molto organizzare la festa.$
 promettere$Ha scrivermi tutte le settimane.$Paul mi ha avrebbe fatto lui cena stasera.$promettere$I suoi genitori le hanno promesso una macchina nuova se passa agli esami.$
 stordito, preso da vertigini$stordimento, vertigini$
 
-
+respingere,
 dimesso, sciatto$abiti dimessi$in modo dimesso/sciatto$un uomo vestito in modo sciatto$
 tecnologia$tecnologia informatica$
 piangere$Il mio fratellino piange sempre.$gridare$“Guarda questo!” ha gridato Raj.$è inutile piangere sul latte versato$
 unto$cibo untuoso$
-
+difficoltà$Ho
 
 assonnato$Il caldo mi aveva fatto venire sonno.$con aria assonnata, in modo assonnato$
 macchina$una macchina per fare il pane$una macchina del caffè$computer$
@@ -915,7 +915,7 @@ energia$Occuparsi dei bambini prende molto tempo e energie.$Non avevo nemmeno l�
 avvisare, avvertire$Ti avevo avvertito che sarebbe stato freddo.$
 oro$d’oro$gioielli d’oro$dorato$vernice dorata$
 crescita$il tasso di crescita della popolazione$escrescenza, tumore$
-
+indirizzo$indirizzo
 saporito, gustoso$
 cura, trattamento$È in cura per un’infezione polmonare.$trattamento$Ci sono state delle lamentele riguardo al trattamento dei prigionieri.$
 dichiarare$Ha qualcosa da dichiarare?$dichiarare$Gli scienziati hanno il procedimento è sicuro.$La nazione ha le nazioni confinanti.$
@@ -936,7 +936,7 @@ fornitura$Occorre aumentare sanità per gli anziani.$
 rischio$il rischio di malattie del cuore$rischiare$a rischio$Tutte le case nel raggio di 100 metri dal mare sono allagamento.$
 attaccare, attaccarsi, appiccicare, appiccicarsi$Il libro si è bagnato e si sono appiccicate tutte le pagine.$Aveva appiccicato molte foto alla parete.$conficcare$Gli ha conficcato l’ago nel braccio.$
 liscio$
-
+fare
 sporco, sudicio$un bambino tutto sudicio$sporcizia, sudiciume$
 compito, mansione$Il nostro primo compito è quello di riordinare questi scaffali.$
 riconoscere$L’ho riconosciuta dalla sua fotografia.$riconoscere$Il fumo è la causa principale del tumore ai polmoni.$
@@ -952,7 +952,7 @@ difesa$le del corpo le infezioni$difesa$Gioco .$
 risorsa$Le nostre sono limitate.$Il paese è ricco di .$
 combinare, combinarsi, abbinare, abbinarsi$Mescolare insieme lo zucchero con il burro.$
 all’ultimo grido$Ha degli occhiali nuovi alla moda.$
-
+pavimento$un
 trattare, occuparsi di$Ha gestito la situazione molto bene.$Chi si occupa del marketing nella tua azienda?$maneggiare$Occorre lavarsi le mani prima di maneggiare il cibo.$
 sassoso, pietroso$un sentiero sassoso/una strada sassosa$
 scienze$scienza$La chimica, la fisica e la biologia sono tutte materie scientifiche.$
@@ -989,7 +989,7 @@ ricordare$Non ricordo di aver fissato quando incontrarci.$richiamare (prodotto d
 esercito$l’esercito del Regno Unito$
 
 cane$andare in malora$non svegliare il can che dorme$
-
+soffice,
 economia$l’economia degli Stati Uniti.$un’economia globale$
 trasferire$È stata un altro ospedale.$trasferimento$Spero di ottenere il nostro ufficio di Bruxelles.$
 
@@ -1040,7 +1040,7 @@ zoppo$un cavallo zoppo$zoppia$
 parco, giardini pubblici$Siamo andati a fare una passeggiata nel parco.$parcheggiare, posteggiare$Puoi parcheggiare fuori della scuola.$
 tesoro$Ti senti bene, tesoro?$
 titolo$titolo$
-
+informare$Ci
 nuvoloso$una giornata nuvolosa$
 
 
@@ -1084,12 +1084,12 @@ congresso, conferenza, convegno$la conferenza annuale dei servizi di vendita$
 partita, incontro$una partita di tennis$una partita di calcio$fiammifero$una scatola di fiammiferi$
 piccante$cibo piccante$
 divisione$l’equa distribuzione della ricchezza$reparto$il reparto vendite$serie, divisione$
-
+potare,
 persuadere, convincere$Siamo riusciti a venire con noi.$convincere$Non riuscirai a convincerlo che sei innocente.$
 di acciaio, inflessibile$Aveva una di riuscire.$
 pietra$un muro di pietra$sasso, pietra$pietra (preziosa)$pietre preziose$
 cavalcare, andare a cavallo/in bicicletta/in moto$Vado al lavoro in bicicletta.$andare (in macchina/in treno/in autobus), prendere$Siamo andati in treno da San Diego a Portland.$gita/girata (in macchina/treno/autobus)$
-
+allarmante,
 
 chiudere, chiudersi$Chiudi la porta.$Si è adagiato indietro e ha chiuso gli occhi.$La porta si è chiusa con un tonfo.$chiudere$
 trascurato$Il suo lavoro era trascurato e pieno di errori di ortografia.$
@@ -1137,7 +1137,7 @@ spezzare, spezzarsi$I rametti si spezzavano mentre ci si camminava sopra.$parlar
 gol$Ha segnato due gol nella seconda metà.$porta$meta, obiettivo$L’obiettivo di Andy è di partecipare alla maratona di New York.$
 legare$Aveva le mani legate dietro la schiena.$rilegare$Il libro era rilegato con la colla.$
 
-
+relazione
 esplorare$I bambini amano esplorare.$Il miglior modo per esplorare la campagna è a piedi.$indagare$Stiamo indagando la possibilità di comprare una casa all’estero.$
 
 fascino, attrattiva$Non ho mai capito l’attrazione per lo sci.$appello$L’appello per raccogliere fondi a favore della ricerca sull’AIDS ha oltrepassato i £ 2 milioni.$reclamare, fare ricorso$
@@ -1192,13 +1192,13 @@ sangue$cattivo sangue$C’è cattivo sangue tra loro da anni.$far ribollire il s
 occupare$La sua collezione di libri occupa la maggior parte della stanza.$Il bambino sembra prendere tutto il nostro tempo.$occupare$I giochi hanno tenuto i bambini occupati per ore.$
 succoso$mele succose$
 cultura$cultura americana/giapponese$cultura$la cultura popolare$
-
+permettere$È
 raccapricciante, macabro$un omicidio raccapricciante$
 isola$le isole Hawaii$
 circondare$La casa è circondata da un grande giardino.$La polizia ha circondato l’edificio.$
 
 memoria$Questo computer è più costoso perché ha più memoria.$memoria$Ho una buona i nomi.$ricordo$
-
+abbandonare$Papà
 
 dare la colpa a qualcuno per qualcosa$Tuttora lo ritiene colpevole dell’incidente di Tony.$essere incolpato (di qualcosa)$La colpa di molti dei loro problemi di salute è da attribuirsi all’inadeguatezza degli alloggi.$dare la colpa a qualcuno/qualcosa (per qualcosa)$
 
@@ -1235,7 +1235,7 @@ licenziare$Chiunque non rispetti il regolamento dell’azienda verrà licenziato
 no$“Hai visto Louise?” “No, non l’ho vista.”$“Posso venire anch’io?” “No, mi dispiace.”$“Lui è terribile.” “No, non è vero!”$no$
 tradurre, fare da interprete$Abbiamo dovuto chiedere alla guida che ci facesse da interprete.$interpretare$Queste statistiche sono difficili da interpretare.$Una giuria non dovrebbe il silenzio di un imputato segno di colpevolezza.$
 soffice, vaporoso$un gattino soffice come un batuffolo di lana$
-
+stella$star,
 procedere$I suoi avvocati hanno deciso di non la causa.$cominciare a fare qualcosa, mettersi a fare qualcosa$Si è seduta ed ha cominciato a raccontarmi della sua settimana bianca.$
 arco$inarcarsi, inarcare$Il ponte attraversava il fiume.$Ha incurvato la schiena.$
 messaggio, SMS$Le ho mandato un SMS.$testo$una pagina di testo$testo$
@@ -1246,7 +1246,7 @@ separato$Cerco di tenere la carne resto del cibo.$diverso, differente$Fate il pr
 bocca$tenere la bocca chiusa$Non so se dirgli ciò che so o tenere la bocca chiusa.$imboccatura$foce$
 stress, tensione$stress legato al lavoro$È stata molto di recente.$accento$Nella parola “blanket”, l’ è prima sillaba.$
 lunatico, immusonito$Può essere molto lunatico e scortese.$di malumore, capricciosamente$
-
+pagamento$Accettano
 modificare$Un nuovo taglio di capelli può veramente cambiare il tuo aspetto.$
 
 difficoltà, problema$Abbiamo avuto difficoltà a trovare parcheggio.$il guaio con qualcuno/qualcosa$Il guaio con il bianco è che si sporca facilmente.$problemi, guai$
@@ -1257,7 +1257,7 @@ arrestare$È stato detenzione di stupefacenti.$arresto$La polizia ha 20 durante 
 peloso, coperto di pelliccia$
 attrezzature, servizi$servizi per l’infanzia/attrezzature ginniche$impianti sportivi/servizi di lavanderia$impianto$una struttura militare$
 infastidire, seccare$Non disturbare tuo padre mentre lavora.$preoccupare$Sono abituata ad abitare da sola. Non mi preoccupa.$prendersi la briga di, fare lo sforzo di$
-
+scarno,
 referenza$riferimento$Nel suo libro parecchi tempo che ha trascorso in Francia.$riferimento$Per favore conservate questo opuscolo per un .$
 difendere$Ha cercato di difendersi con un coltello.$difendere$Stanno lottando per difendere i loro diritti.$
 
@@ -1315,7 +1315,7 @@ danno, danni$Il vento forte ha causato gravi tetto.$danneggiare$Molti edifici so
 soluzione$Non c’è una facile questo problema.$
 indovinare, congetturare$Indovina quanti anni ha.$indovinare$Come hai indovinato che sono incinta?$indovina che cosa?$
 
-
+peso$È
 credere, supporre$Credo che lei gli piaccia.$calcolare$Si calcola che il suo patrimonio si aggiri intorno ai cinque milioni di dollari.$
 
 uccello$
@@ -1392,7 +1392,7 @@ baciare$L’ha baciata sulla guancia.$Le ho per .$bacio$Mi è corsa incontro e m
 
 angolo$l’angolo del tavolo$Il bar è di Ross Street e Mill Road.$angolo$C’era una televisione della stanza.$
 
-
+dito$incrociare
 acquistare$I biglietti devono essere acquistati due settimane prima.$acquisto$l’acquisto illegale di armi$acquisto$
 
 foresta$una pineta$
@@ -1447,7 +1447,7 @@ fare una pausa$Ha un momento e si è guardata intorno.$mettere in pausa$Puoi met
 matrimonio$È stato un matrimonio molto felice.$matrimonio$
 rilassarsi, (far) rilassare$Trovo difficile rilassarmi.$
 proprietario, -a$proprietari di automobili$
-
+dimettersi$Il
 precipitarsi, andare in fretta$Siamo dovuti andare di fretta per prendere l’autobus.$Siamo per strada per vedere da dove veniva tutto il baccano.$mettere fretta a$Rifiuto che mi si prendere una decisione.$
 la verità$Pensi che stesse ?$
 negozio$un negozio di alimentari$una libreria online$Lavora in un negozio di abbigliamento da uomo.$provvista, riserva, scorta$
@@ -1585,7 +1585,7 @@ distanza$Siamo solo a breve distanza da casa mia.$distanza$Vedevo Mary .$distanz
 afferrare, ghermire$Afferrandomi per il braccio mi ha attirato verso di lei.$cogliere un’occasione$Bisogna cogliere ogni occasione.$
 
 giustizia$Ha lavorato duramente per la giustizia di tutti.$giustizia$il sistema di giustizia penale$
-
+scoppiare,
 comunicare$Di solito lui per posta elettronica.$
 pelle$Ho la pelle scura.$buccia$una buccia di banana$essere pelle e ossa$
 sconfiggere$È stata sconfitta nel primo round del torneo.$sconfitta$
@@ -1735,7 +1735,7 @@ signore$C’è qui un signore che vuole vederti.$gentiluomo$Era un perfetto gent
 dedicare$Dedica la maggior parte del suo tempo libero al lavoro di beneficenza.$dedicare$La maggior parte della rivista era dedicata a fotografie del matrimonio.$
 alloggio, abitazione$alloggi per studenti$Le case sono molto costose in questa città.$
 
-
+miglioramento$C’è
 fuggire, abbandonare$Ha abbandonato il paese durante la guerra.$
 labbro$Si è leccato le labbra.$
 perdonare$Jane non ha mai sua madre averle mentito.$
@@ -1753,7 +1753,7 @@ crisi$La leadership della nazione è .$
 prestito$un prestito bancario$un prestito per gli studi universitari$prestare, dare in prestito$Mio padre mi ha prestato i soldi.$
 compitare$Come si scrive quello?$Ha scritto male il mio nome.$scrivere (correttamente)$Non so scrivere correttamente!$
 principe$il principe William$principe$
-
+spremere,
 rappresentante, delegato, -a$rappresentativo, tipico$Le sue opinioni sono resto del dipartimento?$
 trappola$una trappola per topi$intrappolare$La macchina si è rovesciata intrappolando sotto il guidatore.$prendere in trappola$
 teatro$l’Arts Theatre$
@@ -1827,7 +1827,7 @@ bambino, -a, ragazzo, -a$ragazzi di scuola$capretta$scherzare$Hai vinto il primo
 unire, unirsi$Abbiamo bisogno di un leader che riunisca il partito.$
 mezzo, centro$Abitiamo proprio della città.$mezzo, metà$La lettera dovrebbe arrivare entro settimana prossima.$essere occupato in/con qualcosa, avere da fare in/con qualcosa$
 assegnare$Il caso è stato nostro funzionario di grado più elevato.$
-
+collo$
 
 riconoscere$Anche il presidente della compagnia riconosce che i risultati sono deludenti.$
 nastro, cassetta$Ho la partita registrata .$nastro adesivo$nastro adesivo$registrare su nastro$
@@ -1894,7 +1894,7 @@ discendere$Abbiamo sceso le scale.$
 spesa, uscite$È stata ridotta la annuale dello stato gli armamenti.$
 colare, scolare$Scolate la pasta e aggiungete i pomodori.$scolare, sgocciolare, prosciugare$canale di scolo, drenaggio$Ha rovesciato l’acqua sporca nello scolo.$
 esperimento$molti in classe.$sperimentare$Ha mai la droga?$sperimentare$
-
+curare,
 ospite, invitato, -a$Abbiamo ospiti questo fine settimana.$cliente$L’albergo può ospitare 200 persone.$ospite$
 abbracciare, abbracciarsi$Si sono abbracciati e baciati.$abbraccio$un abbraccio appassionato$
 scusare$Per favore scusate il mio aspetto – stavo imbiancando.$esentare, dispensare$Potrei essere esentato dall’allenamento di calcio oggi?$mi scusi, scusa, scusatemi$
@@ -1945,7 +1945,7 @@ somma$una grande denaro$calcolo$I ragazzi di oggigiorno non sanno senza la calco
 
 viaggio, gita, salto$un alimentari$un viaggio d’affari$inciampare$È gatto.$
 dissolvere, dissolversi, sciogliere, sciogliersi$Queste pastiglie si sciolgono nell’acqua.$
-
+violenza,
 scaricare$La compagnia è stata multata per lo scarico illegale di sostanze chimiche tossiche.$mollare, posare di fretta$Ha posato di fretta la borsa sul tavolo.$scarico (rifiuti)$
 gatto$scoprire gli altarini$
 approvare, appoggiare$L’idea è stata approvata dalla maggioranza dei soci.$
@@ -1977,7 +1977,7 @@ svanire, sparire$Il sole è svanito dietro gli alberi.$
 apprendimento$l’apprendimento delle lingue$
 apertura$L’ ufficiale della nuova scuola si terrà il mese prossimo.$inizio$Il modo in cui inizia il romanzo è incredibile.$apertura$
 iniziare$
-
+priorità$La
 speranza, possibilità$I gruppi imprenditoriali non sono contenti alla un aumento delle tasse.$le prospettive di qualcuno$Il corso migliorerà le sue .$
 
 soldato, -essa$
@@ -2010,7 +2010,7 @@ ricompensa$Ci sarà una chi arriva primo.$ricompensa$La polizia ha offerto una c
 errore, sbaglio$un errore di ortografia$Ha molti nell’esame scritto.$per errore$Per errore ho preso il libro di qualcun altro.$
 moto$Il movimento della barca l’ha fatto sentire male.$
 foca$sigillo$guarnizione$sigillare, chiudere ermeticamente$Ha chiuso ermeticamente la bottiglia.$
-
+segnale$Non
 
 spaccare, fracassare, infrangere, frantumare$Qualcuno aveva mandato in frantumi la vetrina del negozio.$
 totale$Il costo complessivo per il lavoro era $800.$totale$L’intera serata è stata un disastro totale.$totale$
@@ -2033,7 +2033,7 @@ suggerimento, proposta$Philip ha qualche .$
 valle$
 destare$È un argomento che ha molto .$eccitare (sessualmente)$
 vincitore, -trice$i vincitori della Coppa del Mondo$
-
+colpo,
 miliardo$
 tentativo$null$offerta$Ho fatto un’ di £150 il dipinto.$offrire, fare un’offerta (di)$
 caratteristica$La giocosità è una caratteristica comune dei delfini.$
@@ -2080,12 +2080,12 @@ atmosfera$L’atmosfera in ufficio è molto rilassata.$l’atmosfera$
 rassicurare$Mi ha rassicurato che sarei stato pagato in poco tempo.$
 campionato$
 affittare$Ha in affitto un appartamento in città.$affittare$Ha una casetta che affitta ai turisti.$noleggiare$
-
+proposizione$
 riprendersi, fare riprendere, rianimare$Un agente di polizia ha cercato di farla rianimare.$
 costa$Vivono orientale della Scozia.$
 imputato, -a$
 rimessa, baracca, tettoia$una rimessa in giardino$perdere i capelli, le foglie, ecc.$Molti alberi perdono le foglie in autunno.$forma contratta di “she had”$
-
+scrivania$
 sbattere$Kate ha sentito sbattere la porta di casa.$
 distinzione$la lingua parlata e scritta$
 rovesciare, rovesciarsi$Ho rovesciato il vino su tutto il tappeto.$
@@ -2096,7 +2096,7 @@ Dio$oh mio Dio!$Oh mio Dio! Mi hanno rubato la macchina!$ringraziando Dio$Ringra
 convocare, citare$È stato convocato a una riunione.$
 impressione$Che impressione hai avuto del marito di Carla?$Ho l’ che fosse annoiato.$impressione$Fare tardi a un colloquio una pessima .$
 
-
+comando,
 
 
 massa$I suoi capelli erano una massa di riccioli biondi.$un mucchio (di), una massa (di)$C’era una gran massa di persone alla fiera.$C’era un mucchio di cibo.$
@@ -2140,7 +2140,7 @@ scarpa$un paio di scarpe$
 proibire, vietare$La scuola studenti di fumare.$Il regolamento del Parco Nazionale vieta la caccia.$proibito$È proibito fumare in quest’area.$
 terreno, terra, terriccio$
 presa, stretta$Ha aumentato la mio braccio.$stringere$Gli ha afferrato il braccio.$tenere avvinto, catturare l’attenzione di$
-
+serbatoio$una
 biglietto$un biglietto della lotteria$biglietti aerei$una$multa$
 benessere, bene$È preoccupato del benessere dei senzatetto.$assistenza statale, sussidio statale$Riceve dei sussidi statali?$pagamenti dei sussidi statali$
 manipolare$Sa come manipolare la stampa.$
@@ -2207,7 +2207,7 @@ intingere$Ha il pennello vernice.$
 ferrovia$il viaggiare in treno$barra, bastone/bacchetta da tende$una bacchetta da tende$
 non gradire, trovare antipatico$Perché l’hai talmente antipatica?$avversione, antipatia$Ha una grande il profumo.$
 
-
+di
 
 prima colazione$Che cosa hai mangiato ?$fare (la prima) colazione$
 fare sforzi, sforzarsi$Era troppo malata per fare troppi sforzi.$
@@ -2228,7 +2228,7 @@ erba$L’erba è ancora bagnata.$
 motivare$Insegnare sta tutto nel la gente imparare.$
 inflazione$inflazione in aumento$
 moltiplicare$3 6 fa 18.$le dosi della ricetta tre.$
-
+produttore,
 ubbidire (a)$Se non agisci secondo la legge, verrai arrestato.$
 passeggero, -a$un passeggero anteriore$un sedile del passeggero/un treno passeggeri$
 penetrare$La pallottola gli ha penetrato il cranio.$L’acqua dalla perdita si è infiltrata nel soffitto.$
@@ -2334,7 +2334,7 @@ scala, scale$salire/scendere le scale$
 agricoltura$agricolo$macchinari agricoli$
 autunno$foglie autunnali$Inizio un nuovo lavoro .$
 bomba$La bomba nell’esplosione ha distrutto l’edificio.$bombardare, eseguire un attentato con esplosivi su/a$Durante la guerra furono bombardate le fabbriche.$
-
+macchina
 creatura, bestia$I delfini sono creature intelligenti.$
 critico, -a$un critico del governo$critico, -a$un critico teatrale$
 impero$
@@ -2378,7 +2378,7 @@ angolo$un angolo di 90 gradi$punto di vista$Cerca di vedere il problema un altro
 baia$una baia sabbiosa$
 certificato, attestato$un certificato di nascita$
 
-
+nuvola$nuvole
 pullman$una gita in pullman$allenatore, -trice, insegnante privato, -a$un maestro di tennis$pullman$
 usanza$fatto su misura$mobili fatti su misura$
 dollaro$
@@ -2395,7 +2395,7 @@ spesa$la spesa sanitaria pubblica$null$
 sintomo$Un disturbo del sonno è spesso un qualche altra malattia.$
 variabile$La qualità del suono nella registrazione è variabile.$
 zona$una zona sismica$
-
+attore,
 consapevolezza$C’è sempre più consapevolezza ambientale.$
 legame, vincolo$il la madre e il bambino$titolo di Stato, buono del tesoro$Ho investito dei soldi in buoni del tesoro.$
 
@@ -2453,7 +2453,7 @@ disastro$alluvioni e altri disastri naturali$disastro$La sua idea è stata un to
 disco$Quanto spazio libero c’è rimasto ?$disco$disco$
 
 forma alternativa di “inquiry”$
-
+ingresso,
 golf$una palla da golf$
 chitarra$una chitarra elettrica$
 udito$Ha perso l’udito quando era bambino.$udienza$Un’udienza disciplinare esaminerà le accuse contro i tre chirurghi.$
@@ -2528,7 +2528,7 @@ misura$Ho di tutte le stanze.$
 il mio, la mia, i miei, le mie$“Di chi è questo libro?” “È il mio.”$Posso usare la tua penna? La mia non scrive.$miniera$mina$
 la luna$ad ogni morte di papa$Usciamo solo ad ogni morte di papa.$essere al settimo cielo$“Scommetto che era contenta di aver ottenuto il lavoro.” “Era al settimo cielo.”$
 
-
+avversario$Ha
 proprietà$
 campo, terreno di gioco$un campo da calcio$tono, intonazione$pece$
 
@@ -2594,7 +2594,7 @@ correzione, modifica$Ho qualche modifica articolo all’ultimo momento.$
 annuncio$Il primo ministro ha inaspettato stamani.$
 bagno$andare in bagno$
 campanello, campana$Per favore suonare il campanello per assistenza.$campana$campane di chiesa$
-
+mattone$un
 classe$
 comfort, comodità$Ora si possono guardare gli ultimi film proprio salotto.$confortare, consolare$Abbiamo confortato Sasha dopo la morte del suo cane.$
 complesso$una rete stradale complessa$La storia era talmente complessa che non riuscivo a capirla.$
@@ -2758,7 +2758,7 @@ benzina$
 pianeta$
 trama$Non mi piacciono i film con le trame complicate.$complotto$C’è stato un far saltare in aria l’ambasciata.$lotto (di terreno)$
 acquirente$Non siamo ancora riusciti a trovare un la nostra casa.$
-
+ratto$I
 registrazione, iscrizione$L’iscrizione ai corsi è lunedì prossimo.$
 rimedio, medicina$un rimedio per l’influenza$rimedio$Allora, qual è il il problema del traffico?$
 dimissioni$una lettera di dimissioni$Ho ieri.$rassegnazione$
@@ -2770,7 +2770,7 @@ terrazza$schiera di case$
 
 
 ambizione$La mia ambizione è di diventare medico.$ambizione$Non ha ambizione.$
-
+bici$moto,
 calcolo$
 cappella$
 concezione, idea$concepimento$
@@ -2817,7 +2817,7 @@ pubblicità, annuncio pubblicitario,$un$
 angelo$
 cerimonia$una cerimonia di nozze$cerimonia$
 cinema$Perché non andiamo al cinema?$cinema$Era conosciuto per i suoi studi sul cinema francese.$
-
+clinica$una
 stoffa, tela$straccio, strofinaccio$
 partecipante alla gara$concorrente$Non abbiamo concorrenza seria in quest’area.$
 complessità$le complessità della vita$
@@ -2863,7 +2863,7 @@ massa, mole$Fu sorpreso dalla mole del documento.$in grande quantità$Compra in 
 burro$non è così innocente come sembra$imburrare$toast caldo imburrato$
 celebrazione, festeggiamento$Hai superato l’esame? Festeggiamo!$
 cristiano$cristiano$un ente di beneficenza cristiano/un’organizzazione cristiana$
-
+vestiario,
 colonia$
 controversia, polemica$Ci sono molte privacy su internet.$
 cristallo$cristalli di ghiaccio$cristallo$un vaso di cristallo$
@@ -2891,7 +2891,7 @@ la marina$Mio fratello è un ufficiale .$Si arruolò nella marina norvegese nel 
 necessità$Abbiamo portato cibo e indumenti e altre cose necessarie.$
 asilo nido$scuola materna$stanza dei bambini$vivaio di piante$
 fotografia, foto$Jack sdraiato sulla spiaggia.$
-
+pianoforte$
 incursione, scorreria, razzia$irruzione$assalire$fare irruzione in$
 ribelle$ribellarsi$Si è la famiglia.$
 ritmo$Occorre avere il senso del ritmo per essere bravi a ballare.$
@@ -2976,7 +2976,7 @@ accento$un accento americano$un accento francese$accento$C’è un accento sulla
 Aids$
 un analista politico$
 appartamento$
-
+appendice$appendice$
 disponibilità$
 viale$
 bastardo$
@@ -3079,7 +3079,7 @@ orizzonte$
 
 
 ingrediente$Non ho gli ingredienti per fare un dolce.$ingrediente$La fiducia è un elemento essenziale per un buon matrimonio.$
-
+locanda,
 istinto$L’istinto materno è di proteggere i figli.$
 jet$getto$
 liberazione$l’invasione e la liberazione della Francia$

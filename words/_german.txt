@@ -2,7 +2,7 @@ die Zeit$die Zeit$die Zeit$die Zeit$der Zeitpunkt$
 sein$im Begriff sein zu$wurde$sollte, werden$sein$
 gut$gut$gut$geschickt$gut$
 das Jahr$das Jahr$
-
+Imperfekt$haben$haben$bekommen$haben,
 neu$neu$neu$neu$
 die Leute (pl.)$die Leute (pl.)$das Volk$
 Hilfsverb in Fragen und bei Verneinung$Hilfsverb zur Betonung$statt Wiederholung des Verbs$bei Inversion$tun$
@@ -122,7 +122,7 @@ tot$tot$völlig$
 die Nacht, Nacht-…$die Dunkelheit$
 rennen$fahren$laufen$laufen(lassen)$leiten$
 schwer$schwer$schwer, stark$stark$trübe$
-
+das
 schreiben$schreiben$schreiben$
 kalt$kalt$kalt$
 die Heimat$die Heimat$das Heim$das Heim$die Wohnung$
@@ -159,7 +159,7 @@ ander$ander/e/es$neulich$
 leben$überleben$wohnen$leben$den Lebensunterhalt bestreiten mit$
 Haupt-…$
 die Form, die Gestalt$die Art$das Formular$die Formalität$die Klasse$
-
+stehen$(auf)stehen$stehen$gelten$stehen$
 das Licht$das Licht$das Feuer$das Licht$leicht$
 das Zimmer$der Platz$die Gelegenheit$
 geschehen$passieren$zufällig geschehen$
@@ -230,7 +230,7 @@ anhalten$zurückhalten$aufhören$verstopfen$greifen$
 allein$nur$
 die Rate$die Quote$die Geschwindigkeit$der Satz$die Kommunalsteuer$
 schicken$senden$machen$
-
+schmal$knapp$beschränkt$
 die Tür$das Tor$
 erhalten$empfangen$aufnehmen$in Empfang nehmen$Hehlerei betreiben$
 blutbefleckt$blutig$blutig$verdammt$
@@ -355,7 +355,7 @@ herabsetzen$abnehmen$verwandeln, zwingen$
 
 die Materie$die Angelegenheit$der Eiter$
 sich niederlassen$gründen$feststellen$
-
+kühl$kühl$kühl$cool$
 die Gesundheit$der Gesundheitszustand$
 verbinden$verbinden$sich anschließen an$treffen$treffen$
 in Form$passend$der Anfall$der Ausbruch$
@@ -394,7 +394,7 @@ das Jahrhundert$100 Läufe$
 fahren$fahren$treiben$schlagen$betreiben$
 einfach$klar$ehrlich$klar$unscheinbar$
 der Teil$der Schnitt$
-
+vertreten$darstellen$schildern$
 still$nicht schäumend$(immer) noch$dennoch$noch$
 Aktivität$Betätigung$
 steigen$hochsteigen$aufstehen$aufstehen$aufgehen$
@@ -416,7 +416,7 @@ willkommen$
 die Art$
 beweisen$sich erweisen als$
 taub$taub$
-
+das
 tragen$tragen$zeigen$abnutzen$reißen$
 die Mannschaft$das Team$das Gespann$
 fangen$erreichen$ertappen$sich holen$einklemmen$
@@ -427,7 +427,7 @@ sicher$gleichmäßig$unveränderlich$solid$
 der/die Studierende$der/die Schuler(in)$der/die Student(in)$
 essen$
 roh$Roh-…$wund$unerfahren$
-
+die
 vorstellen$einführen, einbringen$einbringen$einführen$
 gescheit$geschickt$raffiniert$
 Frau$
@@ -444,7 +444,7 @@ sich (ver)sichern$
 grob$grob$feist$Gesamt-…$
 diee Verwaltung, das Management$die Geschäftsleitung$
 bloß$leer$kahl$dünn$bloß$
-
+der
 bescheiden$einfach$maßvoll$
 der Ausschuß$
 ziehen$ziehen$rudern$sich bewegen$
@@ -466,7 +466,7 @@ die Begegnung$die Versammlung$
 identifizieren$gleichsetzen$
 traurig$unglückselig$
 der Fuß$der Fuß$der Fuß (-0,31m)$
-
+verwalten$leiten$umgehen
 unfair$
 der Knabe$der…-junge$
 danken$
@@ -500,7 +500,7 @@ steil$gepfeffert$einweichen$
 die Bandbreite$die Reichweite$der Umfang$die Reihe$das Weideland$
 leiden$erleiden$leiden$leiden$
 schwer von Begriff$trübe$langweilig$
-
+die
 ausweichen; vermeiden$
 einsam$einsam$
 der/die Lehrer(in)$
@@ -522,7 +522,7 @@ das Feld$das Feld$das Feld$das Gebiet$das (blick)Feld$
 zuhören$hören$
 reif$reif$
 die Geschichte, Geschichts-…$die Geschichte$die Vergangenheit$
-
+retten$sparen$ersparen$abwehren$erlösen$
 schwul$fröhlich$bunt$
 der Elternteil$der Elternteil$
 neigen zu$streben$sich kümmern um, hüten$
@@ -698,7 +698,7 @@ sich neigen$lehnen$mager$mager$mager$
 der Herr$der Lord$der Oberbürgermeister$
 adoptieren$annehmen$
 riskant$
-
+zusammenziehen$sich
 bestätigen, bekräftigen$konfirmieren$
 robust$
 das Bild$das Bild$der Film$die Verkörperung$ein Bild$
@@ -805,7 +805,7 @@ der Garten, Garten-…$
 überleben$überleben$
 ungeschickt$
 die Größe$die Größe$
-
+konzentrieren$zusammenziehen$eindicken$
 schlau$
 die Analyse$die Analyse$
 heben$hochheben und wegtragen$sich heben$sich heben$
@@ -816,7 +816,7 @@ der Erfolg$der Erfolg$
 ärgerlich$das Kreuz$das Kreuz$das Kreuz$das Leiden$
 schlaff$
 
-
+lebhaft$
 die Region$
 blond$
 die Aufmerksamkeit$die Behandlung$die Aufmerksamkeit$stillstehen$
@@ -827,7 +827,7 @@ cremig$weich$
 die Verwandschaft$die Beziehung$die Beziehung$
 erwerben$
 alt$abgestanden$verbraucht$
-
+begehen$übergeben$sich
 liebenswürdigerweise$gütigst$gütig$
 der Raum$der Raum$der Weltraum$
 beweisen$vorführen$demonstrieren$
@@ -946,7 +946,7 @@ ausbilden$richten$ziehen$der Zug$die Schleppe$
 der Blitz$der Augenblick$das Blinklicht$die Kurzmeldung$
 das Benehmen$das Verhalten$
 angreifen$angreifen$angreifen$in Angriff nehmen$
-
+zähmen$lahm$
 die Verteidigung$der Schutz$die Verteidigung$
 niedrig, demütig$
 Mittel(pl.)$die Reichtümer(pl.)$die Findigkeit$
@@ -973,14 +973,14 @@ schattig$zwielichtig$
 das Pferd$der Bock$
 übernehmen$sich verpflichten$
 Woll-…$unklar$wollenes Kleidungsstück$
+die
+schrill$
+das
+auswählen$
 
-
-
-
-
-
-
-
+der
+klettern$steigen$
+nackt$
 der/die Benutzer(in), der/die Verbraucher(in)$
 die Berührung$die Verbindung$die Bekanntschaft$der Kontakt$die Kontaktperson$
 taub$
@@ -1041,7 +1041,7 @@ der Park$der Park$
 der Liebling$der Schatz$
 der Titel$der Titel$
 in Kenntnis setzen$anzeigen$
-
+wolkig$unklar$
 sich verlassen auf$vertrauen auf$
 zuverlässig$
 der Gesichtspunkt$die Lage$das Aussehen$
@@ -1090,7 +1090,7 @@ stählern$
 der Stein, Stein-…$der Stein$der Stein$der Edelstein$der Kern$
 fahren, reiten$fahren, reiten$reiten$reiten$
 
-
+die
 schließen$sich schließen$schließen$einsperren$
 labberig$schlampig$rührselig$
 der Pfosten$die Post$der Posten$der Posten$die Niederlassung$
@@ -1129,7 +1129,7 @@ die Einstellung$die Haltung$
 (ab)waschen$sich waschen$branden$wegschwemmen$
 wunderlich$
 die Krankheit$
-
+begleiten$begleiten$
 stämmig$
 die Anstellung$
 beschuldigen$
@@ -1186,7 +1186,7 @@ heiser$der Husky$
 der Vorteil$der Vorteil$
 fehlen$
 knuddelig$
-
+die
 
 das Blut$die Abstammung$
 einnehmen$beziehen$besetzen$
@@ -1316,7 +1316,7 @@ die Lösung$die Lösung$die Lösung$
 (er)raten$denken$
 fischig$faul$
 das Gewicht$das Gewicht$die Last$das Gewicht$das Gewicht$
-
+betrachten$meinen$
 prinzlich$fürstlich$
 der Vogel$
 restaurieren$wiederherstellen$wiederherstellen$wiedereinsetzen$
@@ -1347,7 +1347,7 @@ wechseln$tauschen$
 schlampig$
 unterbringen$ausfindig machen$
 im Geschäftsviertel$im Geschäftsviertel$
-
+der
 vorhersagen$
 
 (freie) Wahl$
@@ -1372,7 +1372,7 @@ tanzen$schaukeln$
 gescheit$
 leitend$Exekutiv-…$die Exekutive$leitender Angestellter$
 einsetzen$investieren$
-
+windig$lebhaft$
 das Schloß$die Schleusenkammer$das Schloß$die Fessel$die Locke$
 sprudelnd$
 das Netz$das Sendernetz$das Netzwerk$
@@ -1384,13 +1384,13 @@ gießen, strömen$in Strömen gießen$
 das Radio; Radio-…$
 verschieben, umspringen$abschieben$entfernen$
 zuverlässig$
-
+die
 treten$zurückstoßen$
 buschig$
 die Zielscheibe$das Ziel$die Zielscheibe$
 küssen$
 abgedroschen$
-
+die
 
 der Finger$der Finger$ein schmales Stück$
 kaufen$
@@ -1443,7 +1443,7 @@ sich widersetzen$entgegentreten$
 die Schulter$der Vorsprung$das Schulterstück$das Schulterstück$
 der Packen$das (Karten)Spiel$das Rudel$das Päckchen$
 der Tee$der Tee$der Tee$der Tee$
-
+die
 die Hochzeit; Hochzeits-…$die Ehe$die Verbindung$
 entspannen$lockern$
 der/die Eigentümer(in)$
@@ -1525,12 +1525,12 @@ schreien$
 der Schutz$der Schutz$
 der Rauch$das Rauchen$die Rauchigkeit$
 tragen$aufrecht halten$
-
+der
 die Träne$(zer-)reißen$(zer-)reißen$rasen$
 der Fahrer$
 (sich) anpassen; bearbeiten$
 sich anpassen$einstellen$
-
+der/die
 das Verbot$
 die Bedeutung$bedeutsam$
 befragen$beraten$
@@ -1603,7 +1603,7 @@ verletzen$
 der Wein$
 beten$beten$
 der Winter, Winter-…$
-
+protestieren$beteuern$
 die Schuld$
 seufzen$seufzen$
 der/die Arbeitgeber(in)$
@@ -1654,7 +1654,7 @@ verurteilen$verurteilen$für unbewohnbar/gesundheitsschädlich erklären$
 die Gesetzgebung$gegebene Gesetze$
 überzeugen$
 das Schiff$das Schiff$
-
+entsprechen$passen$im
 die Drohung$die Gefahr$die Bedrohung$
 wagen$herausfordern$
 der/die Besucher(in)$
@@ -1925,7 +1925,7 @@ der Lehrplan$
 umkippen$umstoßen$aus der Fassung bringen$
 die Initiative$die Initiative$
 inserieren, werben$
-
+die
 (Land-)Karte$die Karte$
 das Metall$die Metalllegierung$
 einteilen$
@@ -1981,7 +1981,7 @@ der Vorrang$die Priorität$
 die Aussicht$die Aussicht$
 abmalen$schildern$
 der Soldat$
-
+entlassen$abfeuern$ausüben$tilgen$ausströmen$
 der Abriß$die Abhebung$die Einberufung$die Abteilung$
 das Werkzeug$
 beifügen$eingeschlossen$
@@ -2027,7 +2027,7 @@ zittern$
 der Durchgang$die Passage$das Vorübergehen$die Überfahrt$
 die Falte$die Leckereien (pl.); Süßwaren-…$
 die Tasche; Taschen-…$das Loch$der Einschluß$der Geldbeutel$
-
+auslösen$
 der Vorschlag$der Vorschlag$die Spur$
 verbessern$
 das Tal$
@@ -2056,7 +2056,7 @@ abgehen, ab-/wegfahren$abkommen von$
 die Vertretung$die Darstellung$die Vorhaltung$
 berauben, entziehen$
 das Restaurant$
-
+vermindern$
 der/die Spezialist(in)$
 ertrinken, ertränken$übertönen$
 das Quadrat$das Quadrat$der Platz$das Quadrat$
@@ -2118,7 +2118,7 @@ die Gründung$die Einrichtung$der Haushalt$
 ergreifen$fest drücken$
 der Fan$der Fächer$der Ventilator$
 sich beraten$verleihen$
-
+das
 sich anpassen$entsprechen$
 die Neigung$
 in Unordnung bringen$verwechseln$verwirren$
@@ -2129,7 +2129,7 @@ die Spielmarke$entgegengesetzt$entgegen$der Ladentisch$
 die Verhandlung$
 die Nase$die Nase$die Spitze$
 weihen$widmen$widmen$
-
+der
 diktieren$vorschreiben$befehlen$
 potentiell$
 nicht übereinstimmen mit$sich streiten$schlecht bekommen$
@@ -2270,7 +2270,7 @@ die Transaktion$die Abwicklung$
 die Hilfe$
 das Lager$das Lager$das Lager$das Lager$
 die Währung$
-
+der
 die Schuld$der Fehler$die Verwerfung$
 das Versmaß$der Meter$
 die Minderheit$
@@ -2323,7 +2323,7 @@ das Bauernhaus$
 die Besatzung$die Bande$
 radeln, radfahren$der Zyklus$der Zyklus$der Zyklus$
 
-
+der
 der Hut$
 die Art und Weise$die Art$die Mode$
 der Beruf$der Beruf$das Bekenntnis$
@@ -2394,7 +2394,7 @@ das Verhältnis$
 
 das Symptom$
 unterschiedlich$unbeständig$veränderliche Größe, die Variable$
-
+die
 der/die Schauspieler(in)$
 das Bewußtsein$
 die Bande (pl.)$die Fesseln (pl.)$
@@ -2454,7 +2454,7 @@ die Katastrophe$
 
 
 entzücken$der Eingang$der Auftritt$der Zutritt$
-
+das
 die Gitarre$
 das Gehör$die Hörweite$das Anhören$die Anhörung, das Verhör$
 der Held$der Held$
@@ -2476,7 +2476,7 @@ der Sand$der Sand$
 der Raum$der Bereich$
 der Wasserlauf$der Strom$der Strom$die Leistungsgruppe$
 die Geschichte$das Märchen$
-
+der
 der/die Ratgeber(in)$
 der Flughafen$
 die Tante$
@@ -2486,7 +2486,7 @@ die Bahn$die Rennstrecke$der Stromkreis$die Rundreise$
 die Uhr$die Kontrolluhr$
 der Verbrauch$TBC, Tuberkulose$
 der Rahm, die Sahne$die Creme$die Elite$cremfarben$
-
+die
 die Auflage, die Ausgabe$
 die Menge$der/die Gastgeber(in)$der Wirt$
 menschlich$
@@ -2513,7 +2513,7 @@ der/die Dichter(in)$
 der Samen$der Keim$gesetzt$
 
 das Überleben, Überlebens-…$
-
+der
 die Werkstatt$der Arbeitskreis$
 der Alkohol$
 die Barriere$das Hindernis$
@@ -2552,7 +2552,7 @@ der/die Historiker(in)$
 
 der Zwischenraum, die Zwischenzeit$die Pause$
 der/die Führer(in)$der/die Telefonist(in)$
-
+die
 Berufs-…$professionell$Berufs-…$Berufs-…$
 der/die Verleger(in)$
 die Befriedigung$die Befriedigung$
@@ -2566,7 +2566,7 @@ der Zutritt; der Eintritt$das Eingeständnis$
 die Brust$die Brust$
 der Scheck$
 die Kindheit$
-
+die
 der Konstrukteur, der Designer$
 die Entschlossenheit$die Entscheidung$
 der Stoff$
@@ -2640,12 +2640,12 @@ der Übergang$
 
 der Zwilling; Zwillings-…$der Zwilling$
 das Universum$
-
+das
 die Schwäche$die Schwäche$
 das Album$das Album$
 überfallen$vergewaltigen$
 die Bank$die Werkbank$
-
+der
 der Kanal$die Röhre$
 die Mütze$die Haube$die (Verschluß-)Kappe$
 die Seekarte$das Diagramm$
@@ -2685,7 +2685,7 @@ die Station$das Mündel$
 die Tagesordnung$
 der Alarm; Alarm…$die Besorgnis$
 blau$niedergeschlagen sein$
-
+das
 der Kohlenstoff$
 die Urkunde$
 das Küken$das Huhn$ein Feigling$
@@ -2735,7 +2735,7 @@ die Beförderung, der Transport$der Eisenbahnwagen$die Kutsche$der Schlitten$die
 die Schokolade$die Trinkschokolade$
 der Kommandant$der Erste Offizier$
 der/die Bevollmächtigte$
-
+die
 die Depression$die (wirtschafts-)Flaute$das Tiefdruckgebiet$die Senkung$
 die Zerstörung$die Zerstörung$
 die Scheibe$die Schallplatte$die Diskette$
@@ -2788,7 +2788,7 @@ die Flamme$
 das Korn$das Korn$das Korn$die Faser, die Maserung$die Spur$
 der Schaden$
 der Humor$die Komik$
-
+die
 die Identifizierung$
 der Anreiz$
 die Besichtigung$
@@ -2800,7 +2800,7 @@ das Mineral$
 das Molekül$
 die Sterblichkeit$die Sterblichkeit$
 Nadel$die Nadel$die Nadel$die Nadel$
-
+der
 Zuflucht nehmen zu$
 der Abfall; Abfall…$der Blödsinn$
 der Schatten$dunkler Farbton$der Schirm$die Schattierung$die Spur$
@@ -2973,7 +2973,7 @@ das Virus$der Virus$
 die Wärme$
 die Witwe$
 der Akzent$die Betonung$der Akzent$die Betonung$
-
+Aids$
 der/die Analytiker(in)$der/die Psychoanalytiker(in)$
 das Zimmer$die Wohnung$das Zimmer$
 der Anhang$der Blinddarm$
@@ -3003,7 +3003,7 @@ die Ente$die Ente$die Null$untertauchen$sich ducken$
 die Dauer$
 der Umschlag$
 die Phantasie, Phantasie-…, auch Fantasy als Genre$
-
+die
 der Narr/die Närrin$
 das Forum$der Marktplatz$
 der Betrug$der Hochstapler$
