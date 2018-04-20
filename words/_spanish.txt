@@ -640,7 +640,6 @@ pegajoso$
 pasado simple de “bite”$parte, poco$un poco$un rato$bastante$
 gris$inhóspito$desolación$inhóspito, desolado$desesperanzador, nada prometedor$
 premio$adjudicar$conceder, otorgar$conceder, adjudicar$
-
 presidente, -a$presidente, -a$
 reírse$risa$por diversión$reír$rídiculo, irrisible$
 brillante$
@@ -672,7 +671,6 @@ colgar, estar colgado$ahorcar$cogerle el truco a algo$colgar$colgar, pender$
 vago$pereza$perezoso, vago$perezosamente$pereza$
 pizarra$tablón$tablero$a bordo$tabla$
 
-cauteloso$con cautela$cauteloso, cauto, prudente$cautelosamente, cautamente, prudentemente$cautela, prudencia$
 rey$rey$rey$rey$rey$
 agitar(se)$temblar, estremecerse$estrechar(se) la mano$negar con la cabeza$agitar, (hacer) temblar$
 poco conocido$poco claro$obscuro, oscuro, poco claro$obscuro$obscuro$
@@ -895,7 +893,6 @@ prometer$prometer$prometer ser algo$promesa$prometer$
 mareado$mareo, vértigo$mareado$vertiginoso$vertiginosamente$
 
 rechazar$no aceptar$rechazar$rechazo$
-viejo, raído$desaliñadamente$gastado, raído, desarrapado$mal vestido, pobremente vestido$mezquino$
 tecnología$tecnología$tecnológico$tecnólogo$
 llorar$gritar$a lo hecho, pecho$a lo hecho, pecho$grito$
 graso, grasiento$
@@ -1016,7 +1013,6 @@ factura$cuenta$billete$la policía$pico$
 
 apagado, monótono$apagado, soso, sin gracia, gris$apagadamente$falta de gracia$
 preocupar, concernir$tratar sobre$preocupar$preocupación$preocupación$
-directo$directo$dirigir$dar indicaciones a$directo$
 embriagador$
 elemento$un grado de algo$elemento$estar uno en su salsa$elemento$
 escapar$librarse de$fuga, huida$válvula de escape$escapar(se)$
@@ -1123,7 +1119,6 @@ rebelde, revoltoso$indisciplinado$indisciplina, falta de disciplina$
 indicaciones$dirección$hacia alguien$
 lleno de humo$
 asiento$sentarse$estar sentado$asiento$asiento$
-rodar, hacer rodar$enrollar$rodar$estar forrado$rollo$
 con nieve, nevado$
 actitud, postura$actitud (hacia), postura$postura, posición$
 lavar$lavar$colada$un lavado$lavar(se)$
@@ -1365,7 +1360,6 @@ ayuda$a favor de alguien/algo$ayudar$ayuda, auxilio$a beneficio de$
 reparto$dar un papel a$hechizar a alguien$lanzar, arrojar, tirar$mudar, mudar de$
 mandón$
 preparativos, planes$acuerdo$
-cocinar$amañar las cuentas$cocinero, -a$muchos cocineros estropean el caldo$cocinar, guisar, preparar (la comida), cocer$
 
 concepto$concepto$concepción$noción$Mapa Conceptual$
 bailar$baile$baile$baile$baile$
@@ -1499,7 +1493,6 @@ exceder$exceder, sobrepasar$extremadamente$
 dinero en efectivo$dinero$cobrar un cheque$cobrar un cheque$efectivo, metálico$
 cumplir los requisitos$calificarse$obtener un título$capacitar, reunir las condiciones$obtener el título de$
 aportación$
-deslizarse$tobogán$diapositiva$deslizar$deslizarse$
 debate$debatir$darle vueltas a$debate$discutible$
 reforzar, fortalecer(se)$
 gas$gas$gasolina$gas$gas$
@@ -2047,7 +2040,6 @@ cimientos$
 aclarar$aclarar$aclaración$
 fruta$dar fruto$fruta$fruto$fructífero, provechoso$
 indemnizar, resarcir$compensar$indemnizar, compensar$compensar$compensatorio$
-lago$lago$
 compilar, recopilar$compilar$compilar$compilación, recopilación$compilador$
 hoja$hoja$hoja, página$hoja abatible$folleto$
 pub, cervecería$
@@ -2303,7 +2295,6 @@ hembra, femenino$mujer, hembra$hembra$hembra$
 marco$esqueleto, chasis$enmarcar$armazón, estructura$marco$
 marco$esqueleto, chasis$
 alemán$
-soporte$titular, poseedor, -ora$
 hielo$romper el hielo$suspendido$hielo$helado$
 pulgada$pulgada$pizca, poco, centímetro$a dos dedos de, muy cerca de$
 obligación$
@@ -2470,7 +2461,6 @@ paso, ritmo$paso$ir de un lado para otro (de)$paso$paso$
 párrafo$párrafo$
 permiso$
 andén$plataforma$andén$plataforma; escenario$
-agente de policía (hombre)$
 rango$clasificar(se), figurar$rango, graduación$fila, hilera$clase$
 arena$null$playa arenosa$arenoso, de$rubio oscuro$
 alcance, campo$posibilidades$oportunidad$alcance$

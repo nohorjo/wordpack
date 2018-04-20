@@ -640,7 +640,6 @@ enganxós$
 passat de “bite”$part, tros$una mica$una estona$bastant$
 poc prometedor$inhòspit$desolació$
 premi$concedir$
-
 president, -a$president, -a$
 riure$riure$per diversió$
 brillant$
@@ -671,7 +670,6 @@ endreçat, ordenat$endreçadament$endreçar, ordenar$
 penjar, estar penjat$penjar$trobar la manera de fer ac$
 mandrós$mandra$
 pissarra$tauler d’anuncis$tauler$a bord$planxa, post, taula$
-
 
 rei$rei$
 agitar(-se)$tremolar, estremir-se$donar(-se) la mà$dir que no amb el cap$
@@ -895,7 +893,6 @@ prometre$prometre$prometre ésser ac$promesa$
 marejat$mareig, vertigen$
 
 rebutjar$no acceptar$
-vell, tronat$malgirbadament$
 tecnologia$
 plorar$cridar$plorar quan no hi ha remei no serveix de res$un cop fet ja està fet$crit$
 greixós$
@@ -1016,7 +1013,6 @@ factura$compte$bitllet$
 
 
 preocupar, concernir$tractar sobre$preocupar$preocupació$preocupació$
-directe$directe$dirigir$indicar el camí (per anar)$
 
 element$un mica d’ac$element$trobar-se en el seu element$
 escapar-se$evitar, salvar-se de$fugida$vàlvula d’escapament$
@@ -1123,7 +1119,6 @@ rebel, entremaliat$
 indicacions$direcció$cap a algú$
 ple de fum$
 seient$asseure’s$seure$
-rodar, rodolar, fer rodar$enrotllar$rodar, rodolar$estar folrat$rotlle$
 de neu, nevat$
 actitud, disposició$
 rentar$rentar$bugada$una rentada$
@@ -1365,7 +1360,6 @@ ajuda$en benefici d’algú/ac$ajudar$
 repartiment$donar un paper a$embruixar algú$
 manaire$
 preparatius, plans$acord$
-cuinar$falsificar els llibres de comptabilitat$cuiner, -a$quan massa gent treballa en una cosa, no surt bé$
 
 concepte$
 ballar$ball$ball$ball$ball$
@@ -1499,7 +1493,6 @@ excedir$
 diners en efectiu$diners$cobrar un xec$cobrar un xec$
 complir els requisits$classificar-se$obtenir un títol$
 aportació$
-lliscar, patinar$tobogan$diapositiva$
 debat$debatre$donar voltes a$
 enfortir(-se), reforçar(-se)$
 gas$gas$gasolina$
@@ -2047,7 +2040,6 @@ fonaments$
 aclarir$
 fruita$donar fruit$
 
-llac$
 
 fulla$
 pub, bar$
@@ -2303,7 +2295,6 @@ femella, femení$dona, femella$
 marc$estructura, xassís$emmarcar$
 marc$estructura, xassís$
 alemany$
-
 gel, glaç$trencar el gel$suspès$
 polzada$
 obligació$
@@ -2470,7 +2461,6 @@ pas, ritme$pas, passa$anar amunt i avall (per)$
 paràgraf$
 permís, autorització$
 andana$plataforma, tarima$
-agent de policia (home)$
 rang$classificar(-se), figurar$
 sorra$
 

@@ -640,7 +640,6 @@ appiccicoso, adesivo$dita appiccicose$nastro adesivo$
 passato semplice di “bite”$pezzo, pezzetto$Dove va questo pezzo?$un po’$Era un po’ troppo caro.$
 non roseo, nero$un futuro non roseo$tetro, desolato$un paesaggio tetro$desolazione, squallore, tetraggine$
 premio$il premio per migliore attrice$conferire, assegnare$Gli è stato conferito il premio Nobel per la fisica.$
-
 presidente$il presidente degli Stati Uniti$presidente$
 ridere$Non mai mie battute.$Mi veramente .$risata$Fece una risata nervosa.$
 lucido, splendente$scarpe nere lucide$
@@ -671,7 +670,6 @@ ordinato$La sua stanza era pulita e ordinata.$ordinatamente$mettere in ordine, r
 appendere, essere appeso$Ha il cappotto gancio dietro la porta.$Aveva una collana d’oro intorno al collo.$impiccare$impratichirsi di qualcosa$
 pigro$È troppo pigro per rifarsi il letto la mattina.$pigrizia$
 lavagna$L’insegnante ha scritto il suo nome .$tabellone, bacheca$Ho affisso l’avviso sul tabellone.$tavolo$
-
 
 re$i re e le regine d’Inghilterra$re$il re di cuori$
 agitare, scuotere$Agita la bottiglia.$tremare$Tremava dall’agitazione.$stringere la mano$
@@ -895,7 +893,6 @@ promettere$Ha scrivermi tutte le settimane.$Paul mi ha avrebbe fatto lui cena st
 stordito, preso da vertigini$stordimento, vertigini$
 
 respingere, rifiutare$Il governo degli Stati Uniti ha respinto la proposta.$respingere, scartare$
-dimesso, sciatto$abiti dimessi$in modo dimesso/sciatto$un uomo vestito in modo sciatto$
 tecnologia$tecnologia informatica$
 piangere$Il mio fratellino piange sempre.$gridare$“Guarda questo!” ha gridato Raj.$è inutile piangere sul latte versato$
 unto$cibo untuoso$
@@ -1016,7 +1013,6 @@ bolletta, conto$Hai elettrica?$conto$Potrei avere il conto, per favore?$banconot
 
 
 riguardare$I problemi ambientali riguardano tutti noi.$riguardare$preoccupare$Ciò che mi preoccupa è la sua mancanza di esperienza.$
-diretto, direttamente$Siamo andati per la via più diretta.$diretto, direttamente$sole diretto$dirigere$
 
 elemento$Questo libro contiene tutti gli elementi necessari per un buon racconto.$un po’ di qualcosa$C’è qualcosa di vero in ciò che dice.$elemento$
 fuggire$I due assassini sono prigione ieri notte.$sfuggire a, scampare a$Ha avuto fortuna a scampare senza gravi ferite.$evasione, fuga, scampo$
@@ -1123,7 +1119,6 @@ indisciplinato, sregolato$bambini indisciplinati$
 indicazioni stradali$Ci siamo fermati per chiedere indicazioni.$direzione$La macchina è corsa via aeroporto.$verso qualcuno, nella direzione di qualcuno$
 pieno di fumo, che fa fumo$un bar pieno di fumo$
 sedile, posto a sedere$Questo posto è libero?$Ho due posti liberi per il concerto di stasera.$sedersi$Prego, si accomodi.$
-rotolare$La palla è rotolata tra le gambe del portiere.$Si è rotolata su un fianco.$arrotolare$Ha aggomitolato la lana.$
 nevoso, innevato$una giornata fredda e nevosa$
 atteggiamento$Ha un molto negativo del lavoro.$
 lavare$Papà stava lavando i piatti.$lavare, lavarsi$Ti sei lavato le mani?$bucato, biancheria da lavare$
@@ -1365,7 +1360,6 @@ aiuto, sussidio, assistenza$Aiuti di emergenza sono stati inviati alle vittime d
 cast$La rappresentazione ha un cast di 20 attori.$selezionare per il casting$Perché gli viene sempre criminale?$lanciare un incantesimo su qualcuno$
 autoritario, prepotente$
 preparativi$Ho di incontrarla domenica.$accordo, intesa$Abbiamo un accordo che lui pulisce la casa e io cucino.$Ha un accordo con la banca per ripagare il prestito.$
-cucinare$Chi cucina stasera?$Ha cucinato la carne in una pentola rovente.$falsificare i conti, imbrogliare$cuoco, -a$
 
 concetto$È molto difficile definire bellezza.$
 ballare$Sta ballando con Steven.$ballo$Ho fatto un ballo con mio padre.$ballo$
@@ -1499,7 +1493,6 @@ eccedere$Quest’anno ad oggi le vendite hanno superato un milione di dollari.$
 contanti$La pago £50 .$soldi$Sono .$incassare un assegno$
 avere diritto a partecipare, essere autorizzato a parteciare$Per partecipare al concorso bisogna avere più di 18 anni.$qualificarsi$La Nigeria è stata la prima squadra a la Coppa del Mondo.$qualificarsi, specializzarsi, abilitarsi$
 contributo$un generoso beneficenza.$
-scivolare, far scorrere$Sono scivolato sul ghiaccio.$scivolo$diapositiva$
 dibattito$C’è stato molto pubblico sicurezza alimentare.$dibattere$È necessario che questi problemi vengano discussi.$considerare$
 rafforzare, rendere più saldo$Questi esercizi rafforzano i muscoli delle gambe.$
 gas$una cucina a gas$gas$gas velenosi$benzina$
@@ -2047,7 +2040,6 @@ base, fondamenta$La casa ha le fondamenta di cemento.$
 chiarire$La legge mira a chiarire il regolamento edilizio.$
 frutto, frutta$Al mercato puoi comprare la frutta fresca.$Amo la frutta estiva come i frutti di bosco e le pesche.$dare frutti$La nostra decisione sta appena cominciando a dare i suoi frutti.$
 
-lago$Il lago Windermere$
 
 foglia$una foglia di quercia$le foglie che cadono$
 pub$
@@ -2303,7 +2295,6 @@ di sesso femminile$una farfalla femmina$donna, femmina$La nostra cagna ha appena
 cornice, montatura, telaio$un telaio di finestra$telaio$un telaio di bicicletta$incorniciare$
 ossatura, ordinamento, criteri$un giuridico la risoluzione di dispute$struttura$
 tedesco$
-
 ghiaccio$Vuole ghiaccio e una fettina di limone nella sua bibita?$rompere il ghiaccio$Ho detto a tutti una barzelletta che ha aiutato a rompere il ghiaccio.$in sospeso, in caldo, in attesa$
 pollice (unità di misura)$
 obbligo, dovere$I genitori hanno il assicurarsi che i loro figli ricevano una buona educazione.$
@@ -2470,7 +2461,6 @@ passo, ritmo$Abbiamo iniziato a camminare molto più velocemente.$passo$fate due
 paragrafo, capoverso$
 permesso$Ho dovuto di prendere la macchina.$Ha preso la macchina .$
 binario, marciapiede$Il treno per Belfast sarà in partenza dal binario 12.$piattaforma, palco, pedana$Gli oratori stavano tutti in piedi su una tribuna.$
-poliziotto$
 grado, rango$Detiene il rango di generale.$classificare, classificarsi, occupare un posto (in una classifica)$In classifica all’inizio della gara era al primo posto nel mondo.$I canali della città sono ora i più inquinati del mondo.$
 sabbia$
 

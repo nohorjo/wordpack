@@ -640,7 +640,6 @@ pegajoso, viscoso, adesivo$
 passado de “bite”$pedaço$um pouco$pouco tempo$bastante$
 triste, desanimado$deserto, desolado, sombrio$desolação, inospitalidade$
 prêmio, concessão$conceder, premiar$
-
 presidente$presidente$
 rir$risada$por farra$
 brilhante$
@@ -672,7 +671,6 @@ pendurar, estar pendurado$enforcar$pegar o jeito de algo$
 preguiçoso$preguiça$
 lousa$quadro de avisos$tabuleiro$a bordo (de)$tábua, prancha, quadro$
 
-receoso$cautelosamente$
 rei$rei$
 sacudir$tremer$apertar as mãos, estender a mão$negar com a cabeça$
 obscuro$obscuro$
@@ -895,7 +893,6 @@ prometer, dar a palavra$prometer, dar a palavra$promete ser algo$promessa, palav
 tonto, vertiginoso$tontura, vertigem$
 
 rejeitar$rejeitar$
-esfarrapado$em farrapos, miseravelmente$
 tecnologia$
 chorar$gritar$não adianta chorar pelo leite derramado$não adianta chorar pelo leite derramado$grito$
 engordurado$
@@ -1016,7 +1013,6 @@ nota, fatura$conta$nota, cédula$a polícia$
 
 apagado, monótono$
 interessar, dizer respeito a$ser sobre, tratar de$preocupar$preocupação$preocupação, interesse$
-direto, diretamente$direto, diretamente$dirigir$indicar, mostrar, apontar$
 inebriante$
 elemento$um pouco de algo$elemento$ficar bem à vontade$
 escapar, evadir, fugir$escapar a, evadir$fuga, evasão$válvula de escape$
@@ -1123,7 +1119,6 @@ indisciplinado$
 orientações$direção$na direção de alguém$
 esfumaçado$
 assento, lugar, poltrona$sentar-se$estar sentado$
-rolar$enrolar$rolar$ser muito rico$rolo$
 de neve, coberto de neve$
 atitude, postura$
 lavar$lavar-se, banhar-se$roupa para lavar, lavagem$uma lavada$
@@ -1365,7 +1360,6 @@ ajuda, auxílio$em prol de alguém/algo$ajudar$
 elenco$escalar, distribuir os papéis$lançar um feitiço em alguém$
 mandão$
 preparativos, planos$arranjo, acordo$
-cozinhar$adulterar a contabilidade$cozinheiro, -a.$muito cacique para pouco índio$
 
 conceito$
 dançar$dança$dança$dança$dança, baile$
@@ -1499,7 +1493,6 @@ exceder, superar$
 dinheiro (em espécie)$dinheiro, grana$descontar um cheque$descontar um cheque$
 ter direito a partecipar$classificar-se$obter um título$
 contribuição$
-escorregar, deslizar$escorregador$eslaide, diapositivo$
 debate, discussão$debater, discutir, argumentar$pensar$
 fortalecer$
 gás$gás$gasolina$
@@ -2047,7 +2040,6 @@ alicerce, base, fundação$
 esclarecer$
 fruta$dar frutos$
 indenizar$compensar$
-lago$
 compilar$compilar$
 folha$
 pub, bar, botequim$
@@ -2303,7 +2295,6 @@ feminino, fêmea$mulher, fêmea$
 estrutura de suporte, moldura$armação, quadro$emoldurar$
 estrutura$alicerce, armação, estrutura$
 alemão$
-suporte$titular, detentor, -ora$
 gelo$tornar a situação mais confortável, quebrar o gelo$na geladeira$
 polegada$
 obrigação$
@@ -2470,7 +2461,6 @@ ritmo, passo$passo$andar compassadamente$
 parágrafo$
 permissão$
 plataforma$plataforma$
-policial$
 posto$estar colocado, classificar-se$
 areia$
 escopo$possibilidade$

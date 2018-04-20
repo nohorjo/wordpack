@@ -640,7 +640,6 @@ klebrig$heikel$
 das Stückchen$etwas$ein bißchen$der Bit$das Gebiß$
 öde$freudlos$
 , auszeichnen, verleihen$zuerkennen$
-
 der/die Präsident(in)$der/die Präsident(in)$
 lachen$
 glänzend$
@@ -672,7 +671,6 @@ hängen$hängen$aufhängen$hängen$senken$
 faul$
 das Brett$das Brett$die Verpflegung$der Ausschuß$
 
-vorsichtig$
 der König$der König$der König$
 (er)heben (lassen)$erschüttern$
 dunkel$unbekannt$schwierig$
@@ -895,7 +893,6 @@ versprechen$versprechen$Hoffnung erwecken$
 schwindelig$schwindelerregend$
 
 ablehnen$
-schäbig$schäbig$schäbig$
 die Technologie$
 weinen$schreien$
 fettig$schmierig$glitschig$
@@ -1016,7 +1013,6 @@ der Schnabel$die Rechnung$der Geldschein$das Plakat$
 
 eintönig$
 betreffen$beunruhigen$sich beschäftigen$
-direkt$direkt$unmittelbar$gerade$unmittelbar$
 
 der Grundbestandteil$das Element$das (Lebens-)Element$das Fünkchen$das Heizelement$
 entkommen$entgehen$entfallen$ausströmen$
@@ -1123,7 +1119,6 @@ unbändig$
 die Richtung$die Führung$die Anleitung$die Anweisung$
 verräuchert$rauchig$
 der Sitz$der Sitz$der Hosenboden$der Sitz$der Platz$
-die Rolle$die Roulade$das Rollen$das Rollen$das Rollen$
 schneeig$schneeweiß$
 die Einstellung$die Haltung$
 (ab)waschen$sich waschen$branden$wegschwemmen$
@@ -1365,7 +1360,6 @@ die Hilfe$
 werfen$abwerfen$gießen$eine Rolle besetzen$Rollen verteilen$
 herrisch$
 die Anordnung, die Übereinkunft, die Bearbeitung$
-kochen$
 
 der Begriff$
 tanzen$schaukeln$
@@ -1499,7 +1493,6 @@ die Kraft$die Stärke$
 das Bargeld$die Barzahlung$das Geld$
 qualifizieren$sich qualifizieren$sich qualifizieren$näher bestimmen$
 das Beitragen$der Beitrag$
-schlittern$gleiten (lassen)$
 die Debatte$
 (sich ver-)stärken$
 das Gas$das Gas$das Betäubungsgas$das Gas$
@@ -2047,7 +2040,6 @@ die Gründung$das Fundament$die Stiftung$
 erläutern$
 die Frucht$der Ertrag$
 entschädigen$ausgleichen$
-der See$
 zusammenstellen$
 das Blatt$das Blatt$das Ausziehbrett$
 
@@ -2303,7 +2295,6 @@ weiblich$weiblich$
 das Gerüst$der Rahmen$die Gestalt$
 das Gerüst$
 
--halter$
 das Eis$das Eis$das Eis$
 der Zoll$das Stückchen$
 die Verpflichtung$
@@ -2470,7 +2461,6 @@ der Schritt$die Gangart$
 der Abschnitt, der Paragraph$
 die Erlaubnis$
 der Bahnsteig$das Podium$
-der/die Polizist(in)$
 kraß$scharf$der Rang$die Reihe$die Klasse$
 der Sand$der Sand$
 der Raum$der Bereich$

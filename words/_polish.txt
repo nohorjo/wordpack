@@ -640,7 +640,6 @@ klejący, lepki$parny, duszny$trudn-a/y chwila/problem/sytuacja$
 
 ponury$ponury$ponurość$
 
-
 prezydent$prezes$
 
 błyszczący, lśniący$
@@ -672,7 +671,6 @@ podanie, wniosek$zastosowanie$aplikacja$
 leniwy$leniwy$leniwie$lenistwo$
 
 
-nieufny$nieufnie$nieufność$
 król$król$król$
 
 
@@ -895,7 +893,6 @@ próba, wysiłek$wysiłek$siła$stanowić wysiłek, być trudnym$
 mający zawroty głowy , ≈ kręcić się w głowie$
 
 
-wytarty, odrapany$podły$nędznie, podle$
 technika, technologia$techniczny, technologiczny$technicznie, technologicznie$
 
 tłusty$
@@ -1016,7 +1013,6 @@ różowy$różowy, optymistyczny$
 
 szary, ponury$
 
-
 ekscytujący$
 składnik, część, element$odrobina$element, grupa$pierwiastek$element grzejny, grzałka$
 
@@ -1122,7 +1118,6 @@ niesforny$niesforny$
 
 kierunek$w kierunku$kierunek, strona$kierownictwo$cel, motywacja, ukierunkowanie$
 zadymiony$wędzony$
-
 
 śnieżny, ośnieżony$
 postawa, stosunek$
@@ -1365,7 +1360,6 @@ rubaszny, prymitywny$ziemisty$
 
 apodyktyczny$apodyktyczność$
 plan, szczegół, przygotowanie$umowa, uzgodnienie$kompozycja, ułożenie$
-
 energiczny$sprężysty$
 pojęcie, koncepcja$
 
@@ -1499,7 +1493,6 @@ przekraczać, przewyższać$przekraczać dozwoloną szybkość$
 
 mieć dawać prawo, kwalifikować (się), ≈ przysługiwać$zdobyć dyplom kwalifikacje$zakwalifikować się, awansować$uściślać$
 wkład$datek$
-
 
 wzmacniać (się)$
 
@@ -2047,7 +2040,6 @@ podstawa, podwalina$założenie, utworzenie$fundacja$fundament, fundamenty$podk�
 wyjaśniać$wyjaśnienie$
 owoc, owoce$owoc/e$
 zrekompensować, wypłacić odszkodowanie$wynagrodzić$
-jezioro$
 zbierać$
 liść$
 pub$
@@ -2303,7 +2295,6 @@ głębokość$głębokość$głębia$szczegółowo, dogłębnie$
 
 ramy$szkielet, struktura$
 
-posiadacz/ka$
 
 
 obowiązek$
@@ -2470,7 +2461,6 @@ kredyt hipoteczny, hipoteka$
 akapit$
 pozwolenie$
 podium, trybuna$peron$platforma (wyborcza ), program (wyborczy)$trybuna$
-
 
 
 zakres, zasięg$miejsce, możliwość$

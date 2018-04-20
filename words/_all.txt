@@ -640,7 +640,6 @@ Sticky
 Bit
 Bleak
 Award
-Est
 President
 Laugh
 Shiny
@@ -671,7 +670,6 @@ Tidy
 Hang
 Lazy
 Board
-Recognise
 Wary
 King
 Shake
@@ -893,7 +891,6 @@ Sparse
 Effort
 Promise
 Dizzy
-Organisation
 Reject
 Shabby
 Technology
@@ -1013,7 +1010,6 @@ Season
 Imply
 Rosy
 Bill
-Organise
 Drab
 Concern
 Direct
@@ -1119,7 +1115,6 @@ Stuffy
 Sector
 Exercise
 Unruly
-Unsold
 Direction
 Smoky
 Seat
@@ -1360,7 +1355,6 @@ Stock
 Arcane
 Whole
 Struggle
-Bonny
 Aid
 Cast
 Bossy
@@ -1493,7 +1487,6 @@ Studio
 Advance
 Cease
 Official
-Emphasise
 Strength
 Exceed
 Cash
@@ -2040,7 +2033,6 @@ Characteristic
 Bow
 Deputy
 Device
-Characterise
 Engineering
 Circulate
 Foundation
@@ -2279,7 +2271,7 @@ Novel
 Phrase
 Pilot
 Preparation
-Proceeding
+Proceedings
 Quantity
 Tension
 Thinking
@@ -2295,7 +2287,6 @@ Premise
 Prize
 Spokesman
 Tower
-Unix
 Boot
 Delivery
 Depth
@@ -2461,7 +2452,6 @@ Hero
 Infection
 Interaction
 Journal
-Judgement
 Knife
 Mail
 Medicine

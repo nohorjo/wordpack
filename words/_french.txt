@@ -640,7 +640,6 @@ collant/-ante$poisseux/-euse$des enfants qui ont les doigts collants$confiture p
 un peu$Nous avons un petit problème.$un peu plus loin$beaucoup$pas mal$
 désolé/-ée$morne$sombre$une vie morne et solitaire$désolé/-ée$
 prix$gagner le prix du meilleur acteur$dommages-intérêts$des dommages-intérêts$attribuer$
-
 président/-ente$le Président des Etats-Unis$la première femme à être élue présidente$président-directeur général (PDG)$président d’université$
 rire$Ce film m’a tellement fait rire.$rire d’une plaisanterie$Elle me fait vraiment rire.$rire comme un bossu$
 brillant/-ante$une piéce de monnaie neuve et brillante$des cheveux propres et brilants$brillant$
@@ -672,7 +671,6 @@ accrocher$suspendre$Accrochez vos manteaux au portemanteau.$Où est-ce que je do
 paresseux/-euse$Ne sois pas paresseux.$un homme paresseux$de détente$une journée de détente à la plage$
 planche$une planche de 60 cm$une planche à découper$plateau$un échiquier$
 
-prudent/-ente$Je me méfie des médicaments qui n’ont pas été testés.$prudent; méfiant$
 roi$le roi Jean et ses fidèles serviteurs$roi$le roi de la comédie$roi$
 secouer$trembler$La boîte a fait un bruit de ferraille quand je l’ai secouée.$La maison entière tremblait sous l’action du vent.$Ma mère m’a secoué pour me réveiller.$
 obscur/-ure$un obscur poète du 19ème siècle$obscur/-ure$un écrit obscur$obscurcir$
@@ -895,7 +893,6 @@ promesse$J’ai fait une promesse, aussi le ferai-je.$trahir une promesse$Il a t
 pris/prise de vertiges$J’avais chaud et je me sentais pris de vertiges.$pris de vertige$vertigineux$
 
 rejeter$Les actionnaires ont rejeté l’offre.$Il a vivement rejeté l’idée.$rejeter$Sa demande de visa a été rejetée.$
-miteux/-euse$un homme portant des vêtements miteux$usé$miteux$mesquin$
 technique$technologie$technologie alimentaire$l’avenir des techniques de bioingénierie$nouvelles technologies$
 pleurer$Je t’en prie, ne pleure pas.$Le garçon pleurait pour voir ses parents.$pleurer toutes les larmes de son corps$crier$
 gras/grasse$des frites grasses$des cheveux gras$graisseux$graisseux$
@@ -1016,7 +1013,6 @@ facture$payer la facture d’électricité$billet$un billet de dix dollars$proje
 
 terne$
 inquiétude$préoccupation$des inquiétudes pour le bonheur des enfants$de la préoccupation concernant la chute du marché de l’immobilier$l’inquiétude quant à l’éventuelle fermeture de l’école$
-direct/-ecte$l’itinéraire le plus direct$un vol direct pour Chicago$direct/-ecte$franc/franche$
 
 élément$L’humour n’est que l’un des éléments de sa personnalité.$Il y a eu une part de chance dans notre victoire.$élément$les éléments chimiques.$
 s’échapper$échapper à$s’évader$des prisonniers s’échappant/évadant de prison$Le garçon s’est échappé par la porte de derrière.$
@@ -1123,7 +1119,6 @@ indiscipliné$
 direction$marchant en direction du parc$Il ne savait pas dans quelle direction tourner.$dans la même direction / direction opposée$sens de l’orientation$
 enfumé/-ée$une pièce enfumée$fumé/-ée$Le fromage a un goût légèrement fumé.$enfumé$
 siège$Est-ce que ce siège est occupé ?$une selle de bicyclette$place$Il y a des places à l’arrière du bus.$
-(faire) rouler$Le ballon aroulé sous la voiture.$Ils faisaient rouler les rondins jusqu’en bas de la pente.$rouler$Le caddie roula au loin.$
 enneigé/-ée$des bois enneigés$neigeux$(blanc) comme neige$
 attitude$une façon positive de voir la vie$des attitudes différentes à l’égard des enfants$attitude (envers)$attitude$
 laver$une femme se lavant les cheveux/mains$Lavez les vêtements blancs dans l’eau chaude.$Veillez à vous laver soigneusement.$entraîner$
@@ -1365,7 +1360,6 @@ aide (humanitaire)$assistance$des millions de dollars d’aide humanitaire de l�
 distribution$acteurs$les acteurs de “Friends”$plâtre$avec son bras dans le plâtre$
 autoritaire$tyrannique$un enfant tyrannique$autoritaire$
 dispositions$préparatifs$les préparatifs pour la réception$Nous avons pris nos dispositions pour partir ce week-end.$arrangement$
-cuisiner$Qui est-ce qui prépare le dîner ce soir ?$Je n’ai jamais le temps de cuisiner.$cuire$Les pommes de terre mettent 15 minutes à cuire.$
 
 concept$le concept du voyage dans le temps$concept$
 danser$Elle voulait l’inviter à danser.$Jodie dansait avec son petit-ami.$danser sur la musique$danser la samba$
@@ -1499,7 +1493,6 @@ excéder$dépasser$Les résultats ont dépassé nos espérances.$dépasser la li
 (argent) ) liquide$espèces$100 $en espèces$Je l’ai payé en liquide.$Le magasin n’accepte que les espèces.$
 remplir les conditions pour$De par son âge, elle remplit les conditions pour un traitement médical gratuit.$Mes enfants remplissent-ils les conditions pour déjeuner gratuitement.$obtenir son diplôme$Il vient d’obtenir son diplôme d’avocat.$
 contribution$apporter une contribution au fonds$contribution$la contribution des femmes du 20ème siècle à la physique$contribution$
-glisser$La voiture glissait sur la route verglacée.$Elle glissa son doigt sur l’écran du téléphone cellulaire.$baisser$Les prix de l’immobilier ont atteint des niveaux encore plus bas.$
 débat$un débat fourni au Congrès au sujet de la guerre$un débat passionné/acharné$débat contradictoire$un débat contradictoire sur les services de santé$
 (se) renforcer$devenir/rendre plus fort/-e$J’esaaie de renforcer la partie supérieure de mon corps.$Les problèmes qu’elle a eus ont renforcé sa foi.$des mouvements pour renforcer l’économie$
 essence$faire le plein d’essence (de la voiture)$gaz$un gaz inflammable$gaz$
@@ -2047,7 +2040,6 @@ fondation$des fondations solides$fondement$les fondements du bouddhisme$jeter le
 clarifier$éclaircir$clarifier/éclaircir la situation$clarifier$
 fruit$fruits$Les fruits frais sont un bon en-cas.$les agrumes tels que les oranges$un fruit$
 compenser$Apprends à compenser les points faibles dans ta manière d’apprendre.$dédommager$indemniser$heureux de le dédommager pour les dégâts$
-lac$Ils sont allés nager dans le lac.$le lac Ontario$lac$
 composer (par compilation)$
 feuille$une feuille de chêne/géranium/laitue$Les feuilles deviennent orange en automne.$à feuilles…$les plantes à grandes feuilles$
 pub$une soirée au pub$
@@ -2303,7 +2295,6 @@ de sexe féminin$femelle$deux chatons femelles et un mâle$Les deux officiers de
 cadre$un cadre de photo doré$armature$un sommier de lit$monture$
 cadre$un cadre pour l’enseignement des maths$châssis$armature$un châssis en bois/métal$
 
-porte-(…); détenteur/-trice$
 glace$verglas$Ce matin-là il y avait du verglas sur les routes.$un bloc de glace$glace$
 pouce$La vis faisait deux pouces de long.$ne pas céder d’un pouce$Je le lui ai demandé plusieurs fois mais il refuse de céder d’un pouce.$pouce$
 obligation$des obligations financières$une obligation morale d’enseigner à nos enfants les dangers de la drogue$obligation$un fort sentiment d’obligation / sens de l’obligation$
@@ -2470,7 +2461,6 @@ pas$Il a ralenti le pas de façon à ce que les enfants puissent le rattraper.$�
 paragraphe$Lisez le second paragraphe et répondez à ces questions.$paragraphe$
 permission$Demande la permission de tes parents pour aller sur le site Internet.$Le vigile lui a donné la permission d’entrer.$refuser à quelqu’un la permission$permission$
 plate-forme$tribune$une plate-forme de forage pétrolier$Les orateurs se tenaient sur une tribune.$quai$
-agent de police$policier/-ière$
 rang$grade$le grade de sergent$rangs$un auteur qui a rejoint les rangs des grands auteurs de science fiction$
 sable$sable doré$un château de sable$poncer$Poncez soigneusement toutes les surfaces avant de peindre.$
 champ$portée$un sujet qui se situe hors du champ de la recherche$possibilité$Les experts voient une possibilité de croissance de l’économie.$
