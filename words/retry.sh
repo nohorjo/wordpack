@@ -13,4 +13,5 @@ do
     WORD=$(./translate.sh $(sed 's/\.txt$//g' <<< $(sed 's/^_//g' <<< ${1})) $(sed "${n}q;d" _all.txt))
     echo ${n} ${WORD}
     replace_line ${1} ${n} ${WORD} > ${1}.new
+    mv ${1}.new ${1}
 done
