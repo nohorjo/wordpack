@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import {
   Text,
   View,
-  Button
+  Button,
+  ScrollView
 } from 'react-native';
 
 import styles from './Styles';
@@ -11,8 +12,8 @@ import { listLanguages } from './Words';
 let navigate;
 
 const laguageButtons = lang => (
-  <View key={lang.title} style={styles.languageButtonView}>
-    <Text style={styles.languageTitle}>{lang.title}</Text>
+  <View key={lang} style={styles.languageButtonView}>
+    <Text style={styles.languageTitle}>{lang.toUpperCase()}</Text>
     <View style={styles.buttonContainer}>
       <View style={styles.languageButton}>
         <Button
@@ -34,7 +35,7 @@ export default class Menu extends Component {
   constructor(props) {
     super(props);
     this.state = { languages: [] }
-    listLanguages.then(languages => {
+    listLanguages().then(languages => {
       this.setState({ languages: languages });
     });
   }
@@ -44,13 +45,19 @@ export default class Menu extends Component {
     return (
       <View style={[styles.container, styles.root]}>
         <Text style={styles.heading}>Hello</Text>
-        <View style={styles.languageButtonList}>{this.state.languages.sort((lang1, lang2) => {
-          if (lang1 < lang2)
-            return -1
-          if (lang1 > lang2)
-            return 1
-          return 0
-        }).map(lang => laguageButtons(lang))}</View>
+        <View style={styles.languageButtonList}>
+          <ScrollView>
+            {
+              this.state.languages.sort((lang1, lang2) => {
+                if (lang1 < lang2)
+                  return -1
+                if (lang1 > lang2)
+                  return 1
+                return 0
+              }).map(lang => laguageButtons(lang))
+            }
+          </ScrollView>
+        </View>
       </View>
     );
   }
