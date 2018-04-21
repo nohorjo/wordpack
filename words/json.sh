@@ -6,7 +6,7 @@ json() {
     echo -n [
     while read eng <&3 && read lang <&4;
     do
-        echo -n \{\"word\":\"${eng}\",\"translation\":\"$(sed 's/\$/\\\\n/g' <<< ${lang})\"\},
+        echo -n \{\"word\":\"${eng}\",\"translation\":\"$(sed 's/\$/\\n/g' <<< ${lang})\"\},
     done 3<_all.txt 4<${1}
     echo -n ]
 }
