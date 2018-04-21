@@ -6,7 +6,7 @@ import {
 } from 'react-native';
 
 import styles from './Styles';
-import mock from './mock';
+import { listLanguages } from './Words';
 
 let navigate;
 
@@ -33,6 +33,10 @@ const laguageButtons = lang => (
 export default class Menu extends Component {
   constructor(props) {
     super(props);
+    this.state = { languages: [] }
+    listLanguages.then(languages => {
+      this.setState({ languages: languages });
+    });
   }
 
   render() {
@@ -40,10 +44,10 @@ export default class Menu extends Component {
     return (
       <View style={[styles.container, styles.root]}>
         <Text style={styles.heading}>Hello</Text>
-        <View style={styles.languageButtonList}>{mock.languages.sort((lang1, lang2) => {
-          if (lang1.title < lang2.title)
+        <View style={styles.languageButtonList}>{this.state.languages.sort((lang1, lang2) => {
+          if (lang1 < lang2)
             return -1
-          if (lang1.title > lang2.title)
+          if (lang1 > lang2)
             return 1
           return 0
         }).map(lang => laguageButtons(lang))}</View>
