@@ -670,7 +670,7 @@ ordenado, aseado$ordenadamente$ordenar, arreglar$ordenado$null$
 colgar, estar colgado$ahorcar$cogerle el truco a algo$colgar$colgar, pender$
 vago$pereza$perezoso, vago$perezosamente$pereza$
 pizarra$tablón$tablero$a bordo$tabla$
-
+cauteloso$con cautela$cauteloso, cauto, prudente$cautelosamente, cautamente, prudentemente$cautela, prudencia$
 rey$rey$rey$rey$rey$
 agitar(se)$temblar, estremecerse$estrechar(se) la mano$negar con la cabeza$agitar, (hacer) temblar$
 poco conocido$poco claro$obscuro, oscuro, poco claro$obscuro$obscuro$
@@ -891,7 +891,7 @@ escaso, disperso$con pocos muebles, desangelado$escasamente$escaso$escasamente$
 esfuerzo$trabajo$esfuerzo$intento, esfuerzo$obra; intento$
 prometer$prometer$prometer ser algo$promesa$prometer$
 mareado$mareo, vértigo$mareado$vertiginoso$vertiginosamente$
-
+rechazar$no aceptar$rechazar$rechazo$
 rechazar$no aceptar$rechazar$rechazo$
 tecnología$tecnología$tecnológico$tecnólogo$
 llorar$gritar$a lo hecho, pecho$a lo hecho, pecho$grito$
@@ -1010,7 +1010,7 @@ estación$temporada$de temporada$condimentar$estación$
 insinuar, dar a entender$insinuar, dar a entender$insinuación; consecuencia$
 sonrosado$halagüeño$
 factura$cuenta$billete$la policía$pico$
-
+apagado, monótono$apagado, soso, sin gracia, gris$apagadamente$falta de gracia$
 apagado, monótono$apagado, soso, sin gracia, gris$apagadamente$falta de gracia$
 preocupar, concernir$tratar sobre$preocupar$preocupación$preocupación$
 embriagador$
@@ -1115,7 +1115,7 @@ cargado, mal ventilado$cargado, mal ventilado$estirado; remilgado$de manera esti
 sector$sector$sector$
 ejercicio$ejercicio$hacer ejercicio$ejercicio$ejercicio$
 rebelde, revoltoso$indisciplinado$indisciplina, falta de disciplina$
-
+indicaciones$dirección$hacia alguien$
 indicaciones$dirección$hacia alguien$
 lleno de humo$
 asiento$sentarse$estar sentado$asiento$asiento$
@@ -1355,7 +1355,7 @@ existencias$en estoc, en existencias$en existencia, agotado$reserva$valores, tí
 arcano$
 todo, entero$todo…$en general$en general$entero, íntegro, todo$
 luchar, esforzarse$pelear, forcejear$lucha, esfuerzo$forcejeo, pelea$luchar, forcejear$
-
+ayuda$a favor de alguien/algo$ayudar$ayuda, auxilio$a beneficio de$
 ayuda$a favor de alguien/algo$ayudar$ayuda, auxilio$a beneficio de$
 reparto$dar un papel a$hechizar a alguien$lanzar, arrojar, tirar$mudar, mudar de$
 mandón$
@@ -1487,7 +1487,7 @@ estudio$estudio$taller$estudio, taller$estudio$
 con antelación$avance$(hacer) avanzar$avanzar$avanzar, proceder$
 cesar, suspender$cesar$incesante$incesantemente$
 oficial$funcionario, -a$oficial$oficial$
-
+fuerza$poder$punto fuerte$
 fuerza$poder$punto fuerte$
 exceder$exceder, sobrepasar$extremadamente$
 dinero en efectivo$dinero$cobrar un cheque$cobrar un cheque$efectivo, metálico$
@@ -2033,7 +2033,7 @@ característica$
 inclinarse, hacer una reverencia$inclinación, reverencia$lazo$arco$arco$
 sustituto, -a$
 aparato$aparato$mecanismo, truco, estratagema$
-
+ingeniería$
 ingeniería$
 circular$null$hacer$circulación$circulatorio$
 cimientos$
@@ -2271,7 +2271,7 @@ novela$novedoso, original$novela$novelista$
 locución$frase$frase$fraseología$fraseología$
 piloto$piloto$práctico, piloto$piloto$
 preparación$preparativos$
-
+acontecimientos, actividades$actas$medidas, juicio$
 cantidad$cantidad$análisis cuantitativo$aparejador$incógnita$
 tensión$tensión$
 reflexión$lógica, forma de pensar$
@@ -2287,7 +2287,7 @@ premisa$
 premio$premio$premio$
 portavoz$portavoz$
 torre$torre$elevado, dominante$intenso, extremo$edificio tipo torre$
-
+bota$maletero$bota$maletero$Iniciar$
 bota$maletero$bota$maletero$Iniciar$
 reparto, entrega$
 profundidad$profundidad$en profundidad$profundidad$intensidad$
@@ -2452,7 +2452,7 @@ héroe, heroína$protagonista$bocadillo$héroe; heroína$protagonista, personaje
 infección$infeccioso$
 interacción$
 revista especializada$revista$diario$periodismo$periodista$
-
+cuchillo$cuchillo$puñal$
 cuchillo$cuchillo$puñal$
 correo$correo$email$enviar$correo, cartas, correspondencia$
 medicamento$medicina$medicina$medicina$medicinal$

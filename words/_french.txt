@@ -670,7 +670,7 @@ bien rangé/-ée$en ordre$soigné/-ée$J’essaie de garder mes affaires en ordr
 accrocher$suspendre$Accrochez vos manteaux au portemanteau.$Où est-ce que je dois accrocher ce tableau ?$une corde suspendue à la branche de l’arbre.$
 paresseux/-euse$Ne sois pas paresseux.$un homme paresseux$de détente$une journée de détente à la plage$
 planche$une planche de 60 cm$une planche à découper$plateau$un échiquier$
-
+prudent/-ente$Je me méfie des médicaments qui n’ont pas été testés.$prudent; méfiant$
 roi$le roi Jean et ses fidèles serviteurs$roi$le roi de la comédie$roi$
 secouer$trembler$La boîte a fait un bruit de ferraille quand je l’ai secouée.$La maison entière tremblait sous l’action du vent.$Ma mère m’a secoué pour me réveiller.$
 obscur/-ure$un obscur poète du 19ème siècle$obscur/-ure$un écrit obscur$obscurcir$
@@ -891,7 +891,7 @@ clairsemé/-ée$des touffes d’herbe clairsemées$clairsemé$
 effort$Elle a fait un effort pour être élégante.$un effort pour vendre la maison rapidement.$efforts$Beaucoup de gens pensent qu’avoir un style de vie plus écologique demande trop d’efforts.$
 promesse$J’ai fait une promesse, aussi le ferai-je.$trahir une promesse$Il a trahi la promesse qu’il m’avait faite.$tenir une promesse$
 pris/prise de vertiges$J’avais chaud et je me sentais pris de vertiges.$pris de vertige$vertigineux$
-
+rejeter$Les actionnaires ont rejeté l’offre.$Il a vivement rejeté l’idée.$rejeter$Sa demande de visa a été rejetée.$
 rejeter$Les actionnaires ont rejeté l’offre.$Il a vivement rejeté l’idée.$rejeter$Sa demande de visa a été rejetée.$
 technique$technologie$technologie alimentaire$l’avenir des techniques de bioingénierie$nouvelles technologies$
 pleurer$Je t’en prie, ne pleure pas.$Le garçon pleurait pour voir ses parents.$pleurer toutes les larmes de son corps$crier$
@@ -1010,7 +1010,7 @@ saison$Quelle est ta saison préférée : l’hiver, le printemps, l’été ou 
 insinuer$Est-ce que tu insinues qu’Henri a pris l’argent ?$insinuer$
 optimiste$une vision optimiste de l’avenir$rosé/-ée$la lueur rosée du coucher de soleil$rose, rosé$
 facture$payer la facture d’électricité$billet$un billet de dix dollars$projet de loi$
-
+terne$
 terne$
 inquiétude$préoccupation$des inquiétudes pour le bonheur des enfants$de la préoccupation concernant la chute du marché de l’immobilier$l’inquiétude quant à l’éventuelle fermeture de l’école$
 
@@ -1115,7 +1115,7 @@ attacher$joindre$Jill a attaché une étiquette à chaque cadeau.$deux morceaux 
 secteur$le secteur du bénévolat / public/privé$La banque est le secteur à la croissance la plus rapide de l’économie de ce pays.$secteur$les secteurs au sud de la ville$
 exercice$L’exercice régulier est important.$le besoin de faire plus d’exercice$exercice$un exercice pour renforcer les muscles de vos bras$
 indiscipliné$
-
+direction$marchant en direction du parc$Il ne savait pas dans quelle direction tourner.$dans la même direction / direction opposée$sens de l’orientation$
 direction$marchant en direction du parc$Il ne savait pas dans quelle direction tourner.$dans la même direction / direction opposée$sens de l’orientation$
 enfumé/-ée$une pièce enfumée$fumé/-ée$Le fromage a un goût légèrement fumé.$enfumé$
 siège$Est-ce que ce siège est occupé ?$une selle de bicyclette$place$Il y a des places à l’arrière du bus.$
@@ -1355,7 +1355,7 @@ stock$provisions$Les stocks de nourriture pour volailles diminuent.$stock$Je vai
 
 tout / tout (before a vowel) or toute (before a consonant)$entier/-ière$Il faut une journée entière pour arriver jusqu’ici.$Il a mangé tout le gâteau.$J’ai travaillé dur toute ma vie / ma vie entière.$
 lutter$se battre$Il se battait pour surmonter ses difficultés d’apprentissage.$Les poissons luttent pour leur survie dans le lac.$combattre$
-
+aide (humanitaire)$assistance$des millions de dollars d’aide humanitaire de l’étranger$bourse d’études$aide$
 aide (humanitaire)$assistance$des millions de dollars d’aide humanitaire de l’étranger$bourse d’études$aide$
 distribution$acteurs$les acteurs de “Friends”$plâtre$avec son bras dans le plâtre$
 autoritaire$tyrannique$un enfant tyrannique$autoritaire$
@@ -1487,7 +1487,7 @@ studio$un studio au quatrième étage$studio$un studio d’enregistrement$studio
 progrès$les progrès de la médecine$à l’avance$On ne nous a rien dit à l’avance.$avance$
 cesser$(s’)arrêter$arrêter la production d’un produit$Qu’adviendrait-il si l’O.N.U. cessait d’exister ?$cesser$
 officiel/-elle$un communiqué/document officiel du président$reconnaissance officielle$le site Internet officiel du groupe$officiel/-elle$
-
+force$la force de ses bras$Après avoir marché pendant des jours, il ne lui restait que très peu de forces.$solidité$résistance$
 force$la force de ses bras$Après avoir marché pendant des jours, il ne lui restait que très peu de forces.$solidité$résistance$
 excéder$dépasser$Les résultats ont dépassé nos espérances.$dépasser la limite de vitesse$dépasser$
 (argent) ) liquide$espèces$100 $en espèces$Je l’ai payé en liquide.$Le magasin n’accepte que les espèces.$
@@ -2033,7 +2033,7 @@ caractéristique$des symptômes caractéristiques de cette maladie$avec son char
 nœud (à boucles)$faire un nœud$archet$Il passa l’archet sur les cordes.$arc$
 adjoint/-ointe$l’adjoint au Garde des Sceaux$adjoint/-ointe$l’un des adjoints du shérif$adjoint, ointe$
 appareil$un appareil digital pour les personnes qui ont des difficultés d’audition$un appareil qui garde le vin frais$appareil$truc$
-
+ingénierie$des cours de génie chimique$ingénierie$
 ingénierie$des cours de génie chimique$ingénierie$
 (faire) circuler$faisant circuler de l’air chaud dans la pièce$Le sang circule dans les veines.$circuler$Des rumeurs circulaient concernant leur divorce.$
 fondation$des fondations solides$fondement$les fondements du bouddhisme$jeter les fondements de$
@@ -2271,7 +2271,7 @@ roman$le premier roman de cet auteur$original/-ale$une approche originale de l�
 expression$locution$un dictionnaire contenant des milliers de mots et d’expressions / de locutions$syntagme$un syntagme prépositionnel$
 tester$L’école teste son nouveau programme basé sur le web.$piloter$L’homme pilotant l’avion avait une attaque cardiaque.$pilote$
 préparation$des étudiants travaillant dur leur préparation pour leurs examens de fin d’année$préparatifs$les préparatifs pour la soirée$faire des préparatifs$
-
+débats$poursuites$
 quantité$La police a trouvé une grande quantité de marijuana.$des produits commandés en petites quantités$quantité$
 tension$Il y avait une tension manifeste entre les deux dirigeants.$des tensions raciales dans la ville$tension$La plaisanterie n’a pas relâché la tension.$
 pensée$réflexion$J’essaie de comprendre la pensée qui est derrière ses actions.$manière de penser$Si tu veux me succéder, tu dois changer ta manière de pensée.$
@@ -2287,14 +2287,14 @@ pollution$la pollution de l’eau/air$pollution$
 prix$Elle a gagné le premier/second/troisième prix d’un concours de peinture.$prix$prix; primé$
 porte-parole$
 tour$une tour hertzienne$tour$
-
+botte$des bottes de cuir à hauteur du genoux$chaussures de randonnée / bottes d’équitation$coffre$Mets les valises dans le coffre.$
 botte$des bottes de cuir à hauteur du genoux$chaussures de randonnée / bottes d’équitation$coffre$Mets les valises dans le coffre.$
 livraison$distribution$La livraison a été lente.$un camion qui fait des centaines de livraisons par jour$la livraison/réalisation de services$
 profondeur$la profondeur de la blessure$des poissons qui vivent à des profondeurs de 1 000 mètres$profondeur$la profondeur des placards$
 de sexe féminin$femelle$deux chatons femelles et un mâle$Les deux officiers de police étaient de sexe féminin / des femmes.$femelle$
 cadre$un cadre de photo doré$armature$un sommier de lit$monture$
 cadre$un cadre pour l’enseignement des maths$châssis$armature$un châssis en bois/métal$
-
+porte-(…); détenteur/-trice$
 glace$verglas$Ce matin-là il y avait du verglas sur les routes.$un bloc de glace$glace$
 pouce$La vis faisait deux pouces de long.$ne pas céder d’un pouce$Je le lui ai demandé plusieurs fois mais il refuse de céder d’un pouce.$pouce$
 obligation$des obligations financières$une obligation morale d’enseigner à nos enfants les dangers de la drogue$obligation$un fort sentiment d’obligation / sens de l’obligation$
@@ -2452,7 +2452,7 @@ héros$un héros de guerre$Les pompiers ont été traités en héros.$héros$le 
 infection$les risques d’infection$infection$J’ai une infection respiratoire.$infection$
 interaction$
 revue$la revue de médecine de la Nouvelle Angleterre$journal$les journaux de son voyage$revue$
-
+couteau$couteaux, fourchettes et cuillers$arrêté pour avoir été en possession d’un couteau$couteau$couteau$
 couteau$couteaux, fourchettes et cuillers$arrêté pour avoir été en possession d’un couteau$couteau$couteau$
 courrier$Est-ce que le courrier est arrivé ?$Y avait-il quelque chose d’intéressant au courrier ?$poste$courrier$
 médicament$A quelle fréquence dois-je prendre ce médicament ?$médecine$Elle étudie la médecine.$médicament$

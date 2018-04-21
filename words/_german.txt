@@ -670,7 +670,7 @@ ordentlich$ordentlich$
 hängen$hängen$aufhängen$hängen$senken$
 faul$
 das Brett$das Brett$die Verpflegung$der Ausschuß$
-
+vorsichtig$
 der König$der König$der König$
 (er)heben (lassen)$erschüttern$
 dunkel$unbekannt$schwierig$
@@ -891,7 +891,7 @@ spärlich$
 die Anstrengung$die Anstrengung$der Versuch$
 versprechen$versprechen$Hoffnung erwecken$
 schwindelig$schwindelerregend$
-
+ablehnen$
 ablehnen$
 die Technologie$
 weinen$schreien$
@@ -1010,7 +1010,7 @@ die Jahreszeit$die Saison$
 besagen, andeuten$
 rosig$rosig$
 der Schnabel$die Rechnung$der Geldschein$das Plakat$
-
+eintönig$
 eintönig$
 betreffen$beunruhigen$sich beschäftigen$
 
@@ -1115,7 +1115,7 @@ stickig$langweilig$
 der Sektor$
 die Bewegung$die Übung$das Manöver$
 unbändig$
-
+die Richtung$die Führung$die Anleitung$die Anweisung$
 die Richtung$die Führung$die Anleitung$die Anweisung$
 verräuchert$rauchig$
 der Sitz$der Sitz$der Hosenboden$der Sitz$der Platz$
@@ -1355,7 +1355,7 @@ der Vorrat$der Vorrat$der (Vieh-)Bestand$das Kapital, die Aktie$die Brühe$
 
 ganz$ganz$
 zappeln$kämpfen$sich quälen$
-
+die Hilfe$
 die Hilfe$
 werfen$abwerfen$gießen$eine Rolle besetzen$Rollen verteilen$
 herrisch$
@@ -1487,7 +1487,7 @@ das Atelier$das Studio$das Studio$
 Fortschritte machen; verbessern$Vorschuß geben$
 aufhören$
 Amts-…, Dienst-…$offiziell$
-
+die Kraft$die Stärke$
 die Kraft$die Stärke$
 überschreiten$
 das Bargeld$die Barzahlung$das Geld$
@@ -2033,7 +2033,7 @@ bezeichnend$die Eigenschaft$
 (sich)(ver-)beugen$sich beugen$der Bogen$der Bogen$die Schleife$
 der/die Stellvertreter(in)$
 das Gerät$der Kniff$
-
+das Ingenieurwesen$
 das Ingenieurwesen$
 zirkulieren$in Umlauf sein$
 die Gründung$das Fundament$die Stiftung$
@@ -2271,7 +2271,7 @@ neuartig$der Roman$
 der Ausdruck$der Satz$
 der/die Pilot(in)$der/die Lotse(in)$
 die Vorbereitung$die Vorbereitung$
-
+der Bericht$das Verfahren$
 die Menge$
 die Spannung$die Spannung$
 
@@ -2287,14 +2287,14 @@ die Verschmutzung$
 der Lohn$der Preis, Preis-…$
 der/die Wortführer(in)$
 der Turm$
-
+der Stiefel$der Kofferraum$
 der Stiefel$der Kofferraum$
 die Lieferung$die Entbindung$
 die Tiefe$die Stärke$
 weiblich$weiblich$
 das Gerüst$der Rahmen$die Gestalt$
 das Gerüst$
-
+-halter$
 das Eis$das Eis$das Eis$
 der Zoll$das Stückchen$
 die Verpflichtung$
@@ -2452,7 +2452,7 @@ der Held$der Held$
 die Ansteckung$die Infektion$
 die Wechselwirkung$
 das Journal$das Tagebuch$
-
+das Messer$das Messer$
 das Messer$das Messer$
 die Post$
 die Medizin$die Medizin$

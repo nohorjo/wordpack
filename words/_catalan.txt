@@ -891,7 +891,7 @@ escàs, dispers$amb pocs mobles, poc acollidor$escassament$
 esforç$esforç$
 prometre$prometre$prometre ésser ac$promesa$
 marejat$mareig, vertigen$
-
+rebutjar$no acceptar$
 rebutjar$no acceptar$
 tecnologia$
 plorar$cridar$plorar quan no hi ha remei no serveix de res$un cop fet ja està fet$crit$
@@ -1011,7 +1011,7 @@ insinuar, donar a entendre$
 
 factura$compte$bitllet$
 
-
+preocupar, concernir$tractar sobre$preocupar$preocupació$preocupació$
 preocupar, concernir$tractar sobre$preocupar$preocupació$preocupació$
 
 element$un mica d’ac$element$trobar-se en el seu element$
@@ -1115,7 +1115,7 @@ carregat, mal ventilat$
 
 exercici$exercici$fer exercici$
 rebel, entremaliat$
-
+indicacions$direcció$cap a algú$
 indicacions$direcció$cap a algú$
 ple de fum$
 seient$asseure’s$seure$
@@ -1355,7 +1355,7 @@ estoc, existències$en estoc, exhaurit$reserva, fons$valors, títols$vendre, ten
 
 tot, sencer$tot…$en general$en general$
 lluitar, maldar$lluitar, forcejar$lluita, esforç$baralla, forcejament$
-
+ajuda$en benefici d’algú/ac$ajudar$
 ajuda$en benefici d’algú/ac$ajudar$
 repartiment$donar un paper a$embruixar algú$
 manaire$
@@ -1487,7 +1487,7 @@ estudi$estudi$taller$
 amb antelació, per endavant$avenç$(fer) avançar$avançar$
 cessar, suspendre$
 oficial$funcionari, -ària$
-
+força$poder$punt fort$
 força$poder$punt fort$
 excedir$
 diners en efectiu$diners$cobrar un xec$cobrar un xec$
@@ -2033,13 +2033,13 @@ característica$
 inclinar-se, fer una reverència$inclinació, reverència$llaç$arc$arquet$
 adjunt, -a$
 aparell$
-
+enginyeria$
 enginyeria$
 circular$
 fonaments$
 aclarir$
 fruita$donar fruit$
-
+llac$
 
 fulla$
 pub, bar$
@@ -2287,7 +2287,7 @@ contaminació, pol·lució$
 premi$
 portaveu$
 torre$
-
+bota$maleter$
 bota$maleter$
 repartiment, lliurament$
 fondària$profunditat$a fons$
@@ -2452,7 +2452,7 @@ heroi, heroïna$protagonista$entrepà$
 infecció$infecciós$
 
 revista especialitzada$
-
+ganivet$
 ganivet$
 correu$correu$correu electrònic$enviar per correu$
 medicament$medicina$

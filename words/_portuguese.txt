@@ -670,7 +670,7 @@ organizado, arrumado$ordenadamente$arrumar, organizar$
 pendurar, estar pendurado$enforcar$pegar o jeito de algo$
 preguiçoso$preguiça$
 lousa$quadro de avisos$tabuleiro$a bordo (de)$tábua, prancha, quadro$
-
+receoso$cautelosamente$
 rei$rei$
 sacudir$tremer$apertar as mãos, estender a mão$negar com a cabeça$
 obscuro$obscuro$
@@ -891,7 +891,7 @@ disperso, escasso$disperso, escasso$de pouca densidade, escassamente$
 esforço$esforço$
 prometer, dar a palavra$prometer, dar a palavra$promete ser algo$promessa, palavra$
 tonto, vertiginoso$tontura, vertigem$
-
+rejeitar$rejeitar$
 rejeitar$rejeitar$
 tecnologia$
 chorar$gritar$não adianta chorar pelo leite derramado$não adianta chorar pelo leite derramado$grito$
@@ -1010,7 +1010,7 @@ estação$temporada$da estação$temperar$
 insinuar, implicar$
 rosado$favorável$
 nota, fatura$conta$nota, cédula$a polícia$
-
+apagado, monótono$
 apagado, monótono$
 interessar, dizer respeito a$ser sobre, tratar de$preocupar$preocupação$preocupação, interesse$
 inebriante$
@@ -1115,7 +1115,7 @@ abafado, mal ventilado$
 setor$setor$
 exercício$exercício$exercitar-se$
 indisciplinado$
-
+orientações$direção$na direção de alguém$
 orientações$direção$na direção de alguém$
 esfumaçado$
 assento, lugar, poltrona$sentar-se$estar sentado$
@@ -1355,7 +1355,7 @@ estoque$disponível$esgotado$estoque$valores, títulos$
 misterioso$
 todo, inteiro$todo…$de modo geral$como um todo, na totalidade$
 lutar$lutar, debater-se$luta, esforço$luta, briga$
-
+ajuda, auxílio$em prol de alguém/algo$ajudar$
 ajuda, auxílio$em prol de alguém/algo$ajudar$
 elenco$escalar, distribuir os papéis$lançar um feitiço em alguém$
 mandão$
@@ -1487,7 +1487,7 @@ estúdio$estúdio$estúdio$
 com antecedência$avanço, progresso$avançar, progredir$avançar$
 cessar, suspender$
 oficial$funcionário, -a$
-
+força$poder$ponto forte$
 força$poder$ponto forte$
 exceder, superar$
 dinheiro (em espécie)$dinheiro, grana$descontar um cheque$descontar um cheque$
@@ -2033,7 +2033,7 @@ característica$
 fazer uma reverência, inclinar-se$reverência, mesura$laço$arco$arco$
 substituto, -a, suplente$
 aparelho, dispositivo$
-
+engenharia$
 engenharia$
 circular$
 alicerce, base, fundação$
@@ -2271,7 +2271,7 @@ romance$novo, inusitado$
 locução, frase$
 piloto$
 preparativos$preparativos$
-
+acontecimentos, atividades$anais$medidas, processo$
 quantidade$
 tensão$tensão$
 reflexão$pensamento$
@@ -2287,7 +2287,7 @@ premissa$
 prêmio$
 porta-voz (homem)$
 torre$
-
+bota$porta-malas$
 bota$porta-malas$
 entrega, envio$
 profundidade$profundidade$a fundo$
@@ -2452,7 +2452,7 @@ herói$herói$sanduíche italiano$
 infecção$contagioso$
 interação$
 revista, boletim$
-
+faca$
 faca$
 correio$correio$correio eletrônico, e-mail$enviar por correio$
 remédio$medicina$

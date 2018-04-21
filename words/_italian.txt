@@ -891,7 +891,7 @@ scarso$vegetazione scarsa$sguarnito, misero$scarsamente$una regione scarsamente 
 sforzo$Si ad essere socievole.$sforzo, fatica$Ho molto organizzare la festa.$
 promettere$Ha scrivermi tutte le settimane.$Paul mi ha avrebbe fatto lui cena stasera.$promettere$I suoi genitori le hanno promesso una macchina nuova se passa agli esami.$
 stordito, preso da vertigini$stordimento, vertigini$
-
+respingere, rifiutare$Il governo degli Stati Uniti ha respinto la proposta.$respingere, scartare$
 respingere, rifiutare$Il governo degli Stati Uniti ha respinto la proposta.$respingere, scartare$
 tecnologia$tecnologia informatica$
 piangere$Il mio fratellino piange sempre.$gridare$“Guarda questo!” ha gridato Raj.$è inutile piangere sul latte versato$
@@ -1011,7 +1011,7 @@ insinuare$Ha non era felice al lavoro.$
 
 bolletta, conto$Hai elettrica?$conto$Potrei avere il conto, per favore?$banconota$
 
-
+riguardare$I problemi ambientali riguardano tutti noi.$riguardare$preoccupare$Ciò che mi preoccupa è la sua mancanza di esperienza.$
 riguardare$I problemi ambientali riguardano tutti noi.$riguardare$preoccupare$Ciò che mi preoccupa è la sua mancanza di esperienza.$
 
 elemento$Questo libro contiene tutti gli elementi necessari per un buon racconto.$un po’ di qualcosa$C’è qualcosa di vero in ciò che dice.$elemento$
@@ -1115,7 +1115,7 @@ soffocante, mal ventilato$una stanza con l’aria viziata$
 
 moto, esercizio fisico$Il nuoto è l’attività fisica che preferisco.$esercizio$Per compito fate l’esercizio numero 3 a pagina 24.$fare del moto, allenarsi$
 indisciplinato, sregolato$bambini indisciplinati$
-
+indicazioni stradali$Ci siamo fermati per chiedere indicazioni.$direzione$La macchina è corsa via aeroporto.$verso qualcuno, nella direzione di qualcuno$
 indicazioni stradali$Ci siamo fermati per chiedere indicazioni.$direzione$La macchina è corsa via aeroporto.$verso qualcuno, nella direzione di qualcuno$
 pieno di fumo, che fa fumo$un bar pieno di fumo$
 sedile, posto a sedere$Questo posto è libero?$Ho due posti liberi per il concerto di stasera.$sedersi$Prego, si accomodi.$
@@ -1355,7 +1355,7 @@ merce, prodotti$disponibile$Spiacenti, ma non abbiamo la misura.$esaurito$Quel l
 
 intero, tutto$Ha passato tutto il pomeriggio a studiare.$tutto…, l’intero…$Il suo comportamento influisce su tutta la classe.$Ha frequentato tutte le lezioni per l’intero semestre.$
 lottare, fare sforzi, fare fatica$Sta pagare le bollette.$lottare$Si divincolava ma non riusciva a liberarsi.$lotta, sforzo$
-
+aiuto, sussidio, assistenza$Aiuti di emergenza sono stati inviati alle vittime dell’alluvione.$sussidi didattici$a favore di qualcuno/qualcosa$C’è un concerto per raccogliere fondi contro la fame nel mondo.$
 aiuto, sussidio, assistenza$Aiuti di emergenza sono stati inviati alle vittime dell’alluvione.$sussidi didattici$a favore di qualcuno/qualcosa$C’è un concerto per raccogliere fondi contro la fame nel mondo.$
 cast$La rappresentazione ha un cast di 20 attori.$selezionare per il casting$Perché gli viene sempre criminale?$lanciare un incantesimo su qualcuno$
 autoritario, prepotente$
@@ -1487,7 +1487,7 @@ studio$studio$uno studio cinematografico importante$studio$
 prima, in anticipo$Abbiamo prenotato i biglietti in anticipo.$progresso$i progressi scientifici$far progressi, aumentare, far progredire$
 cessare, sospendere$Ha ordinato agli uomini di cessare il fuoco.$
 ufficiale$la lingua ufficiale dell’Egitto$un documento ufficiale$funzionario, -a$una funzionaria di grado elevato$
-
+forza$Un bravo pugile oltre alla forza ha bisogno di avere abilità.$forza, potere$potere economico$capacità, dote, forza$
 forza$Un bravo pugile oltre alla forza ha bisogno di avere abilità.$forza, potere$potere economico$capacità, dote, forza$
 eccedere$Quest’anno ad oggi le vendite hanno superato un milione di dollari.$
 contanti$La pago £50 .$soldi$Sono .$incassare un assegno$
@@ -2033,13 +2033,13 @@ caratteristica$La giocosità è una caratteristica comune dei delfini.$
 inchinare, fare un inchino$Tutti gli attori hanno fatto un inchino alla fine dello spettacolo.$inchino$Gli attori sono tornati sul palcoscenico per .$fiocco$
 vice$il vicesindaco$il vice sceriffo$il vice primo ministro$
 congegno, apparecchio$un apparecchio elettronico per inviare messaggi$
-
+ingegneria$
 ingegneria$
 circolare$L’acqua calda circola nelle tubature.$
 base, fondamenta$La casa ha le fondamenta di cemento.$
 chiarire$La legge mira a chiarire il regolamento edilizio.$
 frutto, frutta$Al mercato puoi comprare la frutta fresca.$Amo la frutta estiva come i frutti di bosco e le pesche.$dare frutti$La nostra decisione sta appena cominciando a dare i suoi frutti.$
-
+lago$Il lago Windermere$
 
 foglia$una foglia di quercia$le foglie che cadono$
 pub$
@@ -2287,7 +2287,7 @@ inquinamento$
 premio$vincere un premio$primo/secondo premio$
 portavoce (m)$
 torre$la torre di una chiesa$
-
+stivale$un paio di stivali$baule$Puoi mettere le borse in baule?$
 stivale$un paio di stivali$baule$Puoi mettere le borse in baule?$
 consegna$C’è un costo per la consegna?$
 profondità$Scava una buca di dieci centimetri di profondità.$profondità, serietà$Il suo scrivere dimostra un’incredibile profondità.$in dettaglio, a fondo$
@@ -2452,7 +2452,7 @@ eroe$È diventato un eroe nazionale per il suo ruolo nella rivoluzione.$eroe, pr
 infezione$un’infezione in gola$infettivo$
 
 bollettino, rivista$una rivista medica$
-
+coltello$coltello e forchetta$
 coltello$coltello e forchetta$
 posta, corrispondenza$Abbiamo ricevuto molta posta stamani.$posta$Il libro è arrivato ieri.$posta elettronica$
 medicinale$un medicinale per la tosse$Hai oggi?$medicina$
