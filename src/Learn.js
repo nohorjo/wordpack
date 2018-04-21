@@ -10,7 +10,7 @@ import Icon from 'react-native-vector-icons/Entypo';
 
 import styles from './Styles';
 
-import mock from './mock';
+import { getWords } from './Words';
 
 const leftRightButtonSize = 50;
 const enabledColour = "#007aff";
@@ -21,18 +21,19 @@ export default class Learn extends Component {
     constructor(props) {
         super(props);
         this.language = this.props.navigation.getParam("language");
-        this.words = mock.words.filter(w => !w.learned);
         this.state = {
             showTranslation: false,
             cardIndex: 0,
-            card: this.words[0]
+            card: null,
+            words: []
         };
+        getWords(this.language).then(words => this.setState({ words: words }))
     }
     render() {
         const first = this.state.cardIndex == 0;
-        const last = this.state.cardIndex == this.words.length - 1;
-        const card = this.words[this.state.cardIndex];
-        return (
+        const last = this.state.cardIndex == this.state.words.length - 1;
+        const card = this.state.words[this.state.cardIndex];
+        return card ? (
             <View style={styles.root}>
                 <View style={[styles.container, styles.card]}>
                     <Text style={styles.heading}>{card.word}</Text>
@@ -75,6 +76,10 @@ export default class Learn extends Component {
                     </View>
                 </View>
             </View>
-        );
+        ) : (
+                <View>
+                    <Text>Loading...</Text>
+                </View>
+            );
     }
 };

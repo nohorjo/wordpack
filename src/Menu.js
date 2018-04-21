@@ -11,7 +11,7 @@ import { listLanguages } from './Words';
 
 let navigate;
 
-const laguageButtons = lang => (
+const languageButtons = lang => (
   <View key={lang} style={styles.languageButtonView}>
     <Text style={styles.languageTitle}>{lang.toUpperCase()}</Text>
     <View style={styles.buttonContainer}>
@@ -35,9 +35,7 @@ export default class Menu extends Component {
   constructor(props) {
     super(props);
     this.state = { languages: [] }
-    listLanguages().then(languages => {
-      this.setState({ languages: languages });
-    });
+    listLanguages().then(languages => this.setState({ languages: languages }));
   }
 
   render() {
@@ -54,7 +52,7 @@ export default class Menu extends Component {
                 if (lang1 > lang2)
                   return 1
                 return 0
-              }).map(lang => laguageButtons(lang))
+              }).map(lang => languageButtons(lang))
             }
           </ScrollView>
         </View>
