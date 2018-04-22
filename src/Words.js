@@ -11,7 +11,8 @@ export const listLanguages = async () => {
         if (x) x.date = new Date(x.date).valueOf();
         return x;
     });
-
+    console.log("cached", cached);
+    console.log("remote", remote);
     if (cached && cached.date == remote.date) {
         loadFromRemote = false;
         return cached.languages;
@@ -27,9 +28,14 @@ export const getWords = async language => {
 };
 
 async function makeRequest(item) {
-    const resp = await fetch(`https://raw.githubusercontent.com/nohorjo/wordpack/master/words/${item}.json`);
-    if (!resp.ok) {
-        throw await resp.text();
-    }
-    return await resp.json();
+    const timeout = () => { new Promise((resolve, reject) => setTimeout(reject, 5000)) };
+    const request = async () => {
+        const resp = await fetch(`https://raw.githubusercontent.com/nohorjo/wordpack/master/words/${item}.json`);
+        if (!resp.ok) {
+            throw await resp.text();
+        }
+        return await resp.json();
+    };
+
+    return await Promise.race([request(), timeout()]);
 }
