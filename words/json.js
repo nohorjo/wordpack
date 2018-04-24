@@ -19,10 +19,13 @@ Promise.all([
 ]) => {
     const words = [];
     for (let i = 0; i < eng.length; i++) {
-        words.push({
-            word: eng[i],
-            translation: lines[i]
-        });
+        let line = Array.from(new Set(lines[i].split('$'))).join('\n');
+        if (line) {
+            words.push({
+                word: eng[i],
+                translation: line
+            });
+        }
     }
     fs.writeFile(outFile, JSON.stringify(words), err => { if (err) throw err; });
 });
