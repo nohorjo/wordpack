@@ -19,7 +19,9 @@ Promise.all([
 ]) => {
     const words = [];
     for (let i = 0; i < eng.length; i++) {
-        let line = Array.from(new Set(lines[i].split('$'))).join('\n');
+        let line = Array.from(new Set(lines[i].split('$')))
+            .filter(w => /\w/.test(w))
+            .join('\n');
         if (line) {
             words.push({
                 word: eng[i],
