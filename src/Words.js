@@ -2,7 +2,7 @@ import { AsyncStorage } from 'react-native';
 
 const KEY_PREFIX = '@wordpack:';
 
-let loadFromRemote = true;
+let loadFromCache = [];
 let keys = [];
 
 AsyncStorage.getAllKeys().then(allKeys => keys = allKeys.filter(k => k.startsWith(KEY_PREFIX)));
@@ -23,8 +23,7 @@ export const listLanguages = async () => {
 
     if (cached && cached.date == remote.date) {
         console.log("Using cached list")
-        loadFromRemote = false;
-        return cached.languages;
+        return loadFromCache = cached.languages;
     }
 
     console.log("Using remote list")
@@ -36,16 +35,25 @@ export const listLanguages = async () => {
 export const getWords = async language => {
     console.log(`Loading ${language}`);
     const key = KEY_PREFIX + language;
-    if (keys.includes(key) && !loadFromRemote) {
+    if (keys.includes(key) && loadFromCache.includes(language)) {
         console.log("Using cached words");
         return JSON.parse(await AsyncStorage.getItem(key));
     }
 
     console.log("Using remote words");
     const words = await makeRequest(language);
-    AsyncStorage.setItem(key, JSON.stringify(words)).then(keys.push.bind(keys, key));
+    AsyncStorage.setItem(key, JSON.stringify(words)).then(() => {
+        keys.push(key);
+        loadFromCache.push(language);
+    });
 
     return words;
+};
+
+export const saveWords = (words, language) => {
+    console.log(`Saving ${language}`);
+    const key = KEY_PREFIX + language;
+    AsyncStorage.setItem(key, JSON.stringify(words));
 };
 
 async function makeRequest(item) {

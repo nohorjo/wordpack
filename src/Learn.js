@@ -10,7 +10,7 @@ import Icon from 'react-native-vector-icons/Entypo';
 
 import styles from './Styles';
 
-import { getWords } from './Words';
+import { getWords, saveWords } from './Words';
 
 const leftRightButtonSize = 50;
 const enabledColour = "#007aff";
@@ -27,7 +27,9 @@ export default class Learn extends Component {
             card: null,
             words: []
         };
-        getWords(this.language).then(words => this.setState({ words: words }))
+        getWords(this.language).then(words => this.setState({
+            words: words.filter(w => !w.learned)
+        }))
     }
     render() {
         const first = this.state.cardIndex == 0;
@@ -59,6 +61,7 @@ export default class Learn extends Component {
                             value={card.learned}
                             onValueChange={() => {
                                 card.learned = !card.learned;
+                                saveWords(this.state.words, this.language);
                                 this.forceUpdate();
                             }}
                         />
