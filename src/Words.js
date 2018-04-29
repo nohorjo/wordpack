@@ -35,19 +35,29 @@ export const listLanguages = async () => {
 export const getWords = async language => {
     console.log(`Loading ${language}`);
     const key = KEY_PREFIX + language;
+    const cacheRequest = AsyncStorage.getItem(key);
+
     if (keys.includes(key) && loadFromCache.includes(language)) {
         console.log("Using cached words");
-        return JSON.parse(await AsyncStorage.getItem(key));
+        return JSON.parse(await cacheRequest);
     }
 
     console.log("Using remote words");
-    const words = await makeRequest(language);
-    AsyncStorage.setItem(key, JSON.stringify(words)).then(() => {
+    const [cWords, rWords] = await Promise.all([cacheRequest, makeRequest(language)]);
+
+    if (cWords) {
+        rWords.forEach(word => {
+            const { learned, weight } = cWords.find(x => x.word == word.word) || {};
+            Object.assign(word, { learned, weight });
+        });
+    }
+
+    AsyncStorage.setItem(key, JSON.stringify(rWords)).then(() => {
         keys.push(key);
         loadFromCache.push(language);
     });
 
-    return words;
+    return rWords;
 };
 
 export const saveWords = (words, language) => {
