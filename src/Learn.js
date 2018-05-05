@@ -27,9 +27,12 @@ export default class Learn extends Component {
             card: null,
             words: []
         };
-        getWords(this.language).then(words => this.setState({
-            words: words.filter(w => !w.learned)
-        }))
+        getWords(this.language).then(words => {
+            this.allWords = words;
+            this.setState({
+                words: words.filter(w => !w.learned)
+            });
+        });
     }
     render() {
         const first = this.state.cardIndex == 0;
@@ -61,7 +64,7 @@ export default class Learn extends Component {
                             value={card.learned}
                             onValueChange={() => {
                                 card.learned = !card.learned;
-                                saveWords(this.state.words, this.language);
+                                saveWords(this.allWords, this.language);
                                 this.forceUpdate();
                             }}
                         />
