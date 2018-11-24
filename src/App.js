@@ -1,20 +1,15 @@
-import { StackNavigator } from 'react-navigation';
+import React, { Component } from 'react';
+import './App.css';
 
-import Menu from './Menu';
-import Learn from './Learn';
-import Test from './Test';
-
-const App = StackNavigator(
-    {
-        Home: { screen: Menu },
-        Learn: { screen: Learn },
-        Test: { screen: Test },
-    },
-    {
-        navigationOptions: {
-            header: null
-        }
-    },
-);
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <header className="App-header">
+        </header>
+      </div>
+    );
+  }
+}
 
 export default App;
