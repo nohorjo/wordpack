@@ -1,6 +1,45 @@
 .App {
   text-align: center;
-  color: white;
-  background-color: #282c34;
+  color: #dadde3;
+  background-color: #393f4a;
   min-height: 100vh;
+}
+
+.menu>header {
+    padding: 1em 0;
+    font-size: 18pt;
+}
+
+.menu div {
+    padding: 0.5em;
+}
+
+.menu>div {
+    border-top: #282c34 1px solid;
+}
+
+.menu>div::first-letter {
+    text-transform: uppercase;
+}
+
+.menu>div>div {
+    display: flex;
+}
+
+.menu>div>div>a {
+    text-decoration: none;
+    color: #dadde3;
+    border: #768296 solid 2px;
+    border-radius: 5px;
+    padding: 0.5em;
+    margin: 0 1em;
+    width: 50%;
+}
+
+.menu>div>div>a:nth-child(1) {
+    background-color: #484a39;
+}
+
+.menu>div>div>a:nth-child(2) {
+    background-color: #4a3c39;
 }

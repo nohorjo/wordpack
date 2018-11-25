@@ -17,15 +17,18 @@ export default class Menu extends Component {
                 key={`lang_${lang}`}
             >
                 {lang}
-                <Link to={`/learn/${lang}`}>Learn</Link>
-                <Link to={`/test/${lang}`}>Test</Link>
+                <div>
+                    <Link to={`/learn/${lang}`}>Learn</Link>
+                    <Link to={`/test/${lang}`}>Test</Link>
+                </div>
             </div>
         ));
     }
 
     render() {
         return (
-            <div>
+            <div className="menu">
+                <header>Menu</header>
                 {this.renderLanguageButtons()}
             </div>
         );
