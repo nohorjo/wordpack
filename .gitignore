@@ -58,3 +58,4 @@ buck-out/
 *.vim
 .directory
 tags
+.*.swp
