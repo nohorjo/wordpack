@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Wordpack",
+  "name": "Wordpack vocabulary builder",
   "icons": [
     {
       "src": "favicon.ico",
