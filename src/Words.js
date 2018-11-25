@@ -1,4 +1,6 @@
-export const listLanguages = () => fetch('/words/words.json').then(resp => resp.json());
+export const listLanguages = () => fetch('/words/words.json')
+                                    .then(resp => resp.json())
+                                    .then(langs => langs.sort());
 
 export const getWords = async language => {
     console.log(`Loading ${language}`);
