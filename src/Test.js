@@ -18,7 +18,7 @@ export default class Learn extends Component {
         getWords(this.lang).then(ws => {
             this._allWords = ws;
             const words = ws.filter(w => w.weight)
-                            .sort((a, b) => (a.weight * Math.random() - (b.weight * Math.random())))
+                            .sort((a, b) => -(a.weight * Math.random() - (b.weight * Math.random())))
                             .slice(0, MIN_WORDS);
             if (words.length < MIN_WORDS) {
                 alert(`Not enough words. You need to learn ${MIN_WORDS - words.length} more`);
