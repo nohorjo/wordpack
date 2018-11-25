@@ -3,6 +3,7 @@
     color: #dadde3;
     background-color: #393f4a;
     min-height: 100vh;
+    font-size: 14pt;
 }
 
 .menu>header {
@@ -40,6 +41,7 @@ input[type="button"],
     padding: 0.5em;
     margin: 0 1em;
     background-color: #4a5260;
+    font-size: 12pt;
 }
 
 .menu>div>div>a {
@@ -54,11 +56,15 @@ input[type="button"],
     background-color: #4a3c39;
 }
 
-.learn {
+.learn,
+.test{
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
-    padding: 3em 0 0 0;
+    min-height: 90vh;
+    padding: 2em 0 0 0;
+}
+
+.learn {
     justify-content: space-around;
 }
 
@@ -77,4 +83,20 @@ input[type="button"],
 .learn .controls {
     display: flex;
     justify-content: space-around;
+}
+
+.test input[type="button"] {
+    margin: 0.5em 1em;
+}
+
+.test span:nth-child(1) {
+    font-size: 22pt;
+}
+
+.score {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 24pt;
 }

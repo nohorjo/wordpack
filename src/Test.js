@@ -39,7 +39,9 @@ export default class Learn extends Component {
 
         if (index === MIN_WORDS) {
             return (
-                <div>
+                <div
+                    className="score"
+                >
                     Score: {score} out of {MIN_WORDS}
                 </div>
             );
@@ -52,8 +54,8 @@ export default class Learn extends Component {
             } while (choices.size < MIN_WORDS);        
 
             return (
-                <div>
-                    {word[toShow]}
+                <div className="test">
+                    <span>{word[toShow]}</span>
                     {[...choices].sort(randomSort).map(i => (
                         <input
                             type="button"
@@ -75,7 +77,7 @@ export default class Learn extends Component {
                             }}
                         />
                     ))}
-                    Question {index + 1} of {MIN_WORDS}
+                    <span>Question {index + 1} of {MIN_WORDS}</span>
                 </div>
             );
         } else {
