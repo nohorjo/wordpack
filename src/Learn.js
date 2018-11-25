@@ -1,91 +1,77 @@
 import React, { Component } from 'react';
-import {
-    View,
-    Text,
-    TouchableOpacity,
-    Switch
-} from 'react-native';
-
-import Icon from 'react-native-vector-icons/Entypo';
-
-import styles from './Styles';
 
 import { getWords, saveWords } from './Words';
+import { randomSort } from './utils';
 
-const leftRightButtonSize = 50;
-const enabledColour = "#007aff";
-const disabledColour = "#7fbcff";
-
+const WORDS_COUNT = 10;
 
 export default class Learn extends Component {
+
     constructor(props) {
         super(props);
-        this.language = this.props.navigation.getParam("language");
+        this.lang = props.match.params.lang;
         this.state = {
+            words: [],
+            index: 0,
             showTranslation: false,
-            cardIndex: 0,
-            card: null,
-            words: []
         };
-        getWords(this.language).then(words => {
-            this.allWords = words;
-            this.setState({
-                words: words.filter(w => !w.learned)
-            });
+        getWords(this.lang).then(ws => {
+            this._allWords = ws;
+            const words = ws.filter(w => !w.weight)
+                            .slice(0, WORDS_COUNT)
+                            .sort(randomSort);
+            this.setState({words});
         });
     }
+
     render() {
-        const first = this.state.cardIndex == 0;
-        const last = this.state.cardIndex == this.state.words.length - 1;
-        const card = this.state.words[this.state.cardIndex];
-        return card ? (
-            <View style={styles.root}>
-                <View style={[styles.container, styles.card]}>
-                    <Text style={styles.heading}>{card.word}</Text>
-                    <TouchableOpacity onPress={() => this.setState(prev => (!prev.showTranslation && { showTranslation: true }))}>
-                        <Text>{this.state.showTranslation ? card.translation : "Tap to show translation"}</Text>
-                    </TouchableOpacity>
-                </View>
-                <View style={[styles.buttonContainer, styles.bottomButtons]}>
-                    <View style={styles.leftButton}>
-                        <Icon.Button
-                            onPress={() => this.setState(prev => (!first && {
-                                showTranslation: false,
-                                cardIndex: --prev.cardIndex
-                            }))}
-                            name="chevron-with-circle-left"
-                            size={leftRightButtonSize}
-                            backgroundColor={first ? disabledColour : enabledColour}
-                        />
-                    </View>
-                    <View style={styles.buttonContainer}>
-                        <Text>I know this word</Text>
-                        <Switch
-                            value={card.learned}
-                            onValueChange={() => {
-                                card.learned = !card.learned;
-                                saveWords(this.allWords, this.language);
-                                this.forceUpdate();
-                            }}
-                        />
-                    </View>
-                    <View style={styles.rightButton}>
-                        <Icon.Button
-                            onPress={() => this.setState(prev => (!last && {
-                                showTranslation: false,
-                                cardIndex: ++prev.cardIndex
-                            }))}
-                            name="chevron-with-circle-right"
-                            size={leftRightButtonSize}
-                            backgroundColor={last ? disabledColour : enabledColour}
-                        />
-                    </View>
-                </View>
-            </View>
+        const {
+            words,
+            index,
+            showTranslation,
+        } = this.state;
+        const word = words[index];
+
+        return word ? (
+            <div>
+                {word.word}
+                {showTranslation ? word.translation : (
+                    <span
+                        onClick={() => this.setState({showTranslation: true})}
+                    >
+                        Show translation
+                    </span>
+                )}
+                Learned
+                <input
+                    type="checkbox"
+                    checked={word.weight}
+                    onChange={() => {
+                        word.weight = word.weight ? 0 : 1;
+                        saveWords(this._allWords, this.lang);
+                        this.forceUpdate();
+                    }}
+                />
+                <input
+                    type="button"
+                    value="Previous"
+                    onClick={() => index && this.setState({
+                        index: index - 1,
+                        showTranslation: false,
+                    })}
+                />
+                <input
+                    type="button"
+                    value="Next"
+                    onClick={() => index < words.length - 1 && this.setState({
+                        index: index + 1,
+                        showTranslation: false,
+                    })}
+                />
+            </div>
         ) : (
-                <View>
-                    <Text>Loading...</Text>
-                </View>
-            );
+            <div />
+        );
     }
+
 };

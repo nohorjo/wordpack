@@ -1,106 +1,87 @@
 import React, { Component } from 'react';
-import {
-    View,
-    Text,
-    Button,
-    Switch,
-    Alert
-} from 'react-native';
-
-import Icon from 'react-native-vector-icons/Entypo';
-
-import styles from './Styles';
 
 import { getWords, saveWords } from './Words';
+import { randomSort } from './utils';
 
-const leftRightButtonSize = 50;
-const enabledColour = "#007aff";
-const disabledColour = "#7fbcff";
-
-const MIN_WORDS = 1;
+const MIN_WORDS = 10;
 
 export default class Learn extends Component {
+
     constructor(props) {
         super(props);
-        this.language = this.props.navigation.getParam("language");
+        this.lang = props.match.params.lang;
         this.state = {
-            showTranslation: false,
-            cardIndex: 0,
-            card: null,
-            words: []
+            words: [],
+            index: 0,
+            score: 0,
         };
-        getWords(this.language).then(allWords => {
-            this.allWords = allWords;
-            const learned = allWords.filter(w => w.learned);
-            if(learned.length < MIN_WORDS){
-                Alert.alert(
-                    'Not enough learned words',
-                    `You need to mark more that ${MIN_WORDS} words as learned to take a test`,
-                    [{text : 'OK', onPress : this.props.navigation.pop.bind(this)}]
-                );
+        getWords(this.lang).then(ws => {
+            this._allWords = ws;
+            const words = ws.filter(w => w.weight)
+                            .sort((a, b) => (a.weight * Math.random() - (b.weight * Math.random())))
+                            .slice(0, MIN_WORDS);
+            if (words.length < MIN_WORDS) {
+                alert(`Not enough words. You need to learn ${MIN_WORDS - words.length} more`);
             } else {
-                this.setState({
-                    words : learned
-                                .sort((a, b) => (b.weight || 0) * Math.random() 
-                                              - (a.weight || 0) * Math.random())
-                                .slice(0,10)
-                });
+                this.setState({words});
             }
         });
     }
+
     render() {
-        const first = this.state.cardIndex == 0;
-        const last = this.state.cardIndex == this.state.words.length - 1;
-        const card = this.state.words[this.state.cardIndex];
-        return card ? (
-            <View style={styles.root}>
-                <View style={[styles.container, styles.card]}>
-                    <Text style={styles.heading}>{card.word}</Text>
-                    <View style={{flex : 4}}>
-                        {Array(8).fill((<View style={{marginTop:5}}><Button title="x"/></View>))}
-                    </View>
-                </View>
-                <View style={[styles.buttonContainer, styles.bottomButtons]}>
-                    <View style={styles.leftButton}>
-                        <Icon.Button
-                            onPress={() => this.setState(prev => (!first && {
-                                showTranslation: false,
-                                cardIndex: --prev.cardIndex
-                            }))}
-                            name="chevron-with-circle-left"
-                            size={leftRightButtonSize}
-                            backgroundColor={first ? disabledColour : enabledColour}
-                        />
-                    </View>
-                    <View style={styles.buttonContainer}>
-                        <Text>I know this word</Text>
-                        <Switch
-                            value={card.learned}
-                            onValueChange={() => {
-                                card.learned = !card.learned;
-                                saveWords(this.allWords, this.language);
-                                this.forceUpdate();
+        const {
+            words,
+            index,
+            score,
+        } = this.state;
+
+        const word = words[index];
+
+        if (index === MIN_WORDS) {
+            return (
+                <div>
+                    Score: {score} out of {MIN_WORDS}
+                </div>
+            );
+        } else if (word) {
+            const [toShow, toTest] = ["word", "translation"].sort(randomSort);
+            const choices = new Set([index]);
+
+            do {
+                choices.add(Math.random() * MIN_WORDS | 0);
+            } while (choices.size < MIN_WORDS);        
+
+            return (
+                <div>
+                    {word[toShow]}
+                    {[...choices].sort(randomSort).map(i => (
+                        <input
+                            type="button"
+                            value={words[i][toTest]}
+                            onClick={() => {
+                                const correct = i === index;
+                                if (correct) {
+                                    word.weight++;
+                                    this.setState({
+                                        score: score + 1,
+                                    });
+                                    saveWords(this._allWords, this.lang);
+                                } else {
+                                    alert(word[toTest]);
+                                }
+                                this.setState({
+                                    index: index + 1,
+                                });
                             }}
                         />
-                    </View>
-                    <View style={styles.rightButton}>
-                        <Icon.Button
-                            onPress={() => this.setState(prev => (!last && {
-                                showTranslation: false,
-                                cardIndex: ++prev.cardIndex
-                            }))}
-                            name="chevron-with-circle-right"
-                            size={leftRightButtonSize}
-                            backgroundColor={last ? disabledColour : enabledColour}
-                        />
-                    </View>
-                </View>
-            </View>
-        ) : (
-                <View>
-                    <Text>Loading...</Text>
-                </View>
+                    ))}
+                    Question {index + 1} of {MIN_WORDS}
+                </div>
             );
+        } else {
+            return (<div />);
+        }
     }
+
 };
 

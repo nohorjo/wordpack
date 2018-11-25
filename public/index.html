@@ -20,6 +20,11 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>React App</title>
+    <script>
+        window.addEventListener('load', () => {
+            navigator.serviceWorker && navigator.serviceWorker.register('./sw.js');
+        });
+    </script>
   </head>
   <body>
     <noscript>
