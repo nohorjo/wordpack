@@ -1,8 +1,8 @@
 .App {
-  text-align: center;
-  color: #dadde3;
-  background-color: #393f4a;
-  min-height: 100vh;
+    text-align: center;
+    color: #dadde3;
+    background-color: #393f4a;
+    min-height: 100vh;
 }
 
 .menu>header {
@@ -26,6 +26,12 @@
     display: flex;
 }
 
+input[type="button"]:disabled {
+    background-color: #393f4a;
+    color: #a2aab9;
+}
+
+input[type="button"],
 .menu>div>div>a {
     text-decoration: none;
     color: #dadde3;
@@ -33,6 +39,10 @@
     border-radius: 5px;
     padding: 0.5em;
     margin: 0 1em;
+    background-color: #4a5260;
+}
+
+.menu>div>div>a {
     width: 50%;
 }
 
@@ -42,4 +52,29 @@
 
 .menu>div>div>a:nth-child(2) {
     background-color: #4a3c39;
+}
+
+.learn {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 3em 0 0 0;
+    justify-content: space-around;
+}
+
+.learn>span:nth-child(1) {
+    font-size: 24pt;
+}
+
+.learn>span:nth-child(2) {
+    font-size: 16pt;
+}
+
+.learn input[type="button"] {
+    width: 6em;
+}
+
+.learn .controls {
+    display: flex;
+    justify-content: space-around;
 }

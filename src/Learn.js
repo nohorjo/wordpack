@@ -33,41 +33,45 @@ export default class Learn extends Component {
         const word = words[index];
 
         return word ? (
-            <div>
-                {word.word}
-                {showTranslation ? word.translation : (
+            <div className="learn">
+                <span>{word.word}</span>
                     <span
                         onClick={() => this.setState({showTranslation: true})}
                     >
-                        Show translation
+                        {showTranslation ? word.translation : "Show translation"}
                     </span>
-                )}
-                Learned
-                <input
-                    type="checkbox"
-                    checked={word.weight}
-                    onChange={() => {
-                        word.weight = word.weight ? 0 : 1;
-                        saveWords(this._allWords, this.lang);
-                        this.forceUpdate();
-                    }}
-                />
-                <input
-                    type="button"
-                    value="Previous"
-                    onClick={() => index && this.setState({
-                        index: index - 1,
-                        showTranslation: false,
-                    })}
-                />
-                <input
-                    type="button"
-                    value="Next"
-                    onClick={() => index < words.length - 1 && this.setState({
-                        index: index + 1,
-                        showTranslation: false,
-                    })}
-                />
+                <div className="controls">
+                    <input
+                        type="button"
+                        value="Previous"
+                        disabled={!index}
+                        onClick={() => this.setState({
+                            index: index - 1,
+                            showTranslation: false,
+                        })}
+                    />
+                    <span>
+                        <input
+                            type="checkbox"
+                            checked={word.weight}
+                            onChange={() => {
+                                word.weight = word.weight ? 0 : 1;
+                                saveWords(this._allWords, this.lang);
+                                this.forceUpdate();
+                            }}
+                        />
+                        Learned
+                    </span>
+                    <input
+                        type="button"
+                        value="Next"
+                        disabled={index === words.length - 1}
+                        onClick={() => this.setState({
+                            index: index + 1,
+                            showTranslation: false,
+                        })}
+                    />
+                </div>
             </div>
         ) : (
             <div />
