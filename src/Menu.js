@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
-import { listLanguages } from './Words';
+import {
+    listLanguages,
+    getProgess,
+} from './Words';
 
 export default class Menu extends Component {
 
@@ -11,25 +14,34 @@ export default class Menu extends Component {
         listLanguages().then(languages => this.setState({ languages }));
     }
 
-    renderLanguageButtons() {
-        return this.state.languages.map(lang => (
-            <div
-                key={`lang_${lang}`}
-            >
-                {lang}
-                <div>
-                    <Link to={`/learn/${lang}`}>Learn</Link>
-                    <Link to={`/test/${lang}`}>Test</Link>
-                </div>
-            </div>
-        ));
-    }
-
     render() {
         return (
             <div className="menu">
                 <header>Menu</header>
-                {this.renderLanguageButtons()}
+                {this.state.languages.map(lang => (
+                    <div
+                        key={`lang_${lang}`}
+                        className="menuItem"
+                    >
+                        <hr
+                            className="progressBar"
+                            style={{
+                                width: `${getProgess(lang)}%`,
+                            }}
+                        />
+                        <div
+                            className="langName"
+                        >
+                            {lang}
+                        </div>
+                        <div
+                            className="buttonsContainer"
+                        >
+                            <Link to={`/learn/${lang}`}>Learn</Link>
+                            <Link to={`/test/${lang}`}>Test</Link>
+                        </div>
+                    </div>
+                ))}
             </div>
         );
     }

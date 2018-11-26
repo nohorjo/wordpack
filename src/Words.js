@@ -19,3 +19,8 @@ export const saveWords = (words, language) => {
     localStorage.setItem(`${language}_weights`, JSON.stringify(words.map(w => w.weight || 0)));
 };
 
+export const getProgess = language => {
+    const weights = JSON.parse(localStorage.getItem(`${language}_weights`) || '[]');
+    
+    return ((weights.filter(w => w).length/weights.length) || 0) * 100;
+};

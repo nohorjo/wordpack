@@ -60,11 +60,11 @@ export default class Learn extends Component {
                     <span>{word[toShow]}</span>
                     {[...choices].sort(randomSort).map(i => (
                         <input
+                            key={`test_option_${i}`}
                             type="button"
                             value={words[i][toTest]}
                             onClick={() => {
-                                const correct = i === index;
-                                if (correct) {
+                                if (i === index) {
                                     word.weight++;
                                     this.setState({
                                         score: score + 1,

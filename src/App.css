@@ -12,18 +12,31 @@
 }
 
 .menu div {
+    text-transform: capitalize;
+}
+
+.menu .progressBar {
+    border: #96a78c solid 2px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 0;
+}
+
+.menu .langName {
+    padding-top: 0.5em;
+}
+
+.menu>.menuItem {
     padding: 0.5em;
-}
-
-.menu>div {
+    padding-top: 0;
+    margin-top: 0.5em;
     border-top: #282c34 1px solid;
+    position: relative;
 }
 
-.menu>div::first-letter {
-    text-transform: uppercase;
-}
-
-.menu>div>div {
+.menu .buttonsContainer {
+    padding: 0.5em;
     display: flex;
 }
 
@@ -33,7 +46,7 @@ input[type="button"]:disabled {
 }
 
 input[type="button"],
-.menu>div>div>a {
+.menu .buttonsContainer>a {
     text-decoration: none;
     color: #dadde3;
     border: #768296 solid 2px;
