@@ -46,7 +46,9 @@ export default class Learn extends Component {
                 </div>
             );
         } else if (word) {
-            const [toShow, toTest] = ["word", "translation"].sort(randomSort);
+            const picks = ["word", "translation"];
+            if (word.transliteration) picks.push('transliteration');
+            const [toShow, toTest] = picks.sort(randomSort);
             const choices = new Set([index]);
 
             do {

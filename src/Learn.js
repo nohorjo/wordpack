@@ -14,6 +14,8 @@ export default class Learn extends Component {
             words: [],
             index: 0,
             showTranslation: false,
+            showTransliteration: false,
+            showLang: false,
         };
         getWords(this.lang).then(ws => {
             this._allWords = ws;
@@ -29,17 +31,44 @@ export default class Learn extends Component {
             words,
             index,
             showTranslation,
+            showTransliteration,
+            showLang,
         } = this.state;
         const word = words[index];
 
+        const showPick = ['word', 'translation'];
+        if (showLang) showPick.reverse();
+        const [toShow, toHide] = showPick;
+
         return word ? (
             <div className="learn">
-                <span>{word.word}</span>
+                <span>
+                    <input
+                        type="checkbox"
+                        checked={showLang}
+                        onChange={() => this.setState({showLang: !showLang})}
+                    />
+                    Show {this.lang}
+                </span>
+                <span
+                    className="mainWord"
+                >
+                    {word[toShow]}
+                </span>
                     <span
+                        className="trans"
                         onClick={() => this.setState({showTranslation: true})}
                     >
-                        {showTranslation ? word.translation : "Show translation"}
+                        {showTranslation ? word[toHide] : "Show translation"}
                     </span>
+                    {word.transliteration && (
+                        <span
+                            className="trans"
+                            onClick={() => this.setState({showTransliteration: true})}
+                        >
+                            {showTransliteration ? word.transliteration : "Show transliteration"}
+                        </span>
+                    )}
                 <div className="controls">
                     <input
                         type="button"
@@ -48,6 +77,7 @@ export default class Learn extends Component {
                         onClick={() => this.setState({
                             index: index - 1,
                             showTranslation: false,
+                            showTransliteration: false,
                         })}
                     />
                     <span>
@@ -69,6 +99,7 @@ export default class Learn extends Component {
                         onClick={() => this.setState({
                             index: index + 1,
                             showTranslation: false,
+                            showTransliteration: false,
                         })}
                     />
                 </div>

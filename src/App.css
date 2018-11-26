@@ -69,10 +69,14 @@ input[type="button"],
 }
 
 .learn>span:nth-child(1) {
+    text-transform: capitalize;
+}
+
+.learn>.mainWord {
     font-size: 24pt;
 }
 
-.learn>span:nth-child(2) {
+.learn>.trans {
     font-size: 16pt;
 }
 
