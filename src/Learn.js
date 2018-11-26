@@ -93,7 +93,7 @@ export default class Learn extends Component {
                             type="checkbox"
                             checked={word.weight}
                             onChange={() => {
-                                word.weight = word.weight ? 0 : 1;
+                                word.weight = word.weight ? 0 : 5;
                                 saveWords(this._allWords, this.lang);
                                 this.forceUpdate();
                             }}

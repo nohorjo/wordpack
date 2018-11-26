@@ -69,10 +69,12 @@ export default class Learn extends Component {
                                     this.setState({
                                         score: score + 1,
                                     });
-                                    saveWords(this._allWords, this.lang);
                                 } else {
-                                    alert(word[toTest]);
+                                    let alertMessage = `Correct answer: ${word[toTest]}`;
+                                    if (!--word.weight) alertMessage += ". This word will be placed back in the learn group";
+                                    alert(alertMessage);
                                 }
+                                saveWords(this._allWords, this.lang);
                                 this.setState({
                                     index: index + 1,
                                 });
