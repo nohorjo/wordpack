@@ -10,12 +10,17 @@ export default class Learn extends Component {
     constructor(props) {
         super(props);
         this.lang = props.match.params.lang;
+        let showLang = localStorage.getItem('showLang');
+        
+        if (showLang === null) showLang = "true";
+        showLang = showLang === "true";
+
         this.state = {
             words: [],
             index: 0,
             showTranslation: false,
             showTransliteration: false,
-            showLang: false,
+            showLang,
         };
         getWords(this.lang).then(ws => {
             this._allWords = ws;
@@ -46,7 +51,10 @@ export default class Learn extends Component {
                     <input
                         type="checkbox"
                         checked={showLang}
-                        onChange={() => this.setState({showLang: !showLang})}
+                        onChange={() => {
+                            this.setState({showLang: !showLang});
+                            localStorage.setItem('showLang', !showLang);
+                        }}
                     />
                     Show {this.lang}
                 </span>
