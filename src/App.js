@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {
-    BrowserRouter as Router,
+    HashRouter as Router,
     Route,
 } from 'react-router-dom';
 
@@ -19,7 +19,9 @@ const routes = [
 class App extends Component {
     render() {
         return (
-            <Router>
+            <Router
+                basename="/"
+            >
                 <div className="App">
                     {routes.map((r, i) => (
                         <Route key={`route_${i}`} {...r}/>
