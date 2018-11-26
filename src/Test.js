@@ -22,6 +22,7 @@ export default class Learn extends Component {
                             .slice(0, MIN_WORDS);
             if (words.length < MIN_WORDS) {
                 alert(`Not enough words. You need to learn ${MIN_WORDS - words.length} more`);
+                window.history.back();
             } else {
                 this.setState({words});
             }
@@ -38,6 +39,7 @@ export default class Learn extends Component {
         const word = words[index];
 
         if (index === MIN_WORDS) {
+            setTimeout(() => window.history.back(), 2500);
             return (
                 <div
                     className="score"

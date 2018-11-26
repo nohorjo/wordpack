@@ -27,7 +27,12 @@ export default class Learn extends Component {
             const words = ws.filter(w => !w.weight)
                             .slice(0, WORDS_COUNT)
                             .sort(randomSort);
-            this.setState({words});
+            if (!words.length) {
+                alert('You have learned all words in this list!');
+                window.history.back();
+            } else {
+                this.setState({words});
+            }
         });
     }
 
@@ -47,14 +52,15 @@ export default class Learn extends Component {
 
         return word ? (
             <div className="learn">
-                <span>
+                <span
+                    onClick={() => {
+                        this.setState({showLang: !showLang});
+                        localStorage.setItem('showLang', !showLang);
+                    }}
+                >
                     <input
                         type="checkbox"
                         checked={showLang}
-                        onChange={() => {
-                            this.setState({showLang: !showLang});
-                            localStorage.setItem('showLang', !showLang);
-                        }}
                     />
                     Show {this.lang}
                 </span>
@@ -88,15 +94,16 @@ export default class Learn extends Component {
                             showTransliteration: false,
                         })}
                     />
-                    <span>
+                    <span
+                        onClick={() => {
+                            word.weight = word.weight ? 0 : 5;
+                            saveWords(this._allWords, this.lang);
+                            this.forceUpdate();
+                        }}
+                    >
                         <input
                             type="checkbox"
                             checked={word.weight}
-                            onChange={() => {
-                                word.weight = word.weight ? 0 : 5;
-                                saveWords(this._allWords, this.lang);
-                                this.forceUpdate();
-                            }}
                         />
                         Learned
                     </span>
