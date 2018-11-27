@@ -10,18 +10,27 @@ export default class Menu extends Component {
 
     constructor(props) {
         super(props);
-        this.state = {languages: []};
+        this.state = {
+            languages: [],
+            lastLang: localStorage.getItem('lastLang'),
+        };
         listLanguages().then(languages => this.setState({ languages }));
     }
 
     render() {
+        const { languages, lastLang } = this.state;
+        languages.sort((a, b) => a === lastLang ? -1 : b === lastLang ? 1 : a.localeCompare(b));
         return (
             <div className="menu">
                 <header>Menu</header>
-                {this.state.languages.map(lang => (
+                {languages.map(lang => (
                     <div
                         key={`lang_${lang}`}
                         className="menuItem"
+                        onClick={() => {
+                            localStorage.setItem('lastLang', lang);
+                            this.setState({lastLang: lang});
+                        }}
                     >
                         <hr
                             className="progressBar"
