@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import {
     listLanguages,
     getProgess,
+    averageScore,
 } from './Words';
 
 export default class Menu extends Component {
@@ -56,6 +57,7 @@ export default class Menu extends Component {
                             <Link to={`/learn/${lang}`}>Learn</Link>
                             <Link to={`/test/${lang}`}>Test</Link>
                         </div>
+                        <sub>Average score: {averageScore(lang) || 0}</sub>
                     </div>
                 ))}
             </div>

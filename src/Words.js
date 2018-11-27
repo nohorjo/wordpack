@@ -23,3 +23,8 @@ export const getProgess = language => {
     
     return ((weights.filter(w => w).length/weights.length) || 0) * 100;
 };
+
+export const averageScore = language => {
+    const weights = JSON.parse(localStorage.getItem(`${language}_weights`) || '[]').filter(x => x);
+    return Math.round(weights.reduce((sum, w) => sum + w, 0) / weights.length);
+};
