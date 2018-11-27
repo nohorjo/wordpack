@@ -65,6 +65,7 @@ input[type="button"],
     background-color: #484a39;
 }
 
+input[type="button"].red,
 .menu>div>div>a:nth-child(2) {
     background-color: #4a3c39;
 }
@@ -117,3 +118,22 @@ input[type="button"],
     justify-content: center;
     font-size: 24pt;
 }
+
+#settingsicon {
+    position: absolute;
+    top: 0.5em;
+    right: 0.5em;
+}
+
+.settings {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 1em;
+    padding: 2em 0 0 0;
+}
+
+.settings header {
+    grid-column: 1/-1;
+    font-size: 18pt;
+}
+

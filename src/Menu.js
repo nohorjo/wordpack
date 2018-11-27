@@ -22,6 +22,13 @@ export default class Menu extends Component {
         languages.sort((a, b) => a === lastLang ? -1 : b === lastLang ? 1 : a.localeCompare(b));
         return (
             <div className="menu">
+                <Link to="/settings">
+                    <img
+                        id="settingsicon"
+                        src="/settings.svg"
+                        alt="settings"
+                    />
+                </Link>
                 <header>Menu</header>
                 {languages.map(lang => (
                     <div

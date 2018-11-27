@@ -7,6 +7,7 @@ import {
 import Menu from './Menu';
 import Learn from './Learn';
 import Test from './Test';
+import Settings from './Settings';
 
 import './App.css';
 
@@ -14,6 +15,7 @@ const routes = [
     {path: '/', component: Menu, exact: true},
     {path: '/learn/:lang', component: Learn},
     {path: '/test/:lang', component: Test},
+    {path: '/settings', component: Settings},
 ];
 
 class App extends Component {
