@@ -3,8 +3,6 @@ import React, { Component } from 'react';
 import { getWords, saveWords } from './Words';
 import { randomSort } from './utils';
 
-const WORDS_COUNT = 10;
-
 export default class Learn extends Component {
 
     constructor(props) {
@@ -25,10 +23,10 @@ export default class Learn extends Component {
         getWords(this.lang).then(ws => {
             this._allWords = ws;
             const words = ws.filter(w => !w.weight)
-                            .slice(0, WORDS_COUNT)
+                            .slice(0, +localStorage.getItem('wordsToLearn') || 10)
                             .sort(randomSort);
             if (!words.length) {
-                alert('You have learned all words in this list!');
+                alert('You have learned all words in this list! Try testing yourself');
                 window.history.back();
             } else {
                 this.setState({words});

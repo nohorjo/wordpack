@@ -137,3 +137,9 @@ input[type="button"].red,
     font-size: 18pt;
 }
 
+.settings input {
+    padding: 0.5em;
+    border-radius: 5px;
+    margin: 0 1em;
+    background-color: #d6dbe0;
+}

@@ -3,12 +3,11 @@ import React, { Component } from 'react';
 import { getWords, saveWords } from './Words';
 import { randomSort } from './utils';
 
-const MIN_WORDS = 10;
-
 export default class Learn extends Component {
 
     constructor(props) {
         super(props);
+        this.wordsToTest = +localStorage.getItem("wordsToTest") || 10;
         this.lang = props.match.params.lang;
         this.state = {
             words: [],
@@ -19,9 +18,9 @@ export default class Learn extends Component {
             this._allWords = ws;
             const words = ws.filter(w => w.weight)
                             .sort((a, b) => -(a.weight * Math.random() - (b.weight * Math.random())))
-                            .slice(0, MIN_WORDS);
-            if (words.length < MIN_WORDS) {
-                alert(`Not enough words. You need to learn ${MIN_WORDS - words.length} more`);
+                            .slice(0, this.wordsToTest);
+            if (words.length < this.wordsToTest) {
+                alert(`Not enough words. You need to learn ${this.wordsToTest - words.length} more`);
                 window.history.back();
             } else {
                 this.setState({words});
@@ -38,13 +37,14 @@ export default class Learn extends Component {
 
         const word = words[index];
 
-        if (index === MIN_WORDS) {
-            setTimeout(() => window.history.back(), 2500);
+        if (index === this.wordsToTest) {
+            const hash = window.location.hash;
+            setTimeout(() => hash === window.location.hash && window.history.back(), 2500);
             return (
                 <div
                     className="score"
                 >
-                    Score: {score} out of {MIN_WORDS}
+                    Score: {score} out of {this.wordsToTest}
                 </div>
             );
         } else if (word) {
@@ -54,8 +54,8 @@ export default class Learn extends Component {
             const choices = new Set([index]);
 
             do {
-                choices.add(Math.random() * MIN_WORDS | 0);
-            } while (choices.size < MIN_WORDS);        
+                choices.add(Math.random() * this.wordsToTest | 0);
+            } while (choices.size < this.wordsToTest);        
 
             return (
                 <div className="test">
@@ -83,7 +83,7 @@ export default class Learn extends Component {
                             }}
                         />
                     ))}
-                    <span>Question {index + 1} of {MIN_WORDS}</span>
+                    <span>Question {index + 1} of {this.wordsToTest}</span>
                 </div>
             );
         } else {
