@@ -44,8 +44,10 @@ export default class Menu extends Component {
                     className="red"
                     type="button"
                     onClick={() => {
-                        localStorage.clear();
-                        window.history.back();
+                        if (window.confirm("Are you sure you want to delete all data and reset the application?")) {
+                            localStorage.clear();
+                            window.history.back();
+                        }
                     }}
                     value="Reset"
                 />
