@@ -5,26 +5,26 @@ export default class Menu extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            wordsToLearn: +localStorage.getItem("wordsToLearn") || 10,
+            entitiesToLearn: +localStorage.getItem("entitiesToLearn") || 10,
             wordsToTest: +localStorage.getItem("wordsToTest") || 10,
         };
     }
 
     render() {
-        const { wordsToLearn, wordsToTest } = this.state;
+        const { entitiesToLearn, wordsToTest } = this.state;
         return (
             <div className="settings">
                 <header>Settings</header>
-                <span>Words to learn</span>
+                <span>Words or phrases to learn</span>
                 <input
                     type="number"
-                    value={wordsToLearn}
+                    value={entitiesToLearn}
                     min={1}
                     onChange={({target:{value, min}}) => {
                         if (value >= min) {
-                            localStorage.setItem('wordsToLearn', value);
+                            localStorage.setItem('entitiesToLearn', value);
                         }
-                        this.setState({wordsToLearn: value});
+                        this.setState({entitiesToLearn: value});
                     }}
                 />
                 <span>Words to test</span>

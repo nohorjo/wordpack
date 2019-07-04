@@ -5,7 +5,7 @@ import {
     listLanguages,
     getProgess,
     averageScore,
-} from './Words';
+} from './Entities';
 
 export default class Menu extends Component {
 
@@ -58,8 +58,9 @@ export default class Menu extends Component {
                         <div
                             className="buttonsContainer"
                         >
-                            <Link to={`/learn/${lang}`}>Learn</Link>
+                            <Link to={`/learn/words/${lang}`}>Learn</Link>
                             <Link to={`/test/${lang}`}>Test</Link>
+                            <Link to={`/learn/phrases/${lang}/`}>Phrases</Link>
                         </div>
                         <sub>Average score: {averageScore(lang) || 0}</sub>
                     </div>

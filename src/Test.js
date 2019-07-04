@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import { getWords, saveWords } from './Words';
+import { getWords, saveWords } from './Entities';
 import { randomSort } from './utils';
 
 export default class Learn extends Component {

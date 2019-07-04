@@ -86,7 +86,7 @@ input[type="button"].red,
     text-transform: capitalize;
 }
 
-.learn>.mainWord {
+.learn>.mainEntity {
     font-size: 24pt;
 }
 

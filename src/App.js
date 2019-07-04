@@ -13,7 +13,7 @@ import './App.css';
 
 const routes = [
     {path: '/', component: Menu, exact: true},
-    {path: '/learn/:lang', component: Learn},
+    {path: '/learn/:entity/:lang', component: Learn},
     {path: '/test/:lang', component: Test},
     {path: '/settings', component: Settings},
 ];
