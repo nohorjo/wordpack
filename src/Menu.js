@@ -13,14 +13,18 @@ export default class Menu extends Component {
         super(props);
         this.state = {
             languages: [],
-            lastLang: localStorage.getItem('lastLang'),
+            lastLang: localStorage.getItem('lastLang') || '',
         };
         listLanguages().then(languages => this.setState({ languages }));
     }
 
     render() {
         const { languages, lastLang } = this.state;
-        languages.sort((a, b) => a === lastLang ? -1 : b === lastLang ? 1 : a.localeCompare(b));
+        const sortedLangs = [...new Set([
+            ...lastLang.split(','),
+            ...languages.sort((a, b) => a.localeCompare(b)),
+        ])].filter(l => l);
+
         return (
             <div className="menu">
                 <Link to="/settings">
@@ -31,12 +35,12 @@ export default class Menu extends Component {
                     />
                 </Link>
                 <header>Menu</header>
-                {languages.map(lang => (
+                {sortedLangs.map(lang => (
                     <div
                         key={`lang_${lang}`}
                         className="menuItem"
                         onClick={() => {
-                            localStorage.setItem('lastLang', lang);
+                            localStorage.setItem('lastLang', [...new Set(`${lang},${lastLang}`.split(','))].join());
                             this.setState({lastLang: lang});
                         }}
                     >
