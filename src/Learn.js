@@ -8,6 +8,8 @@ import {
 } from './Entities';
 import { randomSort } from './utils';
 
+import { Swipeable } from 'react-swipeable';
+
 export default class Learn extends Component {
 
     constructor(props) {
@@ -55,6 +57,22 @@ export default class Learn extends Component {
         });
     }
 
+    nextCard(index) {
+        this.setState({
+            index: index + 1,
+            showTranslation: false,
+            showTransliteration: false,
+        });
+    }
+
+    previousCard(index) {
+        this.setState({
+            index: index - 1,
+            showTranslation: false,
+            showTransliteration: false,
+        });
+    }
+
     render() {
         const {
             entities,
@@ -70,74 +88,71 @@ export default class Learn extends Component {
         const [toShow, toHide] = showPick;
 
         return entity ? (
-            <div className="learn">
-                <span
-                    onClick={() => {
-                        this.setState({showLang: !showLang});
-                        localStorage.setItem('showLang', !showLang);
-                    }}
-                >
-                    <input
-                        type="checkbox"
-                        checked={showLang}
-                    />
-                    Show {this.lang}
-                </span>
-                <span
-                    className="mainEntity"
-                >
-                    {entity[toShow]}
-                </span>
-                    <span
-                        className="trans"
-                        onClick={() => this.setState({showTranslation: true})}
-                    >
-                        {showTranslation ? entity[toHide] : "Show translation"}
-                    </span>
-                    {entity.transliteration && (
-                        <span
-                            className="trans"
-                            onClick={() => this.setState({showTransliteration: true})}
-                        >
-                            {showTransliteration ? entity.transliteration : "Show transliteration"}
-                        </span>
-                    )}
-                <div className="controls">
-                    <input
-                        type="button"
-                        value="Previous"
-                        disabled={!index}
-                        onClick={() => this.setState({
-                            index: index - 1,
-                            showTranslation: false,
-                            showTransliteration: false,
-                        })}
-                    />
+            <Swipeable
+                onSwipedLeft={() => index !== entities.length - 1 && this.nextCard(index)}
+                onSwipedRight={() => index && this.previousCard(index)}
+            >
+                <div className="learn">
                     <span
                         onClick={() => {
-                            entity[this.criteriaProp] = entity[this.criteriaProp] ? 0 : 5;
-                            this.save(this._allEntities, this.lang);
-                            this.forceUpdate();
+                            this.setState({showLang: !showLang});
+                            localStorage.setItem('showLang', !showLang);
                         }}
                     >
                         <input
                             type="checkbox"
-                            checked={entity[this.criteriaProp]}
+                            checked={showLang}
                         />
-                        Learned
+                        Show {this.lang}
                     </span>
-                    <input
-                        type="button"
-                        value="Next"
-                        disabled={index === entities.length - 1}
-                        onClick={() => this.setState({
-                            index: index + 1,
-                            showTranslation: false,
-                            showTransliteration: false,
-                        })}
-                    />
+                    <span
+                        className="mainEntity"
+                    >
+                        {entity[toShow]}
+                    </span>
+                        <span
+                            className="trans"
+                            onClick={() => this.setState({showTranslation: true})}
+                        >
+                            {showTranslation ? entity[toHide] : "Show translation"}
+                        </span>
+                        {entity.transliteration && (
+                            <span
+                                className="trans"
+                                onClick={() => this.setState({showTransliteration: true})}
+                            >
+                                {showTransliteration ? entity.transliteration : "Show transliteration"}
+                            </span>
+                        )}
+                    <div className="controls">
+                        <input
+                            type="button"
+                            value="Previous"
+                            disabled={!index}
+                            onClick={() => this.previousCard(index)}
+                        />
+                        <span
+                            onClick={() => {
+                                entity[this.criteriaProp] = entity[this.criteriaProp] ? 0 : 5;
+                                this.save(this._allEntities, this.lang);
+                                this.forceUpdate();
+                            }}
+                        >
+                            <input
+                                type="checkbox"
+                                checked={entity[this.criteriaProp]}
+                            />
+                            Learned
+                        </span>
+                        <input
+                            type="button"
+                            value="Next"
+                            disabled={index === entities.length - 1}
+                            onClick={() => this.nextCard(index)}
+                        />
+                    </div>
                 </div>
-            </div>
+            </Swipeable>
         ) : (
             <div />
         );
