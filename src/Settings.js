@@ -10,6 +10,7 @@ export default class Menu extends Component {
         };
     }
 
+
     render() {
         const { entitiesToLearn, wordsToTest } = this.state;
         return (
@@ -51,8 +52,39 @@ export default class Menu extends Component {
                     }}
                     value="Reset"
                 />
+                <span>Progress export</span>
+                <input type="button" onClick={() => {
+                    const data = {},
+                        keys = Object.keys(localStorage);
+
+                    for (let key of keys) {
+                        data[key] = localStorage.getItem(key);
+                    }
+                    const filename = 'progress.json';
+                    const blob = new Blob([JSON.stringify(data)], {type: 'application/json'});
+                    if (window.navigator.msSaveOrOpenBlob) {
+                        window.navigator.msSaveBlob(blob, filename);
+                    } else {
+                        const elem = window.document.createElement('a');
+                        elem.href = window.URL.createObjectURL(blob);
+                        elem.download = filename;
+                        document.body.appendChild(elem);
+                        elem.click();
+                        document.body.removeChild(elem);
+                    }
+                }} value="Export"/>
+                <span>Progress import</span>
+                <input type="file" accept="application/JSON" onChange={e => {
+                    const reader = new FileReader();
+                    reader.onload = () => {
+                        const data = JSON.parse(reader.result);
+                        Object.entries(data).forEach(([k, v]) => localStorage.setItem(k, v));
+                    };
+                    reader.readAsText(e.target.files[0]);
+                }}/>
             </div>
         );
     }
 
 }
+
