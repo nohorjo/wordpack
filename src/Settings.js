@@ -79,6 +79,7 @@ export default class Menu extends Component {
                     reader.onload = () => {
                         const data = JSON.parse(reader.result);
                         Object.entries(data).forEach(([k, v]) => localStorage.setItem(k, v));
+                        alert('Imported successfully');
                     };
                     reader.readAsText(e.target.files[0]);
                 }}/>
