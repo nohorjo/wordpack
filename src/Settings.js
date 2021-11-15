@@ -22,7 +22,7 @@ export default class Menu extends Component {
                     value={entitiesToLearn}
                     min={1}
                     onChange={({target:{value, min}}) => {
-                        if (value >= min) {
+                        if (+value >= +min) {
                             localStorage.setItem('entitiesToLearn', value);
                         }
                         this.setState({entitiesToLearn: value});
@@ -34,7 +34,7 @@ export default class Menu extends Component {
                     value={wordsToTest}
                     min={2}
                     onChange={({target:{value, min}}) => {
-                        if (value >= min) {
+                        if (+value >= +min) {
                             localStorage.setItem('wordsToTest', value);
                         }
                         this.setState({wordsToTest: value});
