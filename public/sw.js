@@ -1,4 +1,5 @@
 self.addEventListener('fetch', event => {
+    console.log("You fetched " + event.url);
     event.respondWith(
         caches.open('wordpack')
             .then(cache => cache.match(event.request)
