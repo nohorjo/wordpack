@@ -88,10 +88,12 @@ input[type="button"].red,
 
 .learn>.mainEntity {
     font-size: 24pt;
+    font-family: 'Amiri', serif;
 }
 
 .learn>.trans {
     font-size: 16pt;
+    font-family: 'Amiri', serif;
 }
 
 .learn input[type="button"] {
@@ -101,6 +103,10 @@ input[type="button"].red,
 .learn .controls {
     display: flex;
     justify-content: space-around;
+}
+
+.test {
+    font-family: 'Amiri', serif;
 }
 
 .test input[type="button"] {
