@@ -50,7 +50,7 @@ export default class Learn extends Component {
         } else if (word) {
             const picks = ["word", "translation"];
             if (word.transliteration) picks.push('transliteration');
-            const [toShow, toTest] = picks.sort(randomSort);
+            const [toShow, toTest] = randomSort(picks);
             const choices = new Set([index]);
 
             do {
@@ -60,7 +60,7 @@ export default class Learn extends Component {
             return (
                 <div className="test">
                     <span>{word[toShow]}</span>
-                    {[...choices].sort(randomSort).map(i => (
+                    {randomSort([...choices]).map(i => (
                         <input
                             key={`test_option_${i}`}
                             type="button"

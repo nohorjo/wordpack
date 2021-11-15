@@ -45,9 +45,10 @@ export default class Learn extends Component {
 
         get(this.lang).then(ws => {
             this._allEntities = ws;
-            const entities = ws.filter(w => !w[this.criteriaProp])
-                            .slice(0, +localStorage.getItem('entitiesToLearn') || 10)
-                            .sort(randomSort);
+            const entities = randomSort(
+                ws.filter(w => !w[this.criteriaProp])
+                    .slice(0, +localStorage.getItem('entitiesToLearn') || 10)
+            );
             if (!entities.length) {
                 alert(`You have learned all ${props.match.params.entity} in this list! Try testing yourself`);
                 window.history.back();
