@@ -8,6 +8,7 @@ export default class Learn extends Component {
     constructor(props) {
         super(props);
         this.wordsToTest = +localStorage.getItem("wordsToTest") || 10;
+        this.testOptionsCount = +localStorage.getItem("testOptionsCount") || 10;
         this.lang = props.match.params.lang;
         this.state = {
             words: [],
@@ -51,11 +52,15 @@ export default class Learn extends Component {
             const picks = ["word", "translation"];
             if (word.transliteration) picks.push('transliteration');
             const [toShow, toTest] = randomSort(picks);
-            const choices = new Set([index]);
+            let choices;
 
             do {
-                choices.add(Math.random() * this.wordsToTest | 0);
-            } while (choices.size < this.wordsToTest);        
+                choices = new Set([index]);
+
+                do {
+                    choices.add(Math.random() * this.wordsToTest | 0);
+                } while (choices.size < this.testOptionsCount);
+            } while (!choices.has(index))
 
             return (
                 <div className="test">

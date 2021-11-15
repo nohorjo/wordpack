@@ -7,12 +7,18 @@ export default class Menu extends Component {
         this.state = {
             entitiesToLearn: +localStorage.getItem("entitiesToLearn") || 10,
             wordsToTest: +localStorage.getItem("wordsToTest") || 10,
+            testOptionsCount: +localStorage.getItem("testOptionsCount") || 10,
         };
     }
 
 
     render() {
-        const { entitiesToLearn, wordsToTest } = this.state;
+        const {
+            entitiesToLearn,
+            wordsToTest,
+            testOptionsCount,
+        } = this.state;
+
         return (
             <div className="settings">
                 <header>Settings</header>
@@ -38,6 +44,18 @@ export default class Menu extends Component {
                             localStorage.setItem('wordsToTest', value);
                         }
                         this.setState({wordsToTest: value});
+                    }}
+                />
+                <span>Number of test options</span>
+                <input
+                    type="number"
+                    value={testOptionsCount}
+                    min={2}
+                    onChange={({target:{value, min}}) => {
+                        if (+value >= +min) {
+                            localStorage.setItem('testOptionsCount', value);
+                        }
+                        this.setState({testOptionsCount: value});
                     }}
                 />
                 <span>Reset application</span>
