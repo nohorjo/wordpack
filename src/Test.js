@@ -52,26 +52,26 @@ export default class Learn extends Component {
             const picks = ["word", "translation"];
             if (word.transliteration) picks.push('transliteration');
             const [toShow, toTest] = randomSort(picks);
-            let choices;
+
+            const choices = [word];
 
             do {
-                choices = new Set([index]);
-
-                do {
-                    choices.add(Math.random() * this.wordsToTest | 0);
-                } while (choices.size < this.testOptionsCount);
-            } while (!choices.has(index))
+                const choice = words[Math.random() * this.wordsToTest | 0];
+                if (choices.every(c => c.translation !== choice.translation)) {
+                    choices.push(choice);
+                }
+            } while (choices.length < this.testOptionsCount);
 
             return (
                 <div className="test">
                     <span>{word[toShow]}</span>
-                    {randomSort([...choices]).map(i => (
+                    {randomSort(choices).map((option, i) => (
                         <input
                             key={`test_option_${i}`}
                             type="button"
-                            value={words[i][toTest]}
+                            value={option[toTest]}
                             onClick={() => {
-                                if (i === index) {
+                                if (option === word) {
                                     word.weight++;
                                     this.setState({
                                         score: score + 1,
