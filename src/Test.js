@@ -8,7 +8,7 @@ export default class Learn extends Component {
     constructor(props) {
         super(props);
         this.wordsToTest = +localStorage.getItem("wordsToTest") || 10;
-        this.testOptionsCount = +localStorage.getItem("testOptionsCount") || 10;
+        this.testOptionsCount = Math.min(+localStorage.getItem("testOptionsCount") || 10, this.wordsToTest);
         this.lang = props.match.params.lang;
         this.state = {
             words: [],
@@ -65,29 +65,30 @@ export default class Learn extends Component {
             return (
                 <div className="test">
                     <span>{word[toShow]}</span>
-                    {randomSort(choices).map((option, i) => (
-                        <input
-                            key={`test_option_${i}`}
-                            type="button"
-                            value={option[toTest]}
-                            onClick={() => {
-                                if (option === word) {
-                                    word.weight++;
+                    <div className="options">
+                        {randomSort(choices).map((option, i) => (
+                            <span
+                                className="button"
+                                key={`test_option_${i}`}
+                                onClick={() => {
+                                    if (option === word) {
+                                        word.weight++;
+                                        this.setState({
+                                            score: score + 1,
+                                        });
+                                    } else {
+                                        let alertMessage = `Correct answer: ${word[toTest]}`;
+                                        if (!--word.weight) alertMessage += ". This word will be placed back in the learn group";
+                                        alert(alertMessage);
+                                    }
+                                    saveWords(this._allWords, this.lang);
                                     this.setState({
-                                        score: score + 1,
+                                        index: index + 1,
                                     });
-                                } else {
-                                    let alertMessage = `Correct answer: ${word[toTest]}`;
-                                    if (!--word.weight) alertMessage += ". This word will be placed back in the learn group";
-                                    alert(alertMessage);
-                                }
-                                saveWords(this._allWords, this.lang);
-                                this.setState({
-                                    index: index + 1,
-                                });
-                            }}
-                        />
-                    ))}
+                                }}
+                        >{option[toTest]}</span>
+                        ))}
+                    </div>
                     <span>Question {index + 1} of {this.wordsToTest}</span>
                 </div>
             );

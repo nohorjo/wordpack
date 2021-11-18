@@ -46,7 +46,8 @@ input[type="button"]:disabled {
 }
 
 input[type="button"],
-.menu .buttonsContainer>a {
+.menu .buttonsContainer>a,
+.button {
     text-decoration: none;
     color: #dadde3;
     border: #768296 solid 2px;
@@ -109,11 +110,16 @@ input[type="button"].red,
     font-family: 'Amiri', serif;
 }
 
-.test input[type="button"] {
+.test>.options {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.test .button {
     margin: 0.5em 1em;
 }
 
-.test span:nth-child(1) {
+.test>span:nth-child(1) {
     font-size: 22pt;
 }
 
