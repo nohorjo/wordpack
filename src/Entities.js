@@ -25,12 +25,11 @@ export const getProgess = language => {
 };
 
 export const averageScore = language => {
-    let weights = JSON.parse(localStorage.getItem(`${language}_weights`) || '[]');
-    weights = weights
+    let weights = JSON.parse(localStorage.getItem(`${language}_weights`) || '[]')
         .filter(x => x)
         .sort()
-        .reverse()
-        .slice(Math.round(weights.length / 4));
+        .reverse();
+    weights = weights.slice(Math.round(weights.length / 4));
     return Math.round(weights.reduce((sum, w) => sum + w, 0) / weights.length);
 };
 
