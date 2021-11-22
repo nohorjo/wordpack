@@ -1,0 +1,143 @@
+.App {
+    text-align: center;
+    color: #dadde3;
+    background-color: #393f4a;
+    min-height: 100vh;
+    font-size: 14pt;
+}
+
+.menu {
+    >header {
+        padding: 1em 0;
+        font-size: 18pt;
+    }
+    div {
+        text-transform: capitalize;
+    }
+    .progressBar {
+        border: #96a78c solid 2px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        margin-top: 0;
+    }
+    .langName {
+        padding-top: 0.5em;
+    }
+    >.menuItem {
+        padding: 0.5em;
+        padding-top: 0;
+        margin-top: 0.5em;
+        border-top: #282c34 1px solid;
+        position: relative;
+    }
+    .buttonsContainer {
+        padding: 0.5em;
+        display: flex;
+    }
+    >div>div>a {
+        width: 50%;
+    }
+    >div>div>a:nth-child(1) {
+        background-color: #484a39;
+    }
+}
+
+input[type="button"]:disabled {
+    background-color: #393f4a;
+    color: #a2aab9;
+}
+
+input[type="button"],
+.menu .buttonsContainer>a,
+.button {
+    text-decoration: none;
+    color: #dadde3;
+    border: #768296 solid 2px;
+    border-radius: 5px;
+    padding: 0.5em;
+    margin: 0 1em;
+    background-color: #4a5260;
+    font-size: 12pt;
+}
+
+input[type="button"].red,
+.menu>div>div>a:nth-child(2) {
+    background-color: #4a3c39;
+}
+
+.learn,
+.test {
+    display: flex;
+    flex-direction: column;
+    min-height: 90vh;
+    padding: 2em 0 0 0;
+}
+
+.learn {
+    justify-content: space-around;
+    >span:nth-child(1) {
+        text-transform: capitalize;
+    }
+    >.mainEntity {
+        font-size: 24pt;
+        font-family: 'Amiri', serif;
+    }
+    >.trans {
+        font-size: 16pt;
+        font-family: 'Amiri', serif;
+    }
+    input[type="button"] {
+        width: 6em;
+    }
+    .controls {
+        display: flex;
+        justify-content: space-around;
+    }
+}
+
+.test {
+    font-family: 'Amiri', serif;
+    >.options {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    .button {
+        margin: 0.5em 1em;
+    }
+
+    >span:nth-child(1) {
+        font-size: 22pt;
+    }
+}
+
+.score {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 24pt;
+}
+
+#settingsicon {
+    position: absolute;
+    top: 0.5em;
+    right: 0.5em;
+}
+
+.settings {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 1em;
+    padding: 2em 0 0 0;
+    header {
+        grid-column: 1/-1;
+        font-size: 18pt;
+    }
+
+    input {
+        padding: 0.5em;
+        border-radius: 5px;
+        margin: 0 1em;
+    }
+}

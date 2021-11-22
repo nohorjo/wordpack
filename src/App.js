@@ -9,7 +9,7 @@ import Learn from './Learn';
 import Test from './Test';
 import Settings from './Settings';
 
-import './App.css';
+import './App.scss';
 
 const routes = [
     {path: '/', component: Menu, exact: true},
