@@ -49,9 +49,13 @@ export default class Learn extends Component {
                 </div>
             );
         } else if (word) {
-            const picks = ["word", "translation"];
-            if (word.transliteration) picks.push('transliteration');
-            const [toShow, toTest] = randomSort(picks);
+            let toShow = 'translation';
+            let toTest = 'word';
+            if (this.lang !== 'classical arabic') {
+                const picks = ["word", "translation"];
+                if (word.transliteration) picks.push('transliteration');
+                ([toShow, toTest] = randomSort(picks));
+            }
 
             const choices = [word];
 

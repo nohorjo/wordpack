@@ -1,10 +1,30 @@
+const Papa = require('papaparse');
+
 export const listLanguages = () => fetch('/entities/languages.json', {cache: "no-store"})
                                     .then(resp => resp.json());
 
 export const getWords = async language => {
     console.log(`Loading ${language}`);
 
-    const words = await fetch(`/entities/${language}.json`).then(resp => resp.json());
+    let words;
+    if (language === 'classical arabic') {
+        try {
+            words = await new Promise((resolve, reject) => {
+                Papa.parse('https://docs.google.com/spreadsheets/d/13qeJ4lOjgDuK2g6EMJlAN6JNaVSNayfi_eH0Pg85cWs/export?format=csv', {
+                    download: true,
+                    header: true,
+                    complete: results => resolve(results.data),
+                    error: reject,
+                });
+            });
+            localStorage.setItem('classical_arabic_words', JSON.stringify(words));
+        } catch (e) {
+            words = JSON.parse(localStorage.getItem('classical_arabic_words'));
+        }
+    } else {
+        words = await fetch(`/entities/${language}.json`).then(resp => resp.json());
+    }
+
     const weights = JSON.parse(localStorage.getItem(`${language}_weights`) || '[]');
 
     return words.map((w, i) => ({
