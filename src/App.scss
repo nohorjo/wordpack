@@ -20,6 +20,12 @@
         top: 0;
         left: 0;
         margin-top: 0;
+        &.milestone {
+            border-color: #9d8ca7;
+            border-left: none;
+            border-right: none;
+            width: 2px;
+        }
     }
     .langName {
         padding-top: 0.5em;
