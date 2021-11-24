@@ -45,6 +45,24 @@ export default class Menu extends Component {
                         }}
                     >
                         <hr
+                            className="progressBar milestone"
+                            style={{
+                                left: '25%',
+                            }}
+                        />
+                        <hr
+                            className="progressBar milestone"
+                            style={{
+                                left: '50%',
+                            }}
+                        />
+                        <hr
+                            className="progressBar milestone"
+                            style={{
+                                left: '75%',
+                            }}
+                        />
+                        <hr
                             className="progressBar"
                             style={{
                                 width: `${getProgess(lang)}%`,
