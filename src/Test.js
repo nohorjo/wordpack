@@ -53,7 +53,7 @@ export default class Learn extends Component {
             if (word.transliteration) picks.push('transliteration');
             const [toShow, toTest] = randomSort(picks);
 
-            const choices = [word];
+            let choices = [word];
 
             do {
                 const choice = words[Math.random() * this.wordsToTest | 0];
@@ -62,11 +62,28 @@ export default class Learn extends Component {
                 }
             } while (choices.length < this.testOptionsCount);
 
+            // sort from shortest to longest choice
+            choices.sort((a, b) => a[toTest].length - b[toTest].length);
+
+            // Cut in half and randomise each half
+            const left = randomSort(choices.splice(0, choices.length / 2));
+            const right = randomSort([...choices]);
+            choices = [];
+
+            // zip the two back together to optimise column widths
+            right.forEach((r, i) => {
+                choices.push(r);
+                const l = left[i];
+                if (l) {
+                    choices.push(l);
+                }
+            });
+
             return (
                 <div className="test">
                     <span>{word[toShow]}</span>
                     <div className="options">
-                        {randomSort(choices).map((option, i) => (
+                        {choices.map((option, i) => (
                             <span
                                 className="button"
                                 key={`test_option_${i}`}
