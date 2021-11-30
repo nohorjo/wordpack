@@ -57,7 +57,10 @@ export default class Learn extends Component {
 
             do {
                 const choice = words[Math.random() * this.wordsToTest | 0];
-                if (choices.every(c => c.translation !== choice.translation)) {
+                if (choices.every(c => (
+                    c.translation !== choice.translation
+                    && c.word !== choice.word
+                ))) {
                     choices.push(choice);
                 }
             } while (choices.length < this.testOptionsCount);
