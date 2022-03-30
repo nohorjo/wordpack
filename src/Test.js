@@ -101,8 +101,8 @@ export default class Learn extends Component {
                                             score: score + 1,
                                         });
                                     } else {
-                                        let alertMessage = `Correct answer: ${word[toTest]}`;
-                                        if (!--word.weight) alertMessage += ". This word will be placed back in the learn group";
+                                        let alertMessage = `You picked "${option[toTest]}", which is "${option[toShow]}".\nCorrect answer: ${word[toTest]}`;
+                                        if (!--word.weight) alertMessage += "\nThis word will be placed back in the learn group";
                                         alert(alertMessage);
                                     }
                                     saveWords(this._allWords, this.lang);
