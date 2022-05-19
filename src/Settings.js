@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { version } from '../package.json';
 
 export default class Menu extends Component {
 
@@ -101,6 +102,8 @@ export default class Menu extends Component {
                     };
                     reader.readAsText(e.target.files[0]);
                 }}/>
+                <span>App version</span>
+                <span>{version}</span>
             </div>
         );
     }
