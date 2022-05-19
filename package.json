@@ -1,6 +1,6 @@
 {
   "name": "wordpack",
-  "version": "2.0.1",
+  "version": "2.0.5",
   "private": true,
   "dependencies": {
     "node-sass": "4.14.1",
@@ -15,7 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "prebuild": "npm version patch"
+    "prebuild": "npm version patch --allow-same-version=false --git-tag-version=false"
   },
   "eslintConfig": {
     "extends": "react-app"
