@@ -17,7 +17,7 @@ export default class Learn extends Component {
         };
         getWords(this.lang).then(ws => {
             this._allWords = ws;
-            const words = ws.filter(w => w.weight)
+            const words = randomSort(ws.filter(w => w.weight))
                             .sort((a, b) => a.weight * Math.random() - (b.weight * Math.random()))
                             .slice(0, this.wordsToTest);
             if (words.length < this.wordsToTest) {
