@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
+import { setItem } from "./utils";
+
 import {
     listLanguages,
     getProgess,
@@ -40,7 +42,7 @@ export default class Menu extends Component {
                         key={`lang_${lang}`}
                         className="menuItem"
                         onClick={() => {
-                            localStorage.setItem('lastLang', [...new Set(`${lang},${lastLang}`.split(','))].join());
+                            setItem('lastLang', [...new Set(`${lang},${lastLang}`.split(','))].join());
                             this.setState({lastLang: lang});
                         }}
                     >

@@ -1,6 +1,6 @@
 {
   "name": "wordpack",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "private": true,
   "dependencies": {
     "papaparse": "^5.3.1",

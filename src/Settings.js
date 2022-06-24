@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+
+import { setItem, userDataApi } from "./utils";
 import { version } from '../package.json';
 
 export default class Menu extends Component {
@@ -9,6 +11,7 @@ export default class Menu extends Component {
             entitiesToLearn: +localStorage.getItem("entitiesToLearn") || 10,
             wordsToTest: +localStorage.getItem("wordsToTest") || 10,
             testOptionsCount: +localStorage.getItem("testOptionsCount") || 10,
+            userKey: localStorage.getItem('userKey') || '',
         };
     }
 
@@ -18,6 +21,7 @@ export default class Menu extends Component {
             entitiesToLearn,
             wordsToTest,
             testOptionsCount,
+            userKey,
         } = this.state;
 
         return (
@@ -30,7 +34,7 @@ export default class Menu extends Component {
                     min={1}
                     onChange={({target:{value, min}}) => {
                         if (+value >= +min) {
-                            localStorage.setItem('entitiesToLearn', value);
+                            setItem('entitiesToLearn', value);
                         }
                         this.setState({entitiesToLearn: value});
                     }}
@@ -42,7 +46,7 @@ export default class Menu extends Component {
                     min={2}
                     onChange={({target:{value, min}}) => {
                         if (+value >= +min) {
-                            localStorage.setItem('wordsToTest', value);
+                            setItem('wordsToTest', value);
                         }
                         this.setState({wordsToTest: value});
                     }}
@@ -54,7 +58,7 @@ export default class Menu extends Component {
                     min={2}
                     onChange={({target:{value, min}}) => {
                         if (+value >= +min) {
-                            localStorage.setItem('testOptionsCount', value);
+                            setItem('testOptionsCount', value);
                         }
                         this.setState({testOptionsCount: value});
                     }}
@@ -97,11 +101,32 @@ export default class Menu extends Component {
                     const reader = new FileReader();
                     reader.onload = () => {
                         const data = JSON.parse(reader.result);
-                        Object.entries(data).forEach(([k, v]) => localStorage.setItem(k, v));
+                        Object.entries(data).forEach(([k, v]) => setItem(k, v));
                         alert('Imported successfully');
                     };
                     reader.readAsText(e.target.files[0]);
                 }}/>
+                <span>User</span>
+                <div className="userinput">
+                    <input
+                        value={userKey}
+                        onChange={({target:{value}}) => {
+                            this.setState({userKey: value});
+                        }}
+                    />
+                    <input
+                        type="button"
+                        onClick={() => {
+                            if (window.confirm(`Are you sure you want to set your user ID to ${userKey}?`)) {
+                                userDataApi.delete().then(() => {
+                                    localStorage.setItem('userKey', userKey);
+                                    userDataApi.set();
+                                });
+                            }
+                        }}
+                        value="Save"
+                    />
+                </div>
                 <span>App version</span>
                 <span>{version}</span>
             </div>

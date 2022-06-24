@@ -1,4 +1,6 @@
-const Papa = require('papaparse');
+import Papa from 'papaparse';
+
+import { setItem } from "./utils";
 
 export const listLanguages = () => fetch('/entities/languages.json', {cache: "no-store"})
                                     .then(resp => resp.json());
@@ -35,7 +37,7 @@ export const getWords = async language => {
 
 export const saveWords = (words, language) => {
     console.log(`Saving ${language}`);
-    localStorage.setItem(`${language}_weights`, JSON.stringify(words.map(w => w.weight || 0)));
+    setItem(`${language}_weights`, JSON.stringify(words.map(w => w.weight || 0)));
 };
 
 export const getProgess = language => {
@@ -66,5 +68,5 @@ export const getPhrases = lang => fetch(`/entities/${lang}_phrases.json`).then(r
 export const savePhrases = (phraseData, lang) => {
     console.log('Saving phrases', lang);
 
-    localStorage.setItem(`${lang}_phrases`, JSON.stringify(phraseData.map(p => !!p.learned)));
+    setItem(`${lang}_phrases`, JSON.stringify(phraseData.map(p => !!p.learned)));
 };

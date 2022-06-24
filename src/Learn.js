@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import { setItem } from "./utils";
+
 import {
     getWords,
     saveWords,
@@ -97,7 +99,7 @@ export default class Learn extends Component {
                     <span
                         onClick={() => {
                             this.setState({showLang: !showLang});
-                            localStorage.setItem('showLang', !showLang);
+                            setItem('showLang', !showLang);
                         }}
                     >
                         <input
