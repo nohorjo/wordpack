@@ -29,6 +29,9 @@
     }
     .langName {
         padding-top: 0.5em;
+        sup {
+            font-size: 10pt;
+        }
     }
     >.menuItem {
         padding: 0.5em;

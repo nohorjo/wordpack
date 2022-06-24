@@ -38,10 +38,16 @@ export const saveWords = (words, language) => {
     localStorage.setItem(`${language}_weights`, JSON.stringify(words.map(w => w.weight || 0)));
 };
 
-export const getProgess = language => {
+export const getProgess = (language, asPercentage = true) => {
     const weights = JSON.parse(localStorage.getItem(`${language}_weights`) || '[]');
+    const completed = weights.filter(w => w).length;
+    const total = weights.length;
     
-    return ((weights.filter(w => w).length/weights.length) || 0) * 100;
+    if (asPercentage) {
+        return ((completed / total) || 0) * 100;
+    } else if (total) {
+        return `${completed}/${total}`;
+    }
 };
 
 export const averageScore = language => {

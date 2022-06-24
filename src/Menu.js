@@ -71,7 +71,7 @@ export default class Menu extends Component {
                         <div
                             className="langName"
                         >
-                            {lang}
+                            {lang} <sup>{getProgess(lang, false)}</sup>
                         </div>
                         <div
                             className="buttonsContainer"
