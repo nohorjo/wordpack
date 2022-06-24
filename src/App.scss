@@ -146,4 +146,11 @@ input[type="button"].red,
         border-radius: 5px;
         margin: 0 1em;
     }
+
+    .userinput {
+        display: flex;
+        >:first-child {
+            flex: 1;
+        }
+    }
 }
