@@ -116,12 +116,16 @@ export default class Menu extends Component {
                     />
                     <input
                         type="button"
-                        onClick={() => {
+                        onClick={async () => {
                             if (window.confirm(`Are you sure you want to set your user ID to ${userKey}?`)) {
-                                userDataApi.delete().then(() => {
-                                    localStorage.setItem('userKey', userKey);
-                                    userDataApi.set();
-                                });
+                                await userDataApi.delete();
+                                localStorage.setItem('userKey', userKey);
+                                const existing = await userDataApi.get(userKey);
+                                if (existing) {
+                                    Object.entries(existing).forEach(([k, v]) => localStorage.setItem(k, v));
+                                } else {
+                                    await userDataApi.set();
+                                }
                             }
                         }}
                         value="Save"
