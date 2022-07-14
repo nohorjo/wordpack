@@ -27,7 +27,7 @@ export const getWords = async language => {
         words = await fetch(`/entities/${language}.json`).then(resp => resp.json());
     }
 
-    const weights = JSON.parse(localStorage.getItem(`${language}_weights`) || '[]');
+    const weights = JSON.parse(localStorage.getItem(`${encodeURIComponent(language)}_weights`) || '[]');
 
     return words.map((w, i) => ({
         ...w,
@@ -41,13 +41,13 @@ export const saveWords = (words, language) => {
 };
 
 export const getProgess = language => {
-    const weights = JSON.parse(localStorage.getItem(`${language}_weights`) || '[]');
+    const weights = JSON.parse(localStorage.getItem(`${encodeURIComponent(language)}_weights`) || '[]');
     
     return ((weights.filter(w => w).length/weights.length) || 0) * 100;
 };
 
 export const averageScore = language => {
-    let weights = JSON.parse(localStorage.getItem(`${language}_weights`) || '[]')
+    let weights = JSON.parse(localStorage.getItem(`${encodeURIComponent(language)}_weights`) || '[]')
         .filter(x => x)
         .sort()
         .reverse();

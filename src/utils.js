@@ -10,7 +10,7 @@ export function randomSort(array) {
 }
 
 export function setItem(key, value) {
-  localStorage.setItem(key, value);
+  localStorage.setItem(encodeURIComponent(key), value);
 
   userDataApi.set(`${localStorage.getItem('userKey')}/${key}`, value);
 }
