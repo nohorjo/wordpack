@@ -124,7 +124,9 @@ export default class Learn extends Component {
                                 className="trans"
                                 onClick={() => this.setState({showTransliteration: true})}
                             >
-                                {showTransliteration ? entity.transliteration : "Show transliteration"}
+                                {showTransliteration ? entity.transliteration : `Show ${
+                                    this.lang === 'classical arabic' ? 'example' : 'transliteration'
+                                }`}
                             </span>
                         )}
                     <div className="controls">

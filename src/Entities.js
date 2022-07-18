@@ -19,6 +19,10 @@ export const getWords = async language => {
                     error: reject,
                 });
             });
+            const verses = await fetch(`/entities/classical arabic_phrases.json`)
+                .then(resp => resp.json())
+                .then(r => r.map(v => v.translation));
+            words.forEach(w => w.transliteration = verses.find(v => v.includes(w.translation)));
             localStorage.setItem('classical_arabic_words', JSON.stringify(words));
         } catch (e) {
             words = JSON.parse(localStorage.getItem('classical_arabic_words'));
