@@ -10,9 +10,12 @@ export function randomSort(array) {
 }
 
 export function setItem(key, value) {
-  localStorage.setItem(encodeURIComponent(key), value);
+  key = encodeURIComponent(key);
+  if (localStorage.getItem(key) !== value) {
+    localStorage.setItem(key, value);
 
-  userDataApi.set(`${localStorage.getItem('userKey')}/${key}`, value);
+    userDataApi.set(`${localStorage.getItem('userKey')}/${key}`, value);
+  }
 }
 
 const USER_DATA_API_BASE = 'http://data.muhammedhaque.co.uk/wordpack/users';
