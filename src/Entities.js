@@ -11,6 +11,9 @@ export const getWords = async language => {
     let words;
     if (language === 'classical arabic') {
         try {
+            const verses = fetch(`/entities/classical arabic_phrases.json`)
+                .then(resp => resp.json())
+                .then(r => r.map(v => v.translation));
             words = await new Promise((resolve, reject) => {
                 Papa.parse('https://docs.google.com/spreadsheets/d/13qeJ4lOjgDuK2g6EMJlAN6JNaVSNayfi_eH0Pg85cWs/export?format=csv', {
                     download: true,
@@ -19,10 +22,9 @@ export const getWords = async language => {
                     error: reject,
                 });
             });
-            const verses = await fetch(`/entities/classical arabic_phrases.json`)
-                .then(resp => resp.json())
-                .then(r => r.map(v => v.translation));
-            words.forEach(w => w.transliteration = verses.find(v => v.includes(w.translation)));
+            for (const w of words) {
+                w.transliteration = (await verses).find(v => v.includes(w.translation))
+            }
             localStorage.setItem('classical_arabic_words', JSON.stringify(words));
         } catch (e) {
             words = JSON.parse(localStorage.getItem('classical_arabic_words'));
