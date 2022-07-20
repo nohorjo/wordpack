@@ -5,15 +5,27 @@ import { setItem } from "./utils";
 export const listLanguages = () => fetch('/entities/languages.json', {cache: "no-store"})
                                     .then(resp => resp.json());
 
+const verses = Promise.resolve(localStorage.getItem('classical_arabic_phrases')).then(r => {
+    if (!r) {
+        return fetch(`/entities/classical arabic_phrases.json`)
+            .then(resp => resp.json())
+            .then(r => {
+                const _verses = r.map(v => v.translation);
+                localStorage.setItem('classical_arabic_phrases', JSON.stringify(_verses));
+
+                return _verses;
+            });
+    }
+
+    return JSON.parse(r);
+});
+
 export const getWords = async language => {
     console.log(`Loading ${language}`);
 
     let words;
     if (language === 'classical arabic') {
         try {
-            const verses = fetch(`/entities/classical arabic_phrases.json`)
-                .then(resp => resp.json())
-                .then(r => r.map(v => v.translation));
             words = await new Promise((resolve, reject) => {
                 Papa.parse('https://docs.google.com/spreadsheets/d/13qeJ4lOjgDuK2g6EMJlAN6JNaVSNayfi_eH0Pg85cWs/export?format=csv', {
                     download: true,
