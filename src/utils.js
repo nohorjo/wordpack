@@ -26,11 +26,13 @@ export const userDataApi = {
     path = localStorage.getItem('userKey'),
     value = localStorage,
   ) => {
-    value = {
-      ...value,
-      classical_arabic_words: undefined,
-      classical_arabic_phrases: undefined,
-    };
+    if (value.classical_arabic_words) {
+      value = {
+        ...value,
+        classical_arabic_words: undefined,
+        classical_arabic_phrases: undefined,
+      };
+    }
     return fetch(`${USER_DATA_API_BASE}/${path}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
