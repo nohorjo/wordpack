@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, useEffect, useState } from 'react';
 
 import { getWords, saveWords } from './Entities';
 import { randomSort } from './utils';
@@ -14,6 +14,7 @@ export default class Learn extends Component {
             words: [],
             index: 0,
             score: 0,
+            showHint: false,
         };
         getWords(this.lang).then(ws => {
             this._allWords = ws;
@@ -34,6 +35,7 @@ export default class Learn extends Component {
             words,
             index,
             score,
+            showHint,
         } = this.state;
 
         const word = words[index];
@@ -51,68 +53,41 @@ export default class Learn extends Component {
         } else if (word) {
             let toShow = 'translation';
             let toTest = 'word';
-            if (this.lang !== 'classical arabic') {
-                const picks = ["word", "translation"];
+            let hint;
+            if (this.lang === 'classical arabic') {
+                hint = 'transliteration';
+            } else {
+                const picks = ['word', 'translation'];
                 if (word.transliteration) picks.push('transliteration');
                 ([toShow, toTest] = randomSort(picks));
+                hint = picks[2];
             }
 
-            let choices = [word];
-
-            do {
-                const choice = words[Math.random() * this.wordsToTest | 0];
-                if (choices.every(c => (
-                    c.translation !== choice.translation
-                    && c.word !== choice.word
-                ))) {
-                    choices.push(choice);
-                }
-            } while (choices.length < this.testOptionsCount);
-
-            // sort from shortest to longest choice
-            choices.sort((a, b) => a[toTest].length - b[toTest].length);
-
-            // Cut in half and randomise each half
-            const left = randomSort(choices.splice(0, choices.length / 2));
-            const right = randomSort([...choices]);
-            choices = [];
-
-            // zip the two back together to optimise column widths
-            right.forEach((r, i) => {
-                choices.push(r);
-                const l = left[i];
-                if (l) {
-                    choices.push(l);
-                }
-            });
 
             return (
                 <div className="test">
-                    <span>{word[toShow]}</span>
-                    <div className="options">
-                        {choices.map((option, i) => (
-                            <span
-                                className="button"
-                                key={`test_option_${i}`}
-                                onClick={() => {
-                                    if (option === word) {
-                                        word.weight++;
-                                        this.setState({
-                                            score: score + 1,
-                                        });
-                                    } else {
-                                        let alertMessage = `You picked "${option[toTest]}", which is "${option[toShow]}".\nCorrect answer: ${word[toTest]}`;
-                                        if (!--word.weight) alertMessage += "\nThis word will be placed back in the learn group";
-                                        alert(alertMessage);
-                                    }
-                                    saveWords(this._allWords, this.lang);
-                                    this.setState({
-                                        index: index + 1,
-                                    });
-                                }}
-                        >{option[toTest]}</span>
-                        ))}
-                    </div>
+                    <span
+                        onClick={() => {
+                            this.setState({showHint: true});
+                            setTimeout(() => this.setState({showHint: false}), 3000);
+                        }}
+                    >{word[hint && showHint ? hint : toShow]}</span>
+                    <Options
+                        words={words}
+                        word={word}
+                        toTest={toTest}
+                        toShow={toShow}
+                        wordsToTest={this.wordsToTest}
+                        testOptionsCount={this.testOptionsCount}
+                        lang={this.lang}
+                        allWords={this._allWords}
+                        next={isCorrect => {
+                            this.setState({
+                                index: index + 1,
+                                score: score + +isCorrect,
+                            });
+                        }}
+                    ></Options>
                     <span>Question {index + 1} of {this.wordsToTest}</span>
                 </div>
             );
@@ -122,4 +97,64 @@ export default class Learn extends Component {
     }
 
 };
+
+function Options({words, word, next, toTest, toShow, wordsToTest, testOptionsCount, lang, allWords}) {
+    const [choices, setChoices] = useState([]);
+    useEffect(() => {
+        let _choices = [word];
+
+        do {
+            const choice = words[Math.random() * wordsToTest | 0];
+            if (_choices.every(c => (
+                c.translation !== choice.translation
+                && c.word !== choice.word
+            ))) {
+                _choices.push(choice);
+            }
+        } while (_choices.length < testOptionsCount);
+
+        // sort from shortest to longest choice
+        _choices.sort((a, b) => a[toTest].length - b[toTest].length);
+
+        // Cut in half and randomise each half
+        const left = randomSort(_choices.splice(0, _choices.length / 2));
+        const right = randomSort([..._choices]);
+        _choices = [];
+
+        // zip the two back together to optimise column widths
+        right.forEach((r, i) => {
+            _choices.push(r);
+            const l = left[i];
+            if (l) {
+                _choices.push(l);
+            }
+        });
+
+        setChoices(_choices);
+    }, [testOptionsCount, toTest, word, words, wordsToTest]);
+
+    return (
+        <div className="options">
+            {choices.map((option, i) => (
+                <span
+                    className="button"
+                    key={`test_option_${i}`}
+                    onClick={() => {
+                        let isCorrect = false;
+                        if (option === word) {
+                            word.weight++;
+                            isCorrect = true;
+                        } else {
+                            let alertMessage = `You picked "${option[toTest]}", which is "${option[toShow]}".\nCorrect answer: ${word[toTest]}`;
+                            if (!--word.weight) alertMessage += "\nThis word will be placed back in the learn group";
+                            alert(alertMessage);
+                        }
+                        saveWords(allWords, lang);
+                        next(isCorrect);
+                    }}
+            >{option[toTest]}</span>
+            ))}
+        </div>
+    );
+}
 
