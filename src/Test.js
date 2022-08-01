@@ -85,6 +85,7 @@ export default class Learn extends Component {
                             this.setState({
                                 index: index + 1,
                                 score: score + +isCorrect,
+                                showHint: false,
                             });
                         }}
                     ></Options>
