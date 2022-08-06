@@ -15,6 +15,7 @@ export default class Learn extends Component {
             index: 0,
             score: 0,
             showHint: false,
+            hintShown: false,
         };
         getWords(this.lang).then(ws => {
             this._allWords = ws;
@@ -36,6 +37,7 @@ export default class Learn extends Component {
             index,
             score,
             showHint,
+            hintShown,
         } = this.state;
 
         const word = words[index];
@@ -75,6 +77,7 @@ export default class Learn extends Component {
                         testOptionsCount={this.testOptionsCount}
                         lang={this.lang}
                         allWords={this._allWords}
+                        hintShown={hintShown}
                         next={isCorrect => {
                             this.setState({
                                 index: index + 1,
@@ -93,7 +96,7 @@ export default class Learn extends Component {
 
 };
 
-function Options({words, word, next, toTest, toShow, wordsToTest, testOptionsCount, lang, allWords}) {
+function Options({words, word, next, toTest, toShow, wordsToTest, testOptionsCount, lang, allWords, hintShown}) {
     const [choices, setChoices] = useState([]);
     useEffect(() => {
         let _choices = [word];
@@ -137,7 +140,7 @@ function Options({words, word, next, toTest, toShow, wordsToTest, testOptionsCou
                     onClick={() => {
                         let isCorrect = false;
                         if (option === word) {
-                            word.weight++;
+                            word.weight += hintShown ? 1 : 2;
                             isCorrect = true;
                         } else {
                             let alertMessage = `You picked "${option[toTest]}", which is "${option[toShow]}".\nCorrect answer: ${word[toTest]}`;
