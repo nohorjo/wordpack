@@ -1,6 +1,6 @@
 {
   "name": "wordpack",
-  "version": "2.0.16",
+  "version": "2.0.18",
   "private": true,
   "dependencies": {
     "node-sass": "4.14.1",
