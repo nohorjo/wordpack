@@ -35,7 +35,11 @@ export const getWords = async language => {
                 });
             });
             for (const w of words) {
-                w.transliteration = (await verses).find(v => v.includes(w.translation))
+                const verse = (await verses).find(v => v.includes(w.translation));
+                if (verse) {
+                    const versePart = verse.split(/[ۜۛۚۙۘۗۖ]/g).find(vp => vp.includes(w.translation));
+                    w.transliteration = versePart;
+                }
             }
             localStorage.setItem('classical_arabic_words', JSON.stringify(words));
         } catch (e) {
